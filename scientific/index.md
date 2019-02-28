@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Scientific Programming
 ---
+
+# Scientific Programming
 
 Engels
 

@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Fulltime
 ---
 
 # Fulltime Minor

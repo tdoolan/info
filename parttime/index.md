@@ -1,4 +1,9 @@
-# Fulltime Minor
+---
+layout: page
+---
+
+
+# Parttime vakken
 
 We bieden onze vakken ook flexibel aan. Je kunt zo de minor verspreiden over meerdere semesters. Maar je kunt bijvoorbeeld ook alleen het eerste deel van de vakken doen. Dit is een goed alternatief als het je niet lukt om de minor fulltime te doen. Je krijgt meer vrijheid om je tijd in te delen.
 
