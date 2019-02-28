@@ -2,8 +2,8 @@ div.gallery img
 {
     display:inline-block;
     margin-right:1em;
-    max-width:10em;
-    max-height:10em;
+    max-width:7rem;
+    max-height:7rem;
 }
 
 .page-title
