@@ -1,4 +1,7 @@
-# Scientific Programming
+---
+layout: page
+title: Scientific Programming
+---
 
 Engels
 
