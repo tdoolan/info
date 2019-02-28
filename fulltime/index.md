@@ -4,7 +4,7 @@ layout: page
 
 # Fulltime Minor
 
-De minor is een programma van 30 studiepunten dat je in een halfjaar volgt. Je leert eerst uitgebreid de basis van programmeren (en meteen hoe een computer werkt), daarna ga je je specialiseren in het ontwikkelen van webapplicaties. Ondertussen leer je over algoritmen, over teamwork, over ontwerpen van software, en over allerlei andere dingen.
+De minor is een programma van 30 studiepunten dat je in een halfjaar volgt. Je leert eerst uitgebreid de basis van programmeren (en meteen hoe een computer werkt), daarna ga je je specialiseren in het ontwikkelen van webapplicaties. Ondertussen leer je over algoritmen, over teamwork, en over ontwerpen van software.
 
 ## Het programma
 
@@ -14,7 +14,9 @@ De minor is een programma van 30 studiepunten dat je in een halfjaar volgt. Je l
 - **Studielast**: vijf maanden fulltime, gemiddeld 40–45 uur per week
 - **Aanwezigheid**: verplicht dagelijks 9:00–17:00 (sorry, geen uitzonderingen!)
 
-Je komt vijf maanden fulltime bij ons studeren. Tijdens de eerste vakken gaat het om jouw eigen programmeervaardigheid, dus heb je alleen maar individuele opdrachten. Je wordt wel ingedeeld in een team, waarmee je elke dag lief en leed kunt delen. Want programmeren kan, zeker in dit hoge tempo, flink frustrerend zijn! Dit programma is niet te combineren met andere vakken of afstuderen—studenten zijn ongeveer 40 uur per week kwijt aan dit programma.
+Je komt vijf maanden fulltime bij ons studeren. Tijdens de eerste vakken gaat het om jouw eigen programmeervaardigheid, dus heb je alleen maar individuele opdrachten. Je wordt wel ingedeeld in een team, waarmee je elke dag lief en leed kunt delen. Want programmeren kan, zeker in dit hoge tempo, flink frustrerend zijn!
+
+Dit programma is niet te combineren met andere vakken of afstuderen—studenten zijn ongeveer 40 uur per week kwijt aan dit programma.
 
 ## Thema: webprogrammeren
 
