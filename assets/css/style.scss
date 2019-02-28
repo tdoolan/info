@@ -1,9 +1,15 @@
----
----
+//---
+//---
+//
+//@import "{{ site.theme }}";
+//
+//h2, h3
+//{
+//    margin: 2em 0 1em;
+//}
 
-@import "{{ site.theme }}";
-
-h2, h3
+div.gallery img
 {
-	margin: 2em 0 1em;
+    max-width:10em;
+    max-height:10em;
 }
