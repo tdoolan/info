@@ -2,7 +2,7 @@
 layout: page
 ---
 
-# Fulltime Minor
+# Fulltime minor
 
 De minor is een programma van 30 studiepunten dat je in een halfjaar volgt. Je leert eerst uitgebreid de basis van programmeren (en meteen hoe een computer werkt), daarna ga je je specialiseren in het ontwikkelen van webapplicaties. Ondertussen leer je over algoritmen, over teamwork, en over ontwerpen van software.
 
