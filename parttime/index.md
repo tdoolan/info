@@ -4,47 +4,71 @@ order: 2
 ---
 
 
-# Parttime vakken
+# Parttime-vakken
+
+- **Planning**: losse vakken naar keuze semester 1 en/of semester 2
+    - semester 1: 2 september 2019 – 31 januari 2020
+    - semester 2: 3 februari 2020 – 26 juni 2020
+- **Studielast**: normaal 20–25 uur per week, maar het laatste vak is alleen fulltime te volgen
+- **Aanwezigheid**: afhankelijk van het vak wekelijks ca 6-10 uur aan verplichte activiteiten, zie ook het rooster
 
 We bieden onze vakken ook flexibel aan. Je kunt zo de minor verspreiden over meerdere semesters. Maar je kunt bijvoorbeeld ook alleen het eerste deel van de vakken doen. Dit is een goed alternatief als het je niet lukt om de minor fulltime te doen. Je krijgt meer vrijheid om je tijd in te delen.
 
-## Het programma
-
-- **Studielast**: normaal 20–25 uur per week, maar het eindproject is fulltime
-- **Aanwezigheid**: afhankelijk van het vak wekelijks enkele verplichte activiteiten, zie ook het rooster
-- **Practicum**: op diverse momenten in de week is een gepland practicum waar je terecht kunt (nader bekend te maken)
-
-Je kunt de vakken vrij flexibel indelen, maar let op! Bij de latere vakken zit ook teamwork, dus het is wel belangrijk om zelf ook flexibel te zijn met je tijdsindeling. Heb je echt weinig tijd, dan zijn onze vakken waarschijnlijk niet voor jou.
-
-Hieronder vind je het aanbod van vakken verdeeld over het studiejaar.
+Let op! Bij de latere vakken zit ook teamwork, dus het is wel belangrijk om flexibel te zijn met je tijdsindeling. Heb je echt weinig tijd, dan zijn onze vakken waarschijnlijk niet voor jou weggelegd.
 
 
-## De vakken
+## Fase 1
 
-Wil je de hele minor fulltime doen? Gebruik dan de vakcodes op de andere pagina.
+- Programmeren 1 (50621PRP6Y)
+- Programmeren 2 (50622PRP6Y)
 
-Vakcodes voor als je de minor parttime inplant volgens de voorbeelden op deze pagina:
+Allereerst ga je aan de slag met kleine en grotere opdrachten om je persoonlijke kennis en vaardigheid met het programmeren te ontwikkelen. De talen die je leert zijn onder andere C, Python, en JavaScript plus SQL, CSS, en HTML. Je wordt ingedeeld in een team, waarmee je elke dag lief en leed kunt delen. Want programmeren kan, zeker in dit hoge tempo, flink frustrerend zijn!
 
-Programmeren 1 (50621PRP6Y)
-Programmeren 2 (50622PRP6Y)
-Native App Studio (5062NAAS6Y)
-Data Processing (5062DAPR6Y)
-Programmeertheorie (5062PRTH6Y)
-Programmeerproject (5062PRPR6Y)
+We gebruiken in deze fase videocolleges van Harvard. Onderwerpen zijn bijvoorbeeld abstractie, algoritmen, datastructuren, software engineering, en webprogrammeren. Wij voegen daar persoonlijke begeleiding en tutoraat aan toe, inclusief een heleboel materialen die speciaal zijn ontwikkeld om studenten zonder voorkennis goed te laten starten met programmeren.
 
-Alle vakken zijn 6 studiepunten.
+
+## Fase 2
+
+- Web App Studio (5062WEAS6Y)
+- Programmeerproject (5062PRPR6Y)
+
+Dan volgt twee maanden webprogrammeren. Je leert verder over de *front-end* met HTML, CSS en Javascript. En je duikt de wereld van de *webservers* in met Python. Zo leer je tijdens een aantal wat grotere projecten alle aspecten kennen van het maken van goede, mooie, nuttige en interessante websites. Vervolgens ga je zelf een project definiëren en een website bouwen. We helpen je daarbij je idee vorm te geven, verder te ontwikkelen en gestructureerd omzetten in een goedwerkende webapplicatie die iedereen online kan uitproberen.
+
+
+## Fase 3
+
+- Programmeertheorie (5062PRTH6Y)
+
+In de laatste fase ga je in teams aan de slag met algoritmen en datastructuren. In dit vak is het doel om computers te gebruiken om voor mensen "onoplosbare problemen" toch tot een goed einde te brengen. Technieken uit de kunstmatige intelligentie kunnen daar goed bij helpen. Het is een project met veel verschillende cases om uit te kiezen en elk team kan volledig z'n eigen aanpak kiezen.
+
+
+## Planning
+
+We bieden de vakken op de volgende momenten aan:
+
+| periode | data              | vaknaam        | vaknaam            |  
+| ------- | ----------------- | -------------- | ------------------ |  
+| 1       | september-oktober | Programmeren 1 | Web App Studio     |  
+| 2       | november-december | Programmeren 2 | Programmeerproject |  
+| 3       | januari           |                | Programmeertheorie |  
+| 4       | februari-maart    | Programmeren 1 | Web App Studio     |  
+| 5       | april-mei         | Programmeren 2 | Programmeerproject |  
+| 6       | juni              |                | Programmeertheorie |  
+
 
 ## Volgorde van vakken
 
 Hou bij het maken van een planning rekening met de ingangseisen van de vakken. Je moet ze in deze volgorde doen:
 
-Programmeren 1
-Programmeren 2
-Data Processing, Native App Studio, Programmeertheorie
-Programmeerproject
+1. Programmeren 1
+2. Programmeren 2
+3. Web App Studio
+4. Programmeerproject
+5. Programmeertheorie
 
 
 ## Aanmelden
 
-Om je aan te melden schrijf je je in voor de vakken uit de door jou gekozen track. Waarschijnlijk moet je eerst nog een paar andere voorbereidingen treffen.
+Om je aan te melden schrijf je je per semester in voor de vakken die je wil volgen. Voordat je je kunt aanmelden moet je waarschijnlijk nog een paar andere voorbereidingen treffen.
 
+KNOP

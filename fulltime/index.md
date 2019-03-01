@@ -44,14 +44,14 @@ Semester 2
 
 | periode | data           | cursus                      |  
 | ------- | -------------- | --------------------------- |  
-| 1       | februari-maart | Fulltime Programmeren 1 + 2 |  
-| 2       | april-mei      | Fulltime Web App Studio     |  
-| 3       | juni           | Programmeertheorie           |  
+| 4       | februari-maart | Fulltime Programmeren 1 + 2 |  
+| 5       | april-mei      | Fulltime Web App Studio     |  
+| 6       | juni           | Programmeertheorie           |  
 
 
 ## Aanmelden
 
-Om je aan te melden schrijf je je in voor de vakken uit de door jou gekozen track.
+Om je aan te melden schrijf je je in voor alle losse vakken en voor de minor als geheel:
 
 - Fulltime Programmeren 1 (50621FUP6Y)
 - Fulltime Programmeren 2 (50622FUP6Y)
