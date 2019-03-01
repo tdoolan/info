@@ -5,7 +5,7 @@ order: 1
 
 # Fulltime minor
 
-This program is only offered in Dutch.
+This program is only offered to Dutch-speaking students.
 
 - **Planning**: naar keuze semester 1 of semester 2
     - semester 1: 2 september 2019 – 31 januari 2020
