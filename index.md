@@ -2,7 +2,7 @@
 layout: page
 ---
 
-# Welcome
+# Welkom
 
 <div class="gallery">
     <img src="assets/home/1473105619734.jpeg">
