@@ -5,7 +5,16 @@ order: 3
 
 # Scientific Programming
 
-We bieden onze vakken ook flexibel aan. Je kunt zo de minor verspreiden over meerdere semesters. Maar je kunt bijvoorbeeld ook alleen het eerste deel van de vakken doen. Dit is een goed alternatief als het je niet lukt om de minor fulltime te doen. Je krijgt meer vrijheid om je tijd in te delen.
+This program is offered in English to students and staff of the University of Amsterdam.
+
+- **Studielast**: normaal 20–25 uur per week, maar het eindproject is fulltime
+- **Aanwezigheid**: afhankelijk van het vak wekelijks enkele verplichte activiteiten, zie ook het rooster
+- **Practicum**: op diverse momenten in de week is een gepland practicum waar je terecht kunt (nader bekend te maken)
+
+Scientific Programming is a 12-credit course that aims to teach you to program in Python for scientific applications. We assume no programming experience and our primary goal is to help you program *well*.
+
+
+## Schedule
 
 Semester 1
 
@@ -21,27 +30,7 @@ Semester 2
 | 4      | february-march    | Scientific Programming 1 + 2 |  
 | 5      | april-may         | Data Processing              |  
 
-
-## Het programma
-
-- **Studielast**: normaal 20–25 uur per week, maar het eindproject is fulltime
-- **Aanwezigheid**: afhankelijk van het vak wekelijks enkele verplichte activiteiten, zie ook het rooster
-- **Practicum**: op diverse momenten in de week is een gepland practicum waar je terecht kunt (nader bekend te maken)
-
-Je kunt de vakken vrij flexibel indelen, maar let op! Bij de latere vakken zit ook teamwork, dus het is wel belangrijk om zelf ook flexibel te zijn met je tijdsindeling. Heb je echt weinig tijd, dan zijn onze vakken waarschijnlijk niet voor jou.
-
-Hieronder vind je het aanbod van vakken verdeeld over het studiejaar.
-
-
-## De vakken
-
-Wil je de hele minor fulltime doen? Gebruik dan de vakcodes op de andere pagina.
-
-Vakcodes voor als je de minor parttime inplant volgens de voorbeelden op deze pagina:
-
-- 50621PRP6Y Scientific Programming 1, 3 credits
-- 50622PRP6Y Scientific Programming 2, 6 credits
-- 5062DAPR6Y Data Processing, 6 credits
+All courses have online materials augmented with in-lab sessions for 4-8 hours a week. Please make sure that you have the flexibility in your schedule to attend the lab!
 
 
 ## Prerequisites
@@ -49,7 +38,12 @@ Vakcodes voor als je de minor parttime inplant volgens de voorbeelden op deze pa
 Generally speaking, there are no prerequisites to start this track. If you have taken a 3 credit course on Python programming in a scientific setting, you can possibly skip the first course. Let us know which course you took and in which programme, and we'll check it out. Other than that, note that the courses need to be taken in the order specified above!
 
 
-## Aanmelden
+## Application
 
-Om je aan te melden schrijf je je in voor de vakken uit de door jou gekozen track. Waarschijnlijk moet je eerst nog een paar andere voorbereidingen treffen.
+To enroll as a current student, use the following course codes in SIS:
 
+- 50621PRP6Y Scientific Programming 1, 3 credits
+- 50622PRP6Y Scientific Programming 2, 6 credits
+- 5062DAPR6Y Data Processing, 6 credits
+
+To enroll as UvA staff, please refer to <https://datanose.nl/#contract> and use the same course codes. You can choose to have the university to pay your course fees (this is offered by the university and the fee is not taken from your own department's budget).
