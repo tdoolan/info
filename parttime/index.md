@@ -48,22 +48,22 @@ In de laatste fase ga je in teams aan de slag met algoritmen en datastructuren. 
 
 Start in september:
 
-| periode | data              | vaknaam            |  
-| ------- | ----------------- | ------------------ |  
-| 1       | september-oktober | Programmeren 1     |  
-| 2       | november-december | Programmeren 2     |  
-| 3       | januari           | (geen vak)         |  
-| 4       | februari-maart    | Web App Studio     |  
-| 5       | april-mei         | Programmeerproject |  
-| 6       | juni              | Programmeertheorie |  
+| periode | data              | vaknaam            | studielast  |  
+| ------- | ----------------- | ------------------ | ----------- |  
+| 1       | september-oktober | Programmeren 1     | 21 uur/week |  
+| 2       | november-december | Programmeren 2     | 21 uur/week |  
+| 3       | januari           | (geen vak)         |             |  
+| 4       | februari-maart    | Web App Studio     | 21 uur/week |  
+| 5       | april-mei         | Programmeerproject | 21 uur/week |  
+| 6       | juni              | Programmeertheorie | 42 uur/week |  
 
 Start in februari:
 
-| periode | data           | vaknaam        |  
-| ------- | -------------- | -------------- |  
-| 4       | februari-maart | Programmeren 1 |  
-| 5       | april-mei      | Programmeren 2 |  
-| 6       | juni           | (geen vak)     |  
+| periode | data           | vaknaam        | studielast  |  
+| ------- | -------------- | -------------- | ----------- |  
+| 4       | februari-maart | Programmeren 1 | 21 uur/week |  
+| 5       | april-mei      | Programmeren 2 | 21 uur/week |  
+| 6       | juni           | (geen vak)     |             |  
 
 
 ## Volgorde van vakken
