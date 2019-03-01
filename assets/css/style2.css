@@ -2,14 +2,15 @@ div.gallery
 {
     margin-left:-2rem;
     margin-right:-2rem;
+    display: flex; justify-content:space-between;
+    flex-wrap: wrap;
 }
 
 div.gallery img
 {
-    display:inline-block;
-    margin-right:1em;
+    margin-left:0.25em;
+    margin-right:0.25em;
     max-width:30%;
-    max-height:30%;
     border-radius:0;
 }
 
