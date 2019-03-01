@@ -1,6 +1,7 @@
 ---
 layout: page
 order: 2
+nav: main
 ---
 
 
@@ -81,4 +82,4 @@ Hou bij het maken van een planning rekening met de ingangseisen van de vakken. J
 
 Om je aan te melden schrijf je je per semester in voor de vakken die je wil volgen. De vakcodes staan hierboven vermeld. Voordat je je kunt aanmelden moet je waarschijnlijk nog een paar andere voorbereidingen treffen.
 
-KNOP
+**Het is op dit moment nog niet mogelijk om je aan te melden voor deze minor. De aanmelding start rond 1 mei. Op deze website vind je tegen die tijd meer informatie.**

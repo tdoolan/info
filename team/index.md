@@ -1,6 +1,7 @@
 ---
 layout: page
 order: 10
+nav: second
 ---
 
 # Team
