@@ -13,6 +13,13 @@ This program is offered in English to students and staff of the University of Am
 
 Scientific Programming is a 12-credit course that aims to teach you to program in Python for scientific applications. We assume no programming experience and our primary goal is to help you program *well*.
 
+## Introduction: scientific programming
+
+...
+
+## Follow-up: data processing
+
+...
 
 ## Schedule
 
