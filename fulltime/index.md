@@ -5,55 +5,60 @@ order: 1
 
 # Fulltime minor
 
-De Minor Programmeren is een programma van 30 studiepunten dat je in een halfjaar volgt. Je leert eerst uitgebreid de basis van programmeren (en meteen hoe een computer werkt), daarna ga je je specialiseren in het ontwikkelen van webapplicaties. Ondertussen leer je over algoritmen, over teamwork, en over ontwerpen van software.
-
-Semester 1
-
-| period | dates             | course                      |  
-| ------ | ----------------- | --------------------------- |  
-| 1      | september-oktober | Fulltime Programmeren 1 + 2 |  
-| 2      | november-december | Fulltime Web App Studio     |  
-| 3      | januari           | Programmeetheorie           |  
-
-Semester 2
-
-| period | dates          | course                      |  
-| ------ | -------------- | --------------------------- |  
-| 1      | februari-maart | Fulltime Programmeren 1 + 2 |  
-| 2      | april-mei      | Fulltime Web App Studio     |  
-| 3      | juni           | Programmeetheorie           |  
-
-
-## Het programma
-
 - **Planning**: naar keuze semester 1 of semester 2
-    - semester 1: 3 september 2018 – 1 februari 2019
-    - semester 2: 4 februari 2019 – 28 juni 2019
+    - semester 1: 2 september 2019 – 31 januari 2020
+    - semester 2: 3 februari 2020 – 26 juni 2020
 - **Studielast**: vijf maanden fulltime, gemiddeld 40–45 uur per week
 - **Aanwezigheid**: verplicht dagelijks 9:00–17:00 (sorry, geen uitzonderingen!)
 
-Je komt vijf maanden fulltime bij ons studeren. Tijdens de eerste vakken gaat het om jouw eigen programmeervaardigheid, dus heb je alleen maar individuele opdrachten. Je wordt wel ingedeeld in een team, waarmee je elke dag lief en leed kunt delen. Want programmeren kan, zeker in dit hoge tempo, flink frustrerend zijn!
+De Minor Programmeren is een programma van 30 studiepunten dat je in een halfjaar volgt. Je leert eerst uitgebreid de basis van programmeren (en meteen hoe een computer werkt), daarna ga je je specialiseren in het ontwikkelen van webapplicaties. Ondertussen leer je over algoritmen, over teamwork, en over ontwerpen van software.
 
-Dit programma is niet te combineren met andere vakken of afstuderen—studenten zijn ongeveer 40 uur per week kwijt aan dit programma.
+## Fase 1
 
-## Thema: webprogrammeren
+Allereerst ga je twee maanden aan de slag met kleine en grotere opdrachten om je persoonlijke kennis en vaardigheid met het programmeren te ontwikkelen. De talen die je leert zijn onder andere C, Python, and JavaScript plus SQL, CSS, en HTML. Je wordt ingedeeld in een team, waarmee je elke dag lief en leed kunt delen. Want programmeren kan, zeker in dit hoge tempo, flink frustrerend zijn!
 
-In deze track leer je het iOS- of Android-platform kennen voor het maken van apps voor je mobiele telefoon. Je maakt allerlei apps en je sluit de minor af met een zelfbedachte en -ontworpen app die klaar is om in de app store te plaatsen.
+We gebruiken in deze fase videocolleges van Harvard. Onderwerpen zijn bijvoorbeeld abstractie, algoritmen, datastructuren, software engineering, en webprogrammeren. Wij voegen daar persoonlijke begeleiding en tutoraat aan toe, inclusief een heleboel materialen die speciaal zijn ontwikkeld om studenten zonder voorkennis goed te laten starten met programmeren.
 
-## Vakken
+## Fase 2
 
-Fulltime Programmeren 1 (50621FUP6Y)
-Fulltime Programmeren 2 (50622FUP6Y)
-Native App Studio (5062NAAS6Y)
-Programmeertheorie (5062PRTH6Y)
-Programmeerproject (5062PRPR6Y)
+Dan volgt twee maanden webprogrammeren. Je leert verder over de *front-end* met HTML, CSS en Javascript. En je duikt de wereld van de *webservers* in met Python. Zo leer je tijdens een aantal wat grotere projecten alle aspecten kennen van het maken van goede, mooie, nuttige en interessante websites.
+
+Vervolgens ga je zelf een project definiëren en een website bouwen. We helpen je daarbij je idee vorm te geven, verder te ontwikkelen en gestructureerd omzetten in een werken webapplicatie die iedereen online kan uitproberen.
+
+## Fase 3
+
+In de laatste fase ga je in teams aan de slag met algoritmen en datastructuren. In dit vak is het doel om computers te gebruiken om voor mensen "onoplosbare problemen" toch tot een goed einde te brengen. Technieken uit de kunstmatige intelligentie kunnen daar goed bij helpen. Het is een project met veel verschillende cases om uit te kiezen en elk team kan volledig z'n eigen aanpak kiezen.
 
 
-Schrijf je ook meteen in voor:
-Minor Programmeren (5062PRO30M)
+## Planning
+
+Semester 1
+
+| periode | data              | cursus                      |  
+| ------- | ----------------- | --------------------------- |  
+| 1       | september-oktober | Fulltime Programmeren 1 + 2 |  
+| 2       | november-december | Fulltime Web App Studio     |  
+| 3       | januari           | Programmeetheorie           |  
+
+Semester 2
+
+| periode | data           | cursus                      |  
+| ------- | -------------- | --------------------------- |  
+| 1       | februari-maart | Fulltime Programmeren 1 + 2 |  
+| 2       | april-mei      | Fulltime Web App Studio     |  
+| 3       | juni           | Programmeetheorie           |  
+
 
 ## Aanmelden
 
-Om je aan te melden schrijf je je in voor de vakken uit de door jou gekozen track. Waarschijnlijk moet je eerst nog een paar andere voorbereidingen treffen.
+Om je aan te melden schrijf je je in voor de vakken uit de door jou gekozen track.
+
+Fulltime Programmeren 1 (50621FUP6Y)
+Fulltime Programmeren 2 (50622FUP6Y)
+Fulltime Web App Studio (5062FWA12Y)
+Programmeertheorie (5062PRTH6Y)
+Minor Programmeren (5062PRO30M)
+
+Voordat je je kunt aanmelden voor deze vakken, moet je waarschijnlijk nog een paar andere voorbereidingen treffen.
 
 KNOP
