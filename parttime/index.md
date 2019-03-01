@@ -7,7 +7,7 @@ nav: main
 
 # Parttime-vakken
 
-This program is only offered to Dutch-speaking students.
+<small>This program is only offered to Dutch-speaking students.</small>
 
 - **Planning**: losse vakken naar keuze semester 1 en/of semester 2
     - semester 1: 2 september 2019 – 31 januari 2020
