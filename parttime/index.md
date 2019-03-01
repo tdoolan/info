@@ -13,7 +13,7 @@ nav: main
     - semester 1: 2 september 2019 – 31 januari 2020
     - semester 2: 3 februari 2020 – 26 juni 2020
 - **Studielast**: normaal 20–25 uur per week, maar het laatste vak is alleen fulltime te volgen
-- **Aanwezigheid**: afhankelijk van het vak wekelijks ca 6-10 uur aan verplichte activiteiten, zie ook het rooster
+- **Aanwezigheid**: afhankelijk van het vak wekelijks ca 6-10 uur aan verplichte activiteiten
 
 We bieden onze vakken ook flexibel aan. Je kunt zo de minor verspreiden over meerdere semesters. Maar je kunt bijvoorbeeld ook alleen het eerste deel van de vakken doen. Dit is een goed alternatief als het je niet lukt om de minor fulltime te doen. Je krijgt meer vrijheid om je tijd in te delen.
 
