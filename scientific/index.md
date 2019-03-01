@@ -5,9 +5,22 @@ order: 3
 
 # Scientific Programming
 
-Engels
-
 We bieden onze vakken ook flexibel aan. Je kunt zo de minor verspreiden over meerdere semesters. Maar je kunt bijvoorbeeld ook alleen het eerste deel van de vakken doen. Dit is een goed alternatief als het je niet lukt om de minor fulltime te doen. Je krijgt meer vrijheid om je tijd in te delen.
+
+Semester 1
+
+| period | dates             | course                       |  
+| ------ | ----------------- | ---------------------------- |  
+| 1      | september-october | Scientific Programming 1 + 2 |  
+| 2      | november-december | Data Processing              |  
+
+Semester 2
+
+| period | dates             | course                       |  
+| ------ | ----------------- | ---------------------------- |  
+| 4      | february-march    | Scientific Programming 1 + 2 |  
+| 5      | april-may         | Data Processing              |  
+
 
 ## Het programma
 

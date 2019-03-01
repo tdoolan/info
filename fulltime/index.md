@@ -7,6 +7,23 @@ order: 1
 
 De minor is een programma van 30 studiepunten dat je in een halfjaar volgt. Je leert eerst uitgebreid de basis van programmeren (en meteen hoe een computer werkt), daarna ga je je specialiseren in het ontwikkelen van webapplicaties. Ondertussen leer je over algoritmen, over teamwork, en over ontwerpen van software.
 
+Semester 1
+
+| period | dates             | course                      |  
+| ------ | ----------------- | --------------------------- |  
+| 1      | september-oktober | Fulltime Programmeren 1 + 2 |  
+| 2      | november-december | Fulltime Web App Studio     |  
+| 3      | januari           | Programmeetheorie           |  
+
+Semester 2
+
+| period | dates          | course                      |  
+| ------ | -------------- | --------------------------- |  
+| 1      | februari-maart | Fulltime Programmeren 1 + 2 |  
+| 2      | april-mei      | Fulltime Web App Studio     |  
+| 3      | juni           | Programmeetheorie           |  
+
+
 ## Het programma
 
 - **Planning**: naar keuze semester 1 of semester 2
