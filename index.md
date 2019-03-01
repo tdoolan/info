@@ -2,6 +2,8 @@
 layout: page
 ---
 
+# Welcome
+
 <div class="gallery">
     <img src="assets/home/1473105619734.jpeg">
     <img src="assets/home/1473184425537.jpeg">
