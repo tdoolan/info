@@ -10,3 +10,8 @@ div.gallery img
 {
     margin-bottom:1em;
 }
+
+.page-logo
+{
+    max-width:3rem;
+}
