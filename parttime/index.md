@@ -6,6 +6,8 @@ order: 2
 
 # Parttime-vakken
 
+This program is only offered to Dutch-speaking students.
+
 - **Planning**: losse vakken naar keuze semester 1 en/of semester 2
     - semester 1: 2 september 2019 – 31 januari 2020
     - semester 2: 3 februari 2020 – 26 juni 2020
@@ -44,16 +46,24 @@ In de laatste fase ga je in teams aan de slag met algoritmen en datastructuren. 
 
 ## Planning
 
-We bieden de vakken op de volgende momenten aan:
+Start in september:
 
-| periode | data              | vaknaam        | vaknaam            |  
-| ------- | ----------------- | -------------- | ------------------ |  
-| 1       | september-oktober | Programmeren 1 | Web App Studio     |  
-| 2       | november-december | Programmeren 2 | Programmeerproject |  
-| 3       | januari           |                | Programmeertheorie |  
-| 4       | februari-maart    | Programmeren 1 | Web App Studio     |  
-| 5       | april-mei         | Programmeren 2 | Programmeerproject |  
-| 6       | juni              |                | Programmeertheorie |  
+| periode | data              | vaknaam            |  
+| ------- | ----------------- | ------------------ |  
+| 1       | september-oktober | Programmeren 1     |  
+| 2       | november-december | Programmeren 2     |  
+| 3       | januari           | (geen vak)         |  
+| 4       | februari-maart    | Web App Studio     |  
+| 5       | april-mei         | Programmeerproject |  
+| 6       | juni              | Programmeertheorie |  
+
+Start in februari:
+
+| periode | data           | vaknaam        |  
+| ------- | -------------- | -------------- |  
+| 4       | februari-maart | Programmeren 1 |  
+| 5       | april-mei      | Programmeren 2 |  
+| 6       | juni           | (geen vak)     |  
 
 
 ## Volgorde van vakken
