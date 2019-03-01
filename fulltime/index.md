@@ -21,9 +21,7 @@ We gebruiken in deze fase videocolleges van Harvard. Onderwerpen zijn bijvoorbee
 
 ## Fase 2
 
-Dan volgt twee maanden webprogrammeren. Je leert verder over de *front-end* met HTML, CSS en Javascript. En je duikt de wereld van de *webservers* in met Python. Zo leer je tijdens een aantal wat grotere projecten alle aspecten kennen van het maken van goede, mooie, nuttige en interessante websites.
-
-Vervolgens ga je zelf een project definiëren en een website bouwen. We helpen je daarbij je idee vorm te geven, verder te ontwikkelen en gestructureerd omzetten in een werken webapplicatie die iedereen online kan uitproberen.
+Dan volgt twee maanden webprogrammeren. Je leert verder over de *front-end* met HTML, CSS en Javascript. En je duikt de wereld van de *webservers* in met Python. Zo leer je tijdens een aantal wat grotere projecten alle aspecten kennen van het maken van goede, mooie, nuttige en interessante websites. Vervolgens ga je zelf een project definiëren en een website bouwen. We helpen je daarbij je idee vorm te geven, verder te ontwikkelen en gestructureerd omzetten in een goedwerkende webapplicatie die iedereen online kan uitproberen.
 
 ## Fase 3
 
@@ -38,7 +36,7 @@ Semester 1
 | ------- | ----------------- | --------------------------- |  
 | 1       | september-oktober | Fulltime Programmeren 1 + 2 |  
 | 2       | november-december | Fulltime Web App Studio     |  
-| 3       | januari           | Programmeetheorie           |  
+| 3       | januari           | Programmeertheorie           |  
 
 Semester 2
 
@@ -46,18 +44,18 @@ Semester 2
 | ------- | -------------- | --------------------------- |  
 | 1       | februari-maart | Fulltime Programmeren 1 + 2 |  
 | 2       | april-mei      | Fulltime Web App Studio     |  
-| 3       | juni           | Programmeetheorie           |  
+| 3       | juni           | Programmeertheorie           |  
 
 
 ## Aanmelden
 
 Om je aan te melden schrijf je je in voor de vakken uit de door jou gekozen track.
 
-Fulltime Programmeren 1 (50621FUP6Y)
-Fulltime Programmeren 2 (50622FUP6Y)
-Fulltime Web App Studio (5062FWA12Y)
-Programmeertheorie (5062PRTH6Y)
-Minor Programmeren (5062PRO30M)
+- Fulltime Programmeren 1 (50621FUP6Y)
+- Fulltime Programmeren 2 (50622FUP6Y)
+- Fulltime Web App Studio (5062FWA12Y)
+- Programmeertheorie (5062PRTH6Y)
+- Minor Programmeren (5062PRO30M)
 
 Voordat je je kunt aanmelden voor deze vakken, moet je waarschijnlijk nog een paar andere voorbereidingen treffen.
 
