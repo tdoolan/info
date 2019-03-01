@@ -6,6 +6,7 @@ div.gallery
 
 div.gallery img
 {
+    display:inline;
     margin-left:0.25em;
     margin-right:0.25em;
     max-width:30%;
