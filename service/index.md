@@ -23,3 +23,7 @@ Dit is een vak uit de bachelor informatiekunde.
 ## Webprogrammeren en Databases IK
 
 Dit is een vak uit de bachelor informatiekunde.
+
+## Inleiding programmeren voor Natuur- en sterrenkunde.
+
+Dit is een vak uit de bachelor natuur- en sterrenkunde.
