@@ -4,7 +4,7 @@ order: 1
 nav: main
 ---
 
-# Fulltime minor
+# Fulltime-minor
 
 <small>This program is only offered to Dutch-speaking students.</small>
 

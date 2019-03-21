@@ -1,6 +1,7 @@
 ---
 layout: page
 order: 3
+nav: main
 ---
 
 # Scientific Programming
@@ -23,12 +24,16 @@ Scientific Programming is a 12-credit course that aims to teach you to program i
 
 ## Schedule
 
+<!--
+
 Semester 1
 
 | period | dates             | course                       |  
 | ------ | ----------------- | ---------------------------- |  
 | 1      | september-october | Scientific Programming 1 + 2 |  
 | 2      | november-december | Data Processing              |  
+
+-->
 
 Semester 2
 
