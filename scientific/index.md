@@ -4,7 +4,7 @@ order: 3
 nav: main
 ---
 
-# Scientific Programming
+# Scientific Programming (EN)
 
 This program is offered in English to students and staff of the University of Amsterdam. It will be offered from February 2020 onwards.
 
