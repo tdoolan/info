@@ -33,7 +33,7 @@ In de laatste fase ga je in teams aan de slag met algoritmen en datastructuren. 
 
 ## Planning
 
-Semester 1
+**Semester 1**
 
 | periode           | cursus                  | stp  |
 | ----------------- | ----------------------- | ---: |
@@ -44,7 +44,7 @@ Semester 1
 
 Let op verplichte aanwezigheid van 2 september t/m 31 januari. Er is geen herfstvakantie, wel kerstvakantie.
 
-Semester 2
+**Semester 2**
 
 | periode           | cursus                  | stp  |
 | ----------------- | ----------------------- | ---: |
@@ -65,4 +65,4 @@ Om je aan te melden schrijf je je in voor alle losse vakken en voor de minor als
 - Programmeertheorie (5062PRTH6Y)
 - Minor Programmeren (5062PRO30M)
 
-Voordat je je kunt aanmelden voor deze vakken, moet je waarschijnlijk nog een paar andere voorbereidingen treffen. **[Ga naar de aanmeldingspagina.](/aanmelden)***
+Voordat je je kunt aanmelden voor deze vakken, moet je waarschijnlijk nog een paar andere voorbereidingen treffen. **[Ga naar de aanmeldingspagina.](/aanmelden)**

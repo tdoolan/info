@@ -80,4 +80,4 @@ Hou bij het maken van een planning rekening met de ingangseisen van de vakken. J
 
 ## Aanmelden
 
-Om je aan te melden schrijf je je per semester in voor de vakken die je wil volgen. De vakcodes staan hierboven vermeld. Voordat je je kunt aanmelden moet je waarschijnlijk nog een paar andere voorbereidingen treffen. **[Ga naar de aanmeldingspagina.](/aanmelden)***
+Om je aan te melden schrijf je je per semester in voor de vakken die je wil volgen. De vakcodes staan hierboven vermeld. Voordat je je kunt aanmelden moet je waarschijnlijk nog een paar andere voorbereidingen treffen. **[Ga naar de aanmeldingspagina.](/aanmelden)**
