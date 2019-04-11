@@ -20,6 +20,7 @@ div.gallery img
 
 .page-logo
 {
+	display:inline;
     max-width:3rem;
 }
 
