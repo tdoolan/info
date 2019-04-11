@@ -37,7 +37,7 @@ Als je bij een andere universiteit studeert moet je een bijvakinschrijving regel
 
 1. Zorg eerst dat je bij je eigen universiteit je inschrijving voor komend studiejaar helemaal regelt, inclusief betaling of machtiging. Alleen dan kun je je aanmelden bij de UvA.
 
-2. Ga naar [Studielink](uva.studielink.nl) en vraag een bijvakinschrijving aan. Vul deze gegevens in:
+2. Ga naar [Studielink](http://uva.studielink.nl) en vraag een bijvakinschrijving aan. Vul deze gegevens in:
 
     - studieprogramma: Informatiekunde - BIJVAK
     - startdatum: 1 september 2019
@@ -62,7 +62,7 @@ Als je geen vwo-diploma hebt en je hebt geen hbo-propedeuse, dan zul je niet wor
 
 1. Zorg eerst dat je bij je eigen hogeschool je inschrijving voor komend studiejaar helemaal regelt, inclusief betaling of machtiging. Alleen dan kun je je aanmelden bij de UvA.
 
-2. Ga naar [Studielink](uva.studielink.nl) en vraag een bijvakinschrijving aan. Vul deze gegevens in:
+2. Ga naar [Studielink](http://uva.studielink.nl) en vraag een bijvakinschrijving aan. Vul deze gegevens in:
 
     - studieprogramma: Informatiekunde - BIJVAK
     - startdatum: 1 september 2019
