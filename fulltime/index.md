@@ -65,4 +65,6 @@ Om je aan te melden schrijf je je in voor alle losse vakken en voor de minor als
 - Programmeertheorie (5062PRTH6Y)
 - Minor Programmeren (5062PRO30M)
 
+Let op dat je het juiste semester kiest bij inschrijving.
+
 Voordat je je kunt aanmelden voor deze vakken, moet je waarschijnlijk nog een paar andere voorbereidingen treffen. **[Ga naar de aanmeldingspagina.](/aanmelden)**

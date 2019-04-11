@@ -71,12 +71,13 @@ Start in februari:
 
 Hou bij het maken van een planning rekening met de ingangseisen van de vakken. Je moet ze in deze volgorde doen:
 
-1. Programmeren 1
-2. Programmeren 2
-3. Web App Studio
-4. Programmeerproject
-5. Programmeertheorie
+1. Programmeren 1 (50621PRP6Y)
+2. Programmeren 2 (50622PRP6Y)
+3. Web App Studio (5062WEAS6Y)
+4. Programmeerproject (5062PRPR6Y)
+5. Programmeertheorie (5062PRTH6Y)
 
+Let op dat je het juiste semester kiest bij inschrijving.
 
 ## Aanmelden
 
