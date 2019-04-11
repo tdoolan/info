@@ -51,6 +51,8 @@ Als je bij een andere universiteit studeert moet je een bijvakinschrijving regel
 
 6. De vakinschrijving voor komend studiejaar start vanaf 13 juni 2019 en loopt door t/m eind juni. Je kunt je inschrijven via de gebruikelijke [website](https://www.uva.nl/vakaanmelden).
 
+7. Let goed op dat je bij de vakinschrijving kies voor het juiste semester: bij de meeste vakken kun je kiezen of je dit in semester 1 of in semester 2 wil volgen.
+
 ## Hogeschool
 
 Als je bij een hogeschool studeert moet je een bijvakinschrijving regelen bij de UvA. Je kunt op twee manieren worden toegelaten:
@@ -75,6 +77,8 @@ Als je geen vwo-diploma hebt en je hebt geen hbo-propedeuse, dan zul je niet wor
 5. Op Studielink kun je zien of de inschrijving volledig geregeld is. Mocht je er niet uitkomen, dan kunnen wij je misschien helpen. Stuur een mail naar <help@mprog.nl>. Als je inschrijving niet binnen een maand na verzending van je BBC bevestigd is, mail ons dan direct!
 
 6. De vakinschrijving voor komend studiejaar start vanaf 13 juni 2019 en loopt door t/m eind juni. Je kunt je inschrijven via de gebruikelijke [website](https://www.uva.nl/vakaanmelden).
+
+7. Let goed op dat je bij de vakinschrijving kies voor het juiste semester: bij de meeste vakken kun je kiezen of je dit in semester 1 of in semester 2 wil volgen.
 
 ## Particuliere opleiding
 
