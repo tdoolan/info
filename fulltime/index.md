@@ -35,20 +35,25 @@ In de laatste fase ga je in teams aan de slag met algoritmen en datastructuren. 
 
 Semester 1
 
-| periode | data              | cursus                      |  
-| ------- | ----------------- | --------------------------- |  
-| 1       | september-oktober | Fulltime Programmeren 1 + 2 |  
-| 2       | november-december | Fulltime Web App Studio     |  
-| 3       | januari           | Programmeertheorie           |  
+| periode           | cursus                  | stp  |
+| ----------------- | ----------------------- | ---: |
+| september         | Fulltime Programmeren 1 | 6    |
+| oktober           | Fulltime Programmeren 2 | 6    |
+| november-december | Fulltime Web App Studio | 12   |
+| januari           | Programmeertheorie      | 6    |
+
+Let op verplichte aanwezigheid van 2 september t/m 31 januari. Er is geen herfstvakantie, wel kerstvakantie.
 
 Semester 2
 
-| periode | data           | cursus                      |  
-| ------- | -------------- | --------------------------- |  
-| 4       | februari-maart | Fulltime Programmeren 1 + 2 |  
-| 5       | april-mei      | Fulltime Web App Studio     |  
-| 6       | juni           | Programmeertheorie           |  
+| periode           | cursus                  | stp  |
+| ----------------- | ----------------------- | ---: |
+| februari          | Fulltime Programmeren 1 | 6    |
+| maart             | Fulltime Programmeren 2 | 6    |
+| april-mei         | Fulltime Web App Studio | 12   |
+| juni              | Programmeertheorie      | 6    |
 
+Let op verplichte aanwezigheid van 3 februari t/m 26 juni. Er is waarschijnlijk een week vrij in april, dit moet nog ingepland worden (valt niet samen met de schoolvakanties).
 
 ## Aanmelden
 
@@ -60,6 +65,4 @@ Om je aan te melden schrijf je je in voor alle losse vakken en voor de minor als
 - Programmeertheorie (5062PRTH6Y)
 - Minor Programmeren (5062PRO30M)
 
-Voordat je je kunt aanmelden voor deze vakken, moet je waarschijnlijk nog een paar andere voorbereidingen treffen.
-
-**Het is op dit moment nog niet mogelijk om je aan te melden voor deze minor. De aanmelding start rond 1 mei. Op deze website vind je tegen die tijd meer informatie.**
+Voordat je je kunt aanmelden voor deze vakken, moet je waarschijnlijk nog een paar andere voorbereidingen treffen. **[Ga naar de aanmeldingspagina.](/aanmelden)***
