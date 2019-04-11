@@ -42,7 +42,7 @@ In de laatste fase ga je in teams aan de slag met algoritmen en datastructuren. 
 | november-december | Fulltime Web App Studio | 12   |
 | januari           | Programmeertheorie      | 6    |
 
-Let op verplichte aanwezigheid van 2 september t/m 31 januari. Er is geen herfstvakantie, wel kerstvakantie.
+Let op de verplichte aanwezigheid van 2 september t/m 31 januari. Er is geen herfstvakantie, wel kerstvakantie.
 
 **Semester 2**
 
@@ -53,7 +53,7 @@ Let op verplichte aanwezigheid van 2 september t/m 31 januari. Er is geen herfst
 | april-mei         | Fulltime Web App Studio | 12   |
 | juni              | Programmeertheorie      | 6    |
 
-Let op verplichte aanwezigheid van 3 februari t/m 26 juni. Er is waarschijnlijk een week vrij in april, dit moet nog ingepland worden (valt niet samen met de schoolvakanties).
+Let op de verplichte aanwezigheid van 3 februari t/m 26 juni. Er is waarschijnlijk een week vrij in april, dit moet nog ingepland worden (valt niet samen met de schoolvakanties).
 
 ## Aanmelden
 
