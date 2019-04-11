@@ -45,7 +45,7 @@ Als je bij een andere universiteit studeert moet je een bijvakinschrijving regel
 
 3. De toelating wordt automatisch geregeld zolang je een vwo-diploma met wiskunde hebt. Als je zo'n diploma niet hebt, dan kunnen we met je meedenken over het regelen van de inschrijving. Het is niet zeker dat dit mogelijk is! Mail ons op <help@mprog.nl> (korter dan twee maanden voor de start gaat dit sowieso niet meer lukken).
 
-4. Dan moet je nog bewijzen dat je collegegeld betaalt bij je eigen universiteit. Hiervoor vraag je bij de centrale studentenadministratie van je eigen universiteit een "bewijs betaald collegegeld" (BBC) op. Let op dat je die van komend studiejaar aanvraagt! Dit is een papieren document dat naar de UvA gebracht moet worden. Op [deze pagina] vind je onder stap 2 het postadres of afleveradres.
+4. Dan moet je nog bewijzen dat je collegegeld betaalt bij je eigen universiteit. Hiervoor vraag je bij de centrale studentenadministratie van je eigen universiteit een "bewijs betaald collegegeld" (BBC) op. Let op dat je die van komend studiejaar aanvraagt! Dit is een papieren document dat naar de UvA gebracht moet worden. Op [deze pagina](https://www.uva.nl/bijvak) vind je onder stap 2 het postadres of afleveradres.
 
 5. Op Studielink kun je zien of de inschrijving volledig geregeld is. Mocht je er niet uitkomen, dan kunnen wij je misschien helpen. Stuur een mail naar <help@mprog.nl>. Als je inschrijving niet binnen een maand na verzending van je BBC bevestigd is, mail ons dan direct!
 
@@ -70,7 +70,7 @@ Als je geen vwo-diploma hebt en je hebt geen hbo-propedeuse, dan zul je niet wor
 
 3. Binnen twee dagen ontvang je op je mailadres een UvA-studentnummer. Stuur ons een e-mail op <help@mprog.nl> dat je wil instromen als hbo'er. Stuur je studentnummer mee. Als je aan de voorwaarden voldoet kunnen wij voor jou verzoeken om je toelaten.
 
-4. Dan moet je nog bewijzen dat je collegegeld betaalt bij je hogeschool. Hiervoor vraag je bij de centrale studentenadministratie van de hogeschool een "bewijs betaald collegegeld" (BBC) op. Let op dat je die van komend studiejaar aanvraagt! Dit is een papieren document dat naar de UvA gebracht moet worden. Op [deze pagina] vind je onder stap 2 het postadres of afleveradres.
+4. Dan moet je nog bewijzen dat je collegegeld betaalt bij je hogeschool. Hiervoor vraag je bij de centrale studentenadministratie van de hogeschool een "bewijs betaald collegegeld" (BBC) op. Let op dat je die van komend studiejaar aanvraagt! Dit is een papieren document dat naar de UvA gebracht moet worden. Op [deze pagina](https://www.uva.nl/bijvak) vind je onder stap 2 het postadres of afleveradres.
 
 5. Op Studielink kun je zien of de inschrijving volledig geregeld is. Mocht je er niet uitkomen, dan kunnen wij je misschien helpen. Stuur een mail naar <help@mprog.nl>. Als je inschrijving niet binnen een maand na verzending van je BBC bevestigd is, mail ons dan direct!
 
