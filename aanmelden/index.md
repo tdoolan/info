@@ -13,7 +13,7 @@ De procedure verschilt afhankelijk van je inschrijving bij de universiteit.
 - [Ik ben student bij een andere universiteit](#andere-universiteit)
 - [Ik ben student bij een hogeschool](#hogeschool)
 - [Ik ben student bij een particuliere hogeschool](#particuliere-opleiding)
-- [Ik ben geen student](#geen)
+- [Ik ben geen student](#geen-student)
 
 Heb je nog vragen? Stuur een e-mail naar <help@mprog.nl>.
 
@@ -78,7 +78,7 @@ Als je geen vwo-diploma hebt en je hebt geen hbo-propedeuse, dan zul je niet wor
 
 ## Particuliere opleiding
 
-Als je ingeschreven bent bij een particuliere opleiding dan kun je in veel gevallen niet als bijvakker worden ingeschreven. Je kunt het [inschrijvingsbesluit](https://www.uva.nl/binaries/content/assets/uva/nl/over-de-uva/over-de-uva/regelingen-en-regelementen/onderwijs/def-isb-2018-2019-versie-9a.pdf) van de UvA erop nalezen. Mocht je twijfelen, dan kun je aan de [studenten-servicedesk](https://student.uva.nl/en/contact/central-student-service-desk/central-student-service-desk.html) vragen wat er mogelijk is in jouw situatie. Maak daarbij goed duidelijk dat je een bijvakinschrijving wil regelen!
+Als je ingeschreven bent bij een particuliere opleiding dan kun je in veel gevallen niet als bijvakker worden ingeschreven. Je kunt het [inschrijvingsbesluit](https://www.uva.nl/binaries/content/assets/uva/nl/over-de-uva/over-de-uva/regelingen-en-regelementen/onderwijs/def-isb-2018-2019-versie-9a.pdf) van de UvA erop nalezen. Mocht je twijfelen, dan kun je aan de [studenten-servicedesk](https://student.uva.nl/contact-en-locaties/central-student-service-desk/central-student-service-desk.html) vragen wat er mogelijk is in jouw situatie. Maak daarbij goed duidelijk dat je een bijvakinschrijving wil regelen!
 
 ## Geen student
 
