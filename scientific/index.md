@@ -10,6 +10,8 @@ This program is offered in English to students and staff of the University of Am
 
 Scientific Programming is a 12-credit course that aims to teach you to program in Python for scientific applications. We assume no programming experience and our primary goal is to help you program *well*.
 
+Note that this course is not part of and cannot be combined with the Programming Minor.
+
 - **Workload**: about 20–25 hours a week
 - **Materials**: all courses have online materials augmented with in-lab sessions and lectures
 - **Attendance**: 4-8 hours a week
