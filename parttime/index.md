@@ -66,6 +66,14 @@ Start in februari:
 | 5       | april-mei      | Programmeren 2 | 21 uur/week |  
 | 6       | juni           | (geen vak)     |             |  
 
+Als je afgelopen jaar al Programmeren 1 en 2 hebt gevolgd:
+
+| periode | data              | vaknaam            | studielast  |  
+| ------- | ----------------- | ------------------ | ----------- |  
+| 1       | september-oktober | Web App Studio     | 21 uur/week |  
+| 2       | november-december | Programmeerproject | 21 uur/week |  
+| 3       | januari           | Programmeertheorie | 42 uur/week |  
+
 
 ## Volgorde van vakken
 
