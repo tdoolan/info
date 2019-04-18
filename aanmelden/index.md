@@ -35,6 +35,8 @@ Als je nu al UvA-student bent dan moet je zorgen dat je inschrijving bij de univ
 
 Als je bij een andere universiteit studeert moet je een bijvakinschrijving regelen bij de UvA. Daarna ben je ook UvA-student en kun je je inschrijven voor onze vakken.
 
+Let op dat een bijvakinschrijving zonder extra kosten alleen kan als je ingeschreven bent als voltijds bachelorstudent bij je eigen universiteit!
+
 1. Zorg eerst dat je bij je eigen universiteit je inschrijving voor komend studiejaar helemaal regelt, inclusief betaling of machtiging. Alleen dan kun je je aanmelden bij de UvA.
 
 2. Ga naar [Studielink](http://uva.studielink.nl) en vraag een bijvakinschrijving aan. Vul deze gegevens in:
