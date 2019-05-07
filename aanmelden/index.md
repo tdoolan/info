@@ -88,4 +88,4 @@ Als je ingeschreven bent bij een particuliere opleiding dan kun je in veel geval
 
 ## Geen student
 
-Ben je nou helemaal nergens ingeschreven en wil je zelf of via je werk onze vakken volgen? Dan kun je je inschrijven als contractstudent. Dat kost 200 euro per studiepunt. Stuur ons een e-mail op <help@mprog.nl> en we helpen je aanmelden.
+Ben je nou helemaal nergens ingeschreven en wil je zelf of via je werk onze vakken volgen? Dan kun je je inschrijven als contractstudent. Dat kost 200 euro per studiepunt. Ben je medewerker van de UvA? Dan worden deze kosten automatisch vergoed. Stuur ons een e-mail op <help@mprog.nl> en we helpen je aanmelden.
