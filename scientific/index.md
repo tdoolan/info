@@ -6,45 +6,43 @@ nav: main
 
 # Scientific Programming (EN)
 
-This program is offered in English to students and staff of the University of Amsterdam. It will be offered from February 2020 onwards.
+This program is provided in English to all students and staff of the University of Amsterdam. The first parts will be offered from September 2019, and the final part will be offered from February 2020 onwards.
 
-Scientific Programming is a 12-credit course that aims to teach you to program in Python for scientific applications. We assume no programming experience and our primary goal is to help you program *well*.
+Scientific Programming is a 12-credit course that aims to teach you to program in Python with special attention to scientific applications. We assume no programming experience and our primary goal is to help you program well.
 
 Note that this course is not part of and cannot be combined with the Programming Minor.
 
-- **Workload**: about 20–25 hours a week
+- **Workload**: 10–20 hours a week, depending on your personal goals
 - **Materials**: all courses have online materials augmented with in-lab sessions and lectures
-- **Attendance**: 4-8 hours a week
+- **Attendance**: 2-4 hours a week
+
 
 ## 1. Scientific programming
 
 We'll introduce you to Python using a selection of scientific applications, from the fields of physics, biology, artificial intelligence, sociology and more.
 
+
 ## 2. Data processing
 
 Building on your experience with solving problems in Python, you'll learn about working with larger or unstructured datasets and gain insights by summarizing, filtering and modeling.
 
+
 ## Schedule
 
-<!--
+**Semester 1**
 
-Semester 1
+| period | dates              | course                       |  
+| ------ | ------------------ | ---------------------------- |  
+| 1 + 2  | september-december | Scientific Programming 1     |  
+| 1 + 2  | september-december | Scientific Programming 2     |
 
-| period | dates             | course                       |  
-| ------ | ----------------- | ---------------------------- |  
-| 1      | september-october | Scientific Programming 1 + 2 |  
-| 2      | november-december | Data Processing              |  
-
--->
-
-Semester 2
+**Semester 2**
 
 | period | dates             | course                       |  
 | ------ | ----------------- | ---------------------------- |  
-| 4      | february          | Scientific Programming 1     |  
-| 4      | march             | Scientific Programming 2     |
-| 5      | april-may         | Data Processing              |  
-
+| 4 + 5  | february-may      | Scientific Programming 1     |  
+| 4 + 5  | february-may      | Scientific Programming 2     |
+| 4 + 5  | february-may      | Data Processing              |  
 
 
 ## Prerequisites
@@ -60,4 +58,4 @@ To enroll, use the following course codes in SIS:
 - 50622PRP6Y Scientific Programming 2, 3 credits
 - 5062DAPR6Y Data Processing, 6 credits
 
-To enroll as UvA staff, please refer to <https://datanose.nl/#contract> and use the same course codes. You can choose to have the university to pay your course fees (this is offered by the university and the fee is not taken from your own department's budget).
+To enroll as UvA staff, please refer to <https://datanose.nl/#contract> and use the same course codes. You can choose to have the university pay your course fees (this is offered as a "perk" by the university and the fee is not taken from your own department's budget).
