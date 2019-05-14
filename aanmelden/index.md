@@ -21,9 +21,9 @@ Heb je nog vragen? Stuur een e-mail naar <help@mprog.nl>.
 
 Als je nu al UvA-student bent dan moet je zorgen dat je inschrijving bij de universiteit is geregeld voor de periode dat je minorvakken wil volgen. Daarna kun je je inschrijven voor de vakken van de minor.
 
-1. Wil je nog dit studiejaar vakken doen en ben je helemaal goed ingeschreven? Dan kun je direct naar stap 3.
+1. Vul, vóór je start met de officiële inschrijving, [het aanmeldingsformulier in](https://forms.gle/9GhCXuD2bwutnMo57).
 
-2. Wil je volgend studiejaar vakken doen? Start dan **nu** je herinschrijving volgens het [plan](https://student.uva.nl/content/az/herinschrijven/herinschrijven.html) op de UvA-website.
+2. Start **nu** je herinschrijving volgens het [plan](https://student.uva.nl/content/az/herinschrijven/herinschrijven.html) op de UvA-website.
 
 3. De vakinschrijving voor komend studiejaar start vanaf 13 juni 2019 en loopt door t/m eind juni. Je kunt je inschrijven via de gebruikelijke [website](https://www.uva.nl/vakaanmelden).
 
@@ -36,6 +36,8 @@ Als je nu al UvA-student bent dan moet je zorgen dat je inschrijving bij de univ
 Als je bij een andere universiteit studeert moet je een bijvakinschrijving regelen bij de UvA. Daarna ben je ook UvA-student en kun je je inschrijven voor onze vakken.
 
 Let op dat een bijvakinschrijving zonder extra kosten alleen kan als je ingeschreven bent als voltijds bachelorstudent bij je eigen universiteit!
+
+1. Vul, vóór je start met de officiële inschrijving, [het aanmeldingsformulier in](https://forms.gle/9GhCXuD2bwutnMo57).
 
 1. Zorg eerst dat je bij je eigen universiteit je inschrijving voor komend studiejaar helemaal regelt, inclusief betaling of machtiging. Alleen dan kun je je aanmelden bij de UvA.
 
@@ -63,6 +65,8 @@ Als je bij een hogeschool studeert moet je een bijvakinschrijving regelen bij de
 - je hebt je propedeuse gehaald
 
 Als je geen vwo-diploma hebt en je hebt geen hbo-propedeuse, dan zul je niet worden toegelaten.
+
+1. Vul, vóór je start met de officiële inschrijving, [het aanmeldingsformulier in](https://forms.gle/9GhCXuD2bwutnMo57).
 
 1. Zorg eerst dat je bij je eigen hogeschool je inschrijving voor komend studiejaar helemaal regelt, inclusief betaling of machtiging. Alleen dan kun je je aanmelden bij de UvA.
 
