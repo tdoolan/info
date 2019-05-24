@@ -18,7 +18,7 @@ De Minor Programmeren is een programma van 30 studiepunten dat je in een halfjaa
 
 ## Fase 1
 
-Allereerst ga je twee maanden aan de slag met kleine en grotere opdrachten om je persoonlijke kennis en vaardigheid met het programmeren te ontwikkelen. De talen die je leert zijn onder andere C, Python, en JavaScript plus SQL, CSS, en HTML. Je werkt zelfstandig aan je opdrachten, maar je wordt ingedeeld in een team waarmee je elke dag lief en leed kunt delen. Want programmeren kan, zeker in dit hoge tempo, flink frustrerend zijn!
+Allereerst ga je twee maanden aan de slag met kleine en grotere opdrachten om je persoonlijke kennis en vaardigheid met het programmeren te ontwikkelen. De talen die je leert zijn onder andere C, Python, en JavaScript plus SQL, CSS, en HTML. Je werkt zelfstandig aan je opdrachten, maar je wordt ook ingedeeld in een team waarmee je elke dag lief en leed kunt delen. Want programmeren kan, zeker in dit hoge tempo, flink frustrerend zijn!
 
 We gebruiken in deze fase videocolleges van Harvard. Onderwerpen zijn bijvoorbeeld abstractie, algoritmen, datastructuren, software engineering, en webprogrammeren. Wij voegen daar persoonlijke begeleiding en tutoraat aan toe, inclusief een heleboel materialen die speciaal zijn ontwikkeld om studenten zonder voorkennis goed te laten starten met programmeren.
 
