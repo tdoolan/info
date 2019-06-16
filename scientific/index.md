@@ -29,20 +29,20 @@ Building on your experience with solving problems in Python, you'll learn about 
 
 ## Schedule
 
-**Semester 1**
+**Starting in semester 1**
 
-| period | dates              | course                       |  
-| ------ | ------------------ | ---------------------------- |  
-| 1 + 2  | september-december | Scientific Programming 1     |  
-| 1 + 2  | september-december | Scientific Programming 2     |
+| period | dates              | course                   |  
+| ------ | ------------------ | ------------------------ |  
+| 1 + 2  | september-december | Scientific Programming 1 |  
+| 1 + 2  | september-december | Scientific Programming 2 |  
+| 4 + 5  | february-may       | Data Processing          |  
 
-**Semester 2**
+**Starting in semester 2**
 
 | period | dates             | course                       |  
 | ------ | ----------------- | ---------------------------- |  
 | 4 + 5  | february-may      | Scientific Programming 1     |  
 | 4 + 5  | february-may      | Scientific Programming 2     |
-| 4 + 5  | february-may      | Data Processing              |  
 
 
 ## Prerequisites
