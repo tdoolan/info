@@ -33,8 +33,6 @@ Als je nu al UvA-student bent dan moet je zorgen dat je inschrijving bij de univ
 
 ## Andere universiteit
 
-**Aanmelding voor niet-UvA-studenten is alleen nog mogelijk voor het tweede semester van studiejaar 2019-2020.**
-
 Als je bij een andere universiteit studeert moet je een bijvakinschrijving regelen bij de UvA. Daarna ben je ook UvA-student en kun je je inschrijven voor onze vakken.
 
 Let op dat een bijvakinschrijving zonder extra kosten alleen kan als je ingeschreven bent als voltijds bachelorstudent bij je eigen universiteit!
@@ -46,7 +44,7 @@ Let op dat een bijvakinschrijving zonder extra kosten alleen kan als je ingeschr
 2. Ga naar [Studielink](http://uva.studielink.nl) en vraag een bijvakinschrijving aan. Vul deze gegevens in:
 
     - studieprogramma: Informatiekunde - BIJVAK
-    - startdatum: 1 februari 2019
+    - startdatum: 1 september 2019
     - starten als: eerstejaars
 
 3. De toelating wordt automatisch geregeld zolang je een vwo-diploma met wiskunde hebt. Als je zo'n diploma niet hebt, dan kunnen we met je meedenken over het regelen van de inschrijving. Het is niet zeker dat dit mogelijk is! Mail ons op <help@mprog.nl> (korter dan twee maanden voor de start gaat dit sowieso niet meer lukken).
@@ -55,13 +53,11 @@ Let op dat een bijvakinschrijving zonder extra kosten alleen kan als je ingeschr
 
 5. Op Studielink kun je zien of de inschrijving volledig geregeld is. Mocht je er niet uitkomen, dan kunnen wij je misschien helpen. Stuur een mail naar <help@mprog.nl>. Als je inschrijving niet binnen een maand na verzending van je BBC bevestigd is, mail ons dan direct!
 
-6. De vakinschrijving voor het tweede semester start vanaf eind november 2019 en loopt door t/m eind juni. Je kunt je inschrijven via de gebruikelijke [website](https://www.uva.nl/vakaanmelden). Je schrijft je in voor alle losse vakken die je wil volgen. Zie daarvoor de andere pagina's op deze website.
+6. De vakinschrijving voor komend studiejaar start vanaf 13 juni 2019 en loopt door t/m eind juni. Je kunt je inschrijven via de gebruikelijke [website](https://www.uva.nl/vakaanmelden). Je schrijft je in voor alle losse vakken die je wil volgen. Zie daarvoor de andere pagina's op deze website.
 
-7. Let goed op dat je bij de vakinschrijving kiest voor het juiste semester.
+7. Let goed op dat je bij de vakinschrijving kiest voor het juiste semester: bij de meeste vakken kun je kiezen of je dit in semester 1 of in semester 2 wil volgen.
 
 ## Hogeschool
-
-**Aanmelding voor niet-UvA-studenten is alleen nog mogelijk voor het tweede semester van studiejaar 2019-2020.**
 
 Als je bij een hogeschool studeert moet je een bijvakinschrijving regelen bij de UvA. Je kunt op twee manieren worden toegelaten:
 
@@ -77,7 +73,7 @@ Als je geen vwo-diploma hebt en je hebt geen hbo-propedeuse, dan zul je niet wor
 2. Ga naar [Studielink](http://uva.studielink.nl) en vraag een bijvakinschrijving aan. Vul deze gegevens in:
 
     - studieprogramma: Informatiekunde - BIJVAK
-    - startdatum: 1 februari 2019
+    - startdatum: 1 september 2019
     - starten als: eerstejaars
 
 3. Binnen twee dagen ontvang je op je mailadres een UvA-studentnummer. Stuur ons een e-mail op <help@mprog.nl> dat je wil instromen als hbo'er. Stuur je studentnummer mee. Als je aan de voorwaarden voldoet kunnen wij voor jou verzoeken om je toelaten.
@@ -86,18 +82,14 @@ Als je geen vwo-diploma hebt en je hebt geen hbo-propedeuse, dan zul je niet wor
 
 5. Op Studielink kun je zien of de inschrijving volledig geregeld is. Mocht je er niet uitkomen, dan kunnen wij je misschien helpen. Stuur een mail naar <help@mprog.nl>. Als je inschrijving niet binnen een maand na verzending van je BBC bevestigd is, mail ons dan direct!
 
-6. De vakinschrijving voor het tweede semester start vanaf eind november 2019 en loopt door t/m eind juni. Je kunt je inschrijven via de gebruikelijke [website](https://www.uva.nl/vakaanmelden). Je schrijft je in voor alle losse vakken die je wil volgen. Zie daarvoor de andere pagina's op deze website.
+6. De vakinschrijving voor komend studiejaar start vanaf 13 juni 2019 en loopt door t/m eind juni. Je kunt je inschrijven via de gebruikelijke [website](https://www.uva.nl/vakaanmelden). Je schrijft je in voor alle losse vakken die je wil volgen. Zie daarvoor de andere pagina's op deze website.
 
-7. Let goed op dat je bij de vakinschrijving kiest voor het juiste semester.
+7. Let goed op dat je bij de vakinschrijving kiest voor het juiste semester: bij de meeste vakken kun je kiezen of je dit in semester 1 of in semester 2 wil volgen.
 
 ## Particuliere opleiding
-
-**Aanmelding voor niet-UvA-studenten is alleen nog mogelijk voor het tweede semester van studiejaar 2019-2020.**
 
 Als je ingeschreven bent bij een particuliere opleiding dan kun je in veel gevallen niet als bijvakker worden ingeschreven. Je kunt het [inschrijvingsbesluit](https://www.uva.nl/binaries/content/assets/uva/nl/over-de-uva/over-de-uva/regelingen-en-regelementen/onderwijs/def-isb-2018-2019-versie-9a.pdf) van de UvA erop nalezen. Mocht je twijfelen, dan kun je aan de [studenten-servicedesk](https://student.uva.nl/contact-en-locaties/central-student-service-desk/central-student-service-desk.html) vragen wat er mogelijk is in jouw situatie. Maak daarbij goed duidelijk dat je een bijvakinschrijving wil regelen!
 
 ## Geen student
-
-**Aanmelding voor contractstudenten voor start in september 2019 is nog kort mogelijk in verband met de verwerkingstermijn.**
 
 Ben je nou helemaal nergens ingeschreven en wil je zelf of via je werk onze vakken volgen? Dan kun je je inschrijven als contractstudent. Dat kost 200 euro per studiepunt. Ben je medewerker van de UvA? Dan worden deze kosten automatisch vergoed. Stuur ons een e-mail op <help@mprog.nl> en we helpen je aanmelden.
