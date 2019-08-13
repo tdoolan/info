@@ -1,10 +1,3 @@
----
-layout: page
-order: 1
-nav: second
----
-
-
 # Aanmelden
 
 De procedure verschilt afhankelijk van je inschrijving bij de universiteit.
