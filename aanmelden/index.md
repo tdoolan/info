@@ -7,6 +7,8 @@ nav: second
 
 # Aanmelden
 
+**Note: this application procedure is not meant for students who wish to take our Scientific Programming courses!**
+
 De procedure verschilt afhankelijk van je inschrijving bij de universiteit.
 
 - [Ik ben UvA-student](#uva-studenten)
