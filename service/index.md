@@ -1,7 +1,7 @@
 ---
 layout: page
 order: 5
-nav: main
+nav: second
 ---
 
 # Andere cursussen

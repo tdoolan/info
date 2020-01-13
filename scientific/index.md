@@ -1,7 +1,7 @@
 ---
 layout: page
-order: 3
-nav: main
+order: 1
+nav: scientific
 ---
 
 # Scientific Programming (EN)
