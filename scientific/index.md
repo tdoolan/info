@@ -2,11 +2,12 @@
 layout: page
 order: 1
 nav: scientific
+title: Electives in English
 ---
 
-# Scientific Programming (EN)
+# Scientific Programming
 
-This program is provided in English to all students and staff of the University of Amsterdam. The first parts will be offered from September 2019, and the final part will be offered from February 2020 onwards.
+This program is provided **in English** to all students and staff of the University of Amsterdam. The first parts will be offered from September 2019, and the final part will be offered from February 2020 onwards.
 
 Scientific Programming is a 12-credit course that aims to teach you to program in Python with special attention to scientific applications. We assume no programming experience and our primary goal is to help you program well.
 
