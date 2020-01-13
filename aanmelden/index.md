@@ -1,7 +1,7 @@
 ---
 layout: page
-order: 1
-nav: second
+order: 3
+nav: main
 ---
 
 
