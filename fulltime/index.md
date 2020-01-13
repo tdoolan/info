@@ -2,6 +2,7 @@
 layout: page
 order: 1
 nav: main
+title: Fulltime
 ---
 
 # Fulltime Minor Programmeren
