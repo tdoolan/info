@@ -2,7 +2,7 @@
 layout: page
 order: 1
 nav: scientific
-title: Electives in English
+title: Courses
 ---
 
 # Scientific Programming
@@ -50,13 +50,3 @@ Building on your experience with solving problems in Python, you'll learn about 
 
 Generally speaking, there are no prerequisites to start this track. If you have taken a 3 credit course on Python programming in a scientific setting, you can possibly skip the first course. If you have already taken courses in R or Python before, this series may not be for you. Let us know which course you took and in which programme, and we may be able to help you decide. Other than that, note that the courses need to be taken in the order specified above!
 
-
-## Application
-
-To enroll, use the following course codes in SIS:
-
-- 50621SCP3Y Scientific Programming 1, 3 credits
-- 50622SCP3Y Scientific Programming 2, 3 credits
-- 5062DAPR6Y Data Processing, 6 credits
-
-To enroll as UvA staff, please refer to <https://datanose.nl/#contract> and use the same course codes. You can choose to have the university pay your course fees (this is offered as a "perk" by the university and the fee is not taken from your own department's budget).
