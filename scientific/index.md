@@ -32,18 +32,32 @@ Building on your experience with solving problems in Python, you'll learn about 
 
 **Starting in semester 1**
 
+12EC total, spread out over the year
+
 | period | dates              | course                   |  
 | ------ | ------------------ | ------------------------ |  
 | 1 + 2  | september-december | Scientific Programming 1 |  
 | 1 + 2  | september-december | Scientific Programming 2 |  
 | 4 + 5  | february-may       | Data Processing          |  
 
-**Starting in semester 2**
+**Starting in semester 2, small workload**
+
+6EC total
 
 | period | dates             | course                       |  
 | ------ | ----------------- | ---------------------------- |  
 | 4 + 5  | february-may      | Scientific Programming 1     |  
 | 4 + 5  | february-may      | Scientific Programming 2     |
+
+**Starting in semester 2, big workload**
+
+12EC total
+
+| period | dates     | course                   |  
+| ------ | --------- | ------------------------ |
+| 4      | february  | Scientific Programming 1 |  
+| 4      | march     | Scientific Programming 2 |
+| 5      | april-may | Data Processing          |
 
 
 ## Prerequisites
