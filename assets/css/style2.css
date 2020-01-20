@@ -1,10 +1,44 @@
+.sidebar
+{
+    padding:1.5rem 0.5rem;
+}
+
+.content
+{
+    padding-top: 0;
+}
+
+@media (min-width: 48em) {
+  .content {
+      padding-top:3rem;
+  }
+}
+
+@media (min-width: 64em) {
+    .content {
+        margin-left: 20rem;
+        margin-right: 2rem;
+    }
+}
+
+div.gallery
+{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: stretch;
+    
+}
+
 div.gallery img
 {
-    display:inline;
     margin-left:0.25em;
     margin-right:0.25em;
-    max-width:27%;
+    width: calc(100% / 3 - 0.0001);
+    object-fit: contain;
+/*    flex: 1 0 calc(100% / 3);;*/
     border-radius:0;
+    height:10em;
+/*    margin-bottom:0;*/
 }
 
 .page-title
@@ -21,4 +55,22 @@ div.gallery img
 h1, h2, h3, h4, h5, h6 {
     margin-top:1.5rem;
     margin-bottom: 1.5rem;
+}
+
+
+.sidebar-heading
+{
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-size: 14px;
+}
+
+.sidebar-nav
+{
+    margin-bottom:1rem;
+}
+
+.sidebar p
+{
+    margin-bottom:.25rem;
 }
