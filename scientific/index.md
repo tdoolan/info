@@ -19,13 +19,20 @@ Note that this course is not part of and cannot be combined with the Programming
 
 ## 1. Scientific programming
 
-We'll introduce you to Python using a selection of scientific applications, from the fields of physics, biology, artificial intelligence, sociology and more.
+We'll introduce you to Python using a selection of scientific applications, from the fields of physics, biology, artificial intelligence, sociology and more. Current modules include:
 
+- Number theory
+- Text processing and analysis
+- Numeric integration
+- Population dynamics
+- Monopoly game simulation
+- Climate data analysis
+
+Scientific Programming 2 focuses on teaching you "the rest of Python" so you will be ready to read other scientists' code and contribute to open source projects. Do have a look at <https://sp1.mprog.nl/modules> and <https://sp2.mprog.nl/modules> to see what these courses are all about!
 
 ## 2. Data processing
 
-Building on your experience with solving problems in Python, you'll learn about working with larger or unstructured datasets and gain insights by summarizing, filtering and modeling.
-
+Building on your experience with solving problems in Python, you'll learn about working with larger or unstructured datasets and gain insights by summarizing, filtering and modeling. We'll help you master the basic techniques and then you will devise your own project, taking a dataset of your choosing, formulate a scientific question and try to answer it using computational techniques.
 
 ## Schedule
 
@@ -47,7 +54,7 @@ Building on your experience with solving problems in Python, you'll learn about 
 
 ## Prerequisites
 
-Generally speaking, there are no prerequisites to start this track. If you have taken a 3 credit course on Python programming in a scientific setting, you can possibly skip the first course. If you have already taken courses in R or Python before, this series may not be for you. Let us know which course you took and in which programme, and we may be able to help you decide. Other than that, note that the courses need to be taken in the order specified above!
+Generally speaking, there are no prerequisites to start at Scientific Programming 1. If you have taken a 3 credit course on Python programming in a scientific setting, you can possibly skip the first course. If you have already taken courses in R or Python before, this series may not be for you after all. Let us know which course you took and in which programme, and we may be able to help you decide. Other than that, note that the courses need to be taken in the order specified above!
 
 
 ## Application
