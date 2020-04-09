@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: minprog
 order: 2
 nav: main
 title: Parttime

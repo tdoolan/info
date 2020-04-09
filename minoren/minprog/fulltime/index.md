@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: minprog
 order: 1
 nav: main
 title: Fulltime
@@ -42,6 +42,7 @@ In de laatste fase ga je in teams aan de slag met algoritmen en datastructuren. 
 | oktober           | Fulltime Programmeren 2 | 6    |
 | november-december | Fulltime Web App Studio | 12   |
 | januari           | Programmeertheorie      | 6    |
+{:.table}
 
 Let op de verplichte aanwezigheid van 2 september t/m 31 januari. Je kunt dit programma niet volgen als je op vakantie wil (buiten de kerstvakantie).
 
@@ -53,6 +54,7 @@ Let op de verplichte aanwezigheid van 2 september t/m 31 januari. Je kunt dit pr
 | maart             | Fulltime Programmeren 2 | 6    |
 | april-mei         | Fulltime Web App Studio | 12   |
 | juni              | Programmeertheorie      | 6    |
+{:.table}
 
 Let op de verplichte aanwezigheid van 3 februari t/m 26 juni. Je kunt dit programma niet volgen als je op vakantie wil. Er is waarschijnlijk wel een week vrij in april, dit moet nog ingepland worden (maar valt niet samen met de schoolvakanties).
 

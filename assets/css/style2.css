@@ -1,76 +1,173 @@
+.mainnav
+{
+	background-color:#28ABE2;
+	opacity:0.98;
+}
+
+.display-4
+{
+	font-weight:500;
+}
+
+#mainnav .nav-item
+{
+	text-align:center;
+}
+
+#mainnav
+{
+	align-items: flex-start;
+}
+
+#mainnav .navbar-nav
+{
+/*	width:100%;*/
+	
+}
+
+#mainnav .navbar-nav .nav-item
+{
+	flex: 1 1 auto;
+	margin-right:2rem;
+}
+
+#mainnav .navbar-brand img
+{
+	vertical-align:text-top;
+	height:1.5rem;
+}
+
 .sidebar
 {
-    padding:1.5rem 0.5rem;
+	padding:1.5rem 0.5rem;
 }
 
 .content
 {
-    padding-top: 0;
+	padding-top: 0;
 }
 
 @media (min-width: 48em) {
-  .content {
-      padding-top:3rem;
-  }
+	.content {
+		padding-top:3rem;
+	}
 }
 
 @media (min-width: 64em) {
-    .content {
-        margin-left: 20rem;
-        margin-right: 2rem;
-    }
+	.content {
+		margin-left: 20rem;
+		margin-right: 2rem;
+	}
 }
 
 div.gallery
 {
-    display: flex;
-    flex-wrap: wrap;
-    align-items: stretch;
-    
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	justify-content: space-between;
+	align-content: center;
 }
 
 div.gallery img
 {
-    margin-left:0.25em;
-    margin-right:0.25em;
-    width: calc(100% / 3 - 0.0001);
-    object-fit: contain;
-/*    flex: 1 0 calc(100% / 3);;*/
-    border-radius:0;
-    height:10em;
-/*    margin-bottom:0;*/
+	margin:0.25rem 0;
+	object-fit: contain;
+	border-radius:0;
+}
+
+div.gallery.small img
+{
+	margin:0.125rem 0;
+}
+
+@media (max-width: 575.98px)
+{
+	div.gallery img
+	{
+		width: calc(50% - 0.25rem);
+	}
+
+	div.gallery.small img
+	{
+		width: calc(25% - 0.25rem);
+	}
+}
+
+@media (min-width: 576px)
+{
+	div.gallery img
+	{
+		width: calc(33% - 0.25rem);
+	}
+
+	div.gallery.small img
+	{
+		width: calc(25% - 0.25rem);
+	}
+}
+
+@media (min-width: 768px)
+{
+	div.gallery img
+	{
+		width: calc(33% - 0.5rem);
+	}
+	div.gallery.small img
+	{
+		width: calc(20% - 0.25rem);
+	}
+}
+
+@media (min-width: 992px)
+{
+	div.gallery img
+	{
+		width: calc(25% - 0.5rem);
+	}
+	div.gallery.small img
+	{
+		width: calc(12.5% - 0.25rem);
+	}
 }
 
 .page-title
 {
-    margin-bottom:1em;
+	margin-bottom:1em;
 }
 
 .page-logo
 {
 	display:inline;
-    max-width:3rem;
+	max-width:3rem;
 }
 
 h1, h2, h3, h4, h5, h6 {
-    margin-top:1.5rem;
-    margin-bottom: 1.5rem;
+	margin-top:1.5rem;
+	margin-bottom: 1.5rem;
 }
 
 
 .sidebar-heading
 {
-    text-transform: uppercase;
-    letter-spacing: 2px;
-    font-size: 14px;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	font-size: 14px;
 }
 
 .sidebar-nav
 {
-    margin-bottom:1rem;
+	margin-bottom:1rem;
 }
 
 .sidebar p
 {
-    margin-bottom:.25rem;
+	margin-bottom:.25rem;
+}
+
+
+#keuze .card
+{
+	background-color: transparent;
+	padding:0;
 }
