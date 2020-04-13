@@ -3,17 +3,47 @@ layout: default
 title: Minoren
 ---
 
-<div class="d-flex" style="height:calc(100vh - 56px)">
-    <div class="flex-fill bg-light text-center">
-        <a href="{{ site.baseurl }}/minoren/minprog/" class="d-block w-100 h-100">
-            <img class="image-fluid w-75 my-4" src="{{ site.baseurl }}/assets/home/keuze-prog.png">
-            <h1 class="display-4">Minor Programmeren</h1>
-        </a>
+<style>
+    #minoren a
+    {
+        color:#123B4A;
+    }
+    #minoren a:hover
+    {
+        text-decoration:none;
+    }
+        #minoren .display-4
+        {
+            font-size:2.5rem;
+        }
+        @media (min-width: 768px)
+    {
+        #minoren
+        {
+            height:calc(100vh - 56px)
+        }
+    }
+</style>
+
+<div id="minoren" class="d-flex flex-column px-md-5" style="">
+    <div class="d-flex flex-column flex-lg-row flex-fill pt-md-5">
+        <div class="flex-fill bg-light text-center m-3">
+            <a href="{{ site.baseurl }}/minoren/minprog/" class="d-flex flex-column justify-content-around align-items-center w-100 h-100">
+                <img class="image-fluid w-50 my-4" src="{{ site.baseurl }}/assets/home/keuze-prog.png">
+                <h1 class="display-4">Minor<br>Programmeren</h1>
+            </a>
+        </div>
+        <div class="flex-fill bg-warning text-center m-3">
+            <a href="{{ site.baseurl }}/minoren/minai/" class="d-flex flex-column justify-content-around align-items-center  w-100 h-100">
+                <img class="image-fluid w-50 my-4" src="{{ site.baseurl }}/assets/home/keuze-ai.png">
+                <h1 class="display-4">Minor<br>Kunstmatige Intelligentie</h1>
+            </a>
+        </div>
     </div>
-    <div class="flex-fill bg-warning text-center">
-        <a href="{{ site.baseurl }}/minoren/minai/" class="d-block w-100 h-100">
-            <img class="image-fluid w-75 my-4" src="{{ site.baseurl }}/assets/home/keuze-ai.png">
-            <h1 class="display-4">Minor AI</h1>
+    <div class="text-center" class="m-3">
+        <a href="{{ site.baseurl }}/minoren/keuzehulp/" class="d-block p-5 w-100 h-100">
+        Wil je vergelijken met andere minoren uit het vakgebied van de informatica? 
+        Ga naar de keuzehulp →
         </a>
     </div>
 </div>
