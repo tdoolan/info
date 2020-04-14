@@ -1,0 +1,44 @@
+---
+title: Keuzevakken
+layout: page
+---
+
+<div class="my-5">
+    <div class="py-5">
+        <h1 class="display-1 mb-5" style="line-height:0.8">Keuzevakken</h1>
+        <p class="" style="font-size:2rem">
+            Veel van onze vakken zijn ook te volgen buiten een minor om. Je moet dan
+            wel aan de ingangseisen voldoen die in de studiegids vermeld staan.
+        </p>
+    </div>
+</div>
+
+
+<div class="row row-cols-1 row-cols-md-2">
+
+    {% for course in site.courses %}
+    {% if course.keuzevak %}
+    <div class="col mb-4">
+        <div class="card mb-3 shadow-lg border-0" style="smax-width: 540px;">
+            <div class="row no-gutters">
+                <div class="col-md-4">
+                    {% if course.image %}
+                    <img src="{{ site.baseurl }}/assets/courses/{{ course.image }}" class="card-img" alt="...">
+                    {% else %}
+                    <svg class="bd-placeholder-img card-img-top" style="height:100%" width="100%" height="180" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: Image cap"><title>Placeholder</title><rect width="100%" height="100%" fill="#868e96"></rect><text x="50%" y="50%" fill="#dee2e6" dy=".3em">&times;</text></svg>
+                    {% endif %}
+                </div>
+                <div class="col-md-8">
+                    <div class="card-body">
+                        <h5 class="card-title">{{ course.name }}</h5>
+                        <p class="card-text">{{ course.content | markdownify }}</p>
+                        <a href="{{ course.online }}" class="btn btn-primary">Ga naar de cursus</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    {% endif %}
+    {% endfor %}
+
+</div>

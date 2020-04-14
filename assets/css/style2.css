@@ -1,6 +1,7 @@
 .mainnav
 {
-	background-color:#28ABE2;
+/*	background-color:#28ABE2;*/
+	background-color:#0E1F2B;
 	opacity:0.98;
 }
 
@@ -142,11 +143,11 @@ div.gallery.small img
 	max-width:3rem;
 }
 
-h1, h2, h3, h4, h5, h6 {
+/*h1, h2, h3, h4, h5, h6 {
 	margin-top:1.5rem;
 	margin-bottom: 1.5rem;
 }
-
+*/
 
 .sidebar-heading
 {

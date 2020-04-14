@@ -1,3 +1,4 @@
 title: UvA Programming Lab
-# baseurl: /info
 markdown: kramdown
+collections:
+    - courses
