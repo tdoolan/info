@@ -1,0 +1,127 @@
+---
+layout: minai
+title: Minor Kunstmatige Intelligentie
+---
+
+<div class="panel min75 text-center">
+    <div class="row">
+        <div class="col-md-6 d-flex flex-column justify-content-center">
+            <img class="img-fluid " src="{{ site.baseurl }}/assets/minorki/leren.jpg">
+        </div>
+        <div class="col-md-6 text-left">
+            <h1 class="display-3">Minor Kunstmatige Intelligentie</h1>
+            <h1><small>Leer AI-technieken toepassen zonder programmeerervaring</small></h1>
+            <p class="text-muted">Een vast programma van 30 studiepunten in semester 1 of 2</p>
+        </div>
+    </div>
+</div>
+
+<div class="panel min50 w-75 m-auto text-center">
+    <h1>
+        De minor Kunstmatige Intelligentie is er om studenten van alle achtergronden kennis te laten maken met AI. We presenteren je een breed scala aan algoritmen, waarvan je een deel zelf gaat bouwen en toepassen op levensechte problemen.
+    </h1>
+</div>
+
+
+<div class="d-normal min75">
+    <img class="img-fluid" style="width:60%" src="{{ site.baseurl }}/assets/minorki/ml1cropped.png">
+    
+    <div class="row mt-n5">
+        <div class="col-md-6">
+        </div>
+        <div class="col-md-6 text-left d-flex flex-column justify-content-end">
+            <h1>Inhoud</h1>
+            <p style="font-size:1.3rem">
+                De minor bestaat uit het leren programmeren en het leren verwerken van 
+                data uit concrete toepassingen. Daarnaast zullen we de wiskunde behandelen 
+                die de drijvende kracht is achter deze algoritmen: statistiek
+                en calculus. We zullen ook de filosofische en maatschappelijke 
+                consequenties van lerende systemen bespreken. Deze minor heeft <em>geen</em> 
+                ingangseisen op gebied van programmeren of wiskunde: wat je nodig hebt 
+                ga je bij ons leren.
+            </p>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="panel">
+
+
+</div>
+
+<div class="panel text-center bg-light py-5">
+    
+    <h1 class="display-3">Vakken</h1>
+    
+    <p>Dit zijn de vakken die je volgt tijdens de Minor Kunstmatige Intelligentie. Elk vak is 6 studiepunten.</p>
+
+    <div class="w-75 m-auto text-left row row-cols-1 row-cols-md-2">
+        {% assign courses = site.courses | sort: "order" %}
+        {% for course in courses %}
+        {% if course.curriculum == "Minor KI" %}
+        <div class="col mb-4">
+            <div class="card mb-3 bg-light border-0 h-100" style="smax-width: 540px;">
+                <div class="card-body">
+                    <h5 class="card-title">{{ course.name }}</h5>
+                    <p class="card-text">{{ course.content | markdownify }}</p>
+                </div>
+            </div>
+        </div>  
+        {% endif %}
+        {% endfor %}
+    </div>
+
+</div>
+
+
+<div class="panel text-center">
+    
+    <h1 class="display-4 text-center">Alternatieven</h1>
+
+    <div class="row row-cols-1 row-cols-md-2 w-75 m-auto">
+        <div class="col mb-4">
+            <div class="card border-0">
+                <div class="card-body">
+                    <h5 class="card-title mb-0">Minor Kunstmatige Intelligentie (aangepast)</h5>
+                    <p class="text-muted">30 studiepunten, flexibel in te delen, grotendeels Nederlandstalig</p>
+                    <p class="card-text">
+                        Hierbij kun je een programmasamenstelling maken uit de vakken 
+                        van de bachelor Kunstmatige Intelligentie. Bijvoorbeeld studenten 
+                        Natuurkunde of Econometrie kunnen hier goed aansluiten.
+                    </p>
+                    <a href="" class="card-link">Meer informatie in de studiegids &rarr;</a>
+                </div>
+            </div>
+        </div>
+        <div class="col">
+            <div class="card border-0">
+                <div class="card-body">
+                    <h5 class="card-title mb-0">Minor Data Science and AI</h5>
+                    <p class="text-muted">30 studiepunten, alleen in semester 1, Engelstalig</p>
+                    <p class="card-text">
+                        Hier leer je data science en AI projecten te maken van begin tot 
+                        eind. Basale kennis van Python en statistiek is een vereiste.
+                    </p>
+                    <a href="" class="card-link">Meer informatie in de studiegids &rarr;</a>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+</div>
+
+
+<div class="panel text-center bg-warning py-5">
+    <h1 class="display-4 text-center">Aanmelden</h1>
+    <p class="w-75 m-auto" style="font-size:1.2rem;">
+        Om je aanmelding te starten vul je eerst op deze website je gegevens in. Daarna 
+        start een selectie- en adviestraject. Als je geselecteerd wordt voor de minor dan
+        helpen we je verder met de vakinschrijving.
+    </p>
+    <p class="m-5">
+        <a class="btn btn-outline-dark btn-lg" href="/minoren/aanmelden">Start je aanmelding</a>
+    </p>
+</div>

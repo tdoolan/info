@@ -6,30 +6,28 @@ layout: page
 <div class="my-5">
     <div class="py-5">
         <h1 class="display-1 mb-5" style="line-height:0.8">Keuzevakken</h1>
-        <p class="" style="font-size:2rem">
-            Sommige van onze vakken kun je doen buiten een minor om. Je moet al een aantal programmeervakken hebben gehaald voordat je deze kunt volgen.
+        <p class="" style="font-size:1.5rem">
+            Sommige van onze vakken kun je doen buiten een minor om.
         </p>
     </div>
 </div>
 
 <div class="row row-cols-1 row-cols-md-2 mb-5">
-
     {% for course in site.courses %}
     {% if course.keuzevak %}
     <div class="col mb-4">
         <div class="card mb-3 p-5 shadow-lg border-0 h-100" style="smax-width: 540px;">
-                    <div class="card-body">
-                        <h5 class="card-title">{{ course.name }}
-                        {% if course.doelgroep %}
-                            <br><small class="text-muted">{{ course.doelgroep }}</small>
-                            {% endif %}
-                        </h5>
-                        <p class="card-text">{{ course.content | markdownify }}</p>
-                        <a href="{{ course.studiegids }}" class="card-link">Studiegids &rarr;</a>
+            <div class="card-body">
+                <h5 class="card-title">{{ course.name }}
+                    {% if course.doelgroep %}
+                    <br><small class="text-muted">{{ course.doelgroep }}</small>
+                    {% endif %}
+                </h5>
+                <p class="card-text">{{ course.content | markdownify }}</p>
+                <a href="{{ course.studiegids }}" class="card-link">Studiegids &rarr;</a>
             </div>
         </div>
     </div>
     {% endif %}
     {% endfor %}
-
 </div>
