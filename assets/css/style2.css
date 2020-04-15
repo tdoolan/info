@@ -173,3 +173,25 @@ div.gallery.small img
 	background-color: transparent;
 	padding:0;
 }
+
+.panel
+{
+	margin-top:3rem;
+	margin-bottom:6rem;
+}
+
+.panel.min75
+{
+	min-height: 75vh;
+	display: flex;
+	flex-direction: column;
+	justify-content:center;
+}
+
+.panel.min50
+{
+	min-height: 50vh;
+	display: flex;
+	flex-direction: column;
+	justify-content:center;
+}
