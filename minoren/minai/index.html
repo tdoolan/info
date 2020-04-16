@@ -4,17 +4,14 @@ title: Minor Kunstmatige Intelligentie
 ---
 
 <div class="panel min75 text-center">
-    <div class="d-flex justify-content-center">
-        <div class="d-flex flex-column justify-content-start text-right mr-4" style="max-width:min-content;">
-            <h1 class="display-3 d-inline">Minor Kunstmatige Intelligentie</h1>
+    <div class="row">
+        <div class="col-md-8">
+            <img class="mb-5 img-fluid" src="{{ site.baseurl }}/assets/minorki/ml1cropped.png">
         </div>
-        <div class="w-50 text-left">
-            <img class="img-fluid " src="{{ site.baseurl }}/assets/minorki/leren.jpg">
+        <div class="col-md-4 d-flex flex-column justify-content-end text-right" style="smax-width:min-content;">
+            <h1 class=" d-inline" style="font-size:3.5rem;">Minor Kunstmatige Intelligentie</h1>
+            <h1 class="mt-3" style="font-size:1.5rem;"><small>Leer in vijf maanden programmeren en  AI-technieken toepassen</small></h1>
         </div>
-    </div>
-    <div class="text-center" style="margin-top:6rem;">
-        <h1 class="text-muted"><small>Leer AI-technieken toepassen zonder programmeerervaring</small></h1>
-        <p class="text-muted">Een programma van 30 studiepunten in semester 1 of 2</p>
     </div>
 </div>
 
@@ -25,13 +22,24 @@ title: Minor Kunstmatige Intelligentie
 </div>
 
 
-<div class="d-normal" style="margin-top:rem;">
-    <img class="img-fluid" style="width:60%" src="{{ site.baseurl }}/assets/minorki/ml1cropped.png">
+<div class="d-normal">
+    <img class="img-fluid " src="{{ site.baseurl }}/assets/minorki/mensen.jpeg">
     
-    <div class="row mt-n5">
+    <div class="row mt-5">
         <div class="col-md-6">
+            <h1>Aanbod</h1>
+            <p style="font-size:1.3rem">
+                In het studiejaar 2020/2021 wordt de minor twee keer gegeven. Wil je meedoen,
+                dan verwachten we dat je fulltime reserveert voor de vakken. Er is dan ook 
+                een (online) aanwezigheidsplicht: de deelnemers worden in teams ingedeeld die
+                vijf maanden lang samen studeren en leren.
+            </p>
+            <p style="font-size:1.3rem">Let op: tijdens deze eerste versie van de minor is er een maximum van 25
+                studenten per semester. We organiseren een (lichte) selectieprocedure, waarbij
+                de voorkeur uitgaat naar studenten met geen tot weinig programmeerervaring.</p>
+            
         </div>
-        <div class="col-md-6 text-left d-flex flex-column justify-content-end">
+        <div class="col-md-6">
             <h1>Inhoud</h1>
             <p style="font-size:1.3rem">
                 De minor bestaat uit het leren programmeren en het leren verwerken van 
@@ -47,19 +55,13 @@ title: Minor Kunstmatige Intelligentie
 </div>
 
 
-
-<div class="panel">
-
-
-</div>
-
-<div class="panel text-center bg-light py-5">
+<div class="panel text-center bg-light py-5" style="margin-top:6rem;">
     
     <h1 class="display-3">Vakken</h1>
     
-    <p>Dit zijn de vakken die je volgt tijdens de Minor Kunstmatige Intelligentie. Elk vak is 6 studiepunten.</p>
+    <p class="w-50 mx-auto">Dit zijn de vakken die je volgt tijdens de Minor Kunstmatige Intelligentie. Elk vak is 6 studiepunten, dus ongeveer 160 uur aan studietijd.</p>
 
-    <div class="w-75 m-auto text-left row row-cols-1 row-cols-md-2">
+    <div class="w-75 mt-5 mx-auto text-left row row-cols-1 row-cols-md-2">
         {% assign courses = site.courses | sort: "order" %}
         {% for course in courses %}
         {% if course.curriculum == "Minor KI" %}
@@ -86,10 +88,10 @@ title: Minor Kunstmatige Intelligentie
         <div class="col mb-4">
             <div class="card border-0">
                 <div class="card-body">
-                    <h5 class="card-title mb-0">Minor Kunstmatige Intelligentie (aangepast)</h5>
+                    <h5 class="card-title mb-0">Minor Kunstmatige Intelligentie<br>(op maat)</h5>
                     <p class="text-muted">30 studiepunten, flexibel in te delen, grotendeels Nederlandstalig</p>
                     <p class="card-text">
-                        Hierbij kun je een programmasamenstelling maken uit de vakken 
+                        Hierbij kun je een programma samenstellen uit de vakken 
                         van de bachelor Kunstmatige Intelligentie. Bijvoorbeeld studenten 
                         Natuurkunde of Econometrie kunnen hier goed aansluiten.
                     </p>
