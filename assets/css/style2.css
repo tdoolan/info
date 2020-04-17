@@ -1,3 +1,10 @@
+p
+{
+	hyphens: auto;
+	-webkit-hyphens: auto;
+	-ms-hyphens: auto;
+}
+
 .mainnav
 {
 /*	background-color:#28ABE2;*/
@@ -236,18 +243,19 @@ div.gallery.small img
 	margin-bottom:3rem;
 }
 
-.panel.min75
+.min-vh-75
 {
 	min-height: 75vh;
-	display: flex;
-	flex-direction: column;
-	justify-content:center;
 }
 
-.panel.min50
+.min-vh-50
 {
 	min-height: 50vh;
+}
+
+.v-center
+{
 	display: flex;
 	flex-direction: column;
-	justify-content:center;
+	justify-content: center;
 }
