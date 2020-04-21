@@ -2,6 +2,7 @@
 name: Programmeertheorie
 keuzevak: true
 doelgroep: Onder andere voor studenten informatica en iedereen met substantiële programmeerervaring
+periode: Fulltime, naar keuze in januari of juni
 studiegids: https://studiegids.uva.nl/xmlpages/page/2019-2020/zoek-vak/vak/72969
 vakcode:
     fulltime: 5062PRTH6Y

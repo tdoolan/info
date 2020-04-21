@@ -36,7 +36,7 @@ p
 
 #mainnav .navbar-brand img
 {
-	vertical-align:text-top;
+	vertical-align:-6px;
 	height:1.5rem;
 }
 

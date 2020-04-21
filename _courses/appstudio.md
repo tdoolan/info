@@ -3,6 +3,7 @@ name: Web App Studio
 image: apps.svg
 keuzevak: true
 doelgroep: Onder andere voor studenten Informatiekunde
+periode: Parttime, naar keuze in september-oktober of februari-maart
 online: https://apps.mprog.nl/
 studiegids: https://studiegids.uva.nl/xmlpages/page/2019-2020/zoek-vak/vak/73052
 vakcode:

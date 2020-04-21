@@ -2,6 +2,7 @@
 name: Collectieve Intelligentie
 keuzevak: true
 doelgroep: Voor studenten met een goede kennis van Python
+periode: Parttime, in april-mei
 studiegids: https://studiegids.uva.nl/xmlpages/page/2019-2020/zoek-vak/vak/72885
 vakcode:
     parttime: 5072COIN6Y

@@ -68,22 +68,38 @@ layout: default
             </p>
     </div>
     <div class="gallery small pb-4" style="transform: rotate(-2deg); width:initial; margin:0 -2.5rem;">
-        <img src="{{ site.baseurl }}/assets/team/bas.jpg">
-        <img src="{{ site.baseurl }}/assets/team/edwin.jpg">
-        <img src="{{ site.baseurl }}/assets/team/emma.jpg">
-        <img src="{{ site.baseurl }}/assets/team/floor.jpg">
-        <img src="{{ site.baseurl }}/assets/team/jasper.jpg">
-        <img src="{{ site.baseurl }}/assets/team/jelle.jpg">
-        <img src="{{ site.baseurl }}/assets/team/lotte.jpg">
-        <img src="{{ site.baseurl }}/assets/team/marijn.jpg">
-        <img src="{{ site.baseurl }}/assets/team/martijn.jpg">
-        <img src="{{ site.baseurl }}/assets/team/natasja.jpg">
-        <img src="{{ site.baseurl }}/assets/team/nigel.jpg">
-        <img src="{{ site.baseurl }}/assets/team/quinten.jpg">
-        <img src="{{ site.baseurl }}/assets/team/rebecca.jpg">
-        <img src="{{ site.baseurl }}/assets/team/sam.jpg">
-        <img src="{{ site.baseurl }}/assets/team/simon.jpg">
-        <img src="{{ site.baseurl }}/assets/team/wouter.jpg">
+        <img src="{{ site.baseurl }}/assets/team/bas.jpg"
+            data-toggle="tooltip" data-placement="top" title="Bas">
+        <img src="{{ site.baseurl }}/assets/team/edwin.jpg"
+            data-toggle="tooltip" data-placement="top" title="Edwin">
+        <img src="{{ site.baseurl }}/assets/team/emma.jpg"
+            data-toggle="tooltip" data-placement="top" title="Emma">
+        <img src="{{ site.baseurl }}/assets/team/floor.jpg"
+            data-toggle="tooltip" data-placement="top" title="Floor">
+        <img src="{{ site.baseurl }}/assets/team/jasper.jpg"
+            data-toggle="tooltip" data-placement="top" title="Jasper">
+        <img src="{{ site.baseurl }}/assets/team/jelle.jpg"
+            data-toggle="tooltip" data-placement="top" title="Jelle">
+        <img src="{{ site.baseurl }}/assets/team/lotte.jpg"
+            data-toggle="tooltip" data-placement="top" title="Lotte">
+        <img src="{{ site.baseurl }}/assets/team/marijn.jpg"
+            data-toggle="tooltip" data-placement="top" title="Marijn">
+        <img src="{{ site.baseurl }}/assets/team/martijn.jpg"
+            data-toggle="tooltip" data-placement="top" title="Martijn">
+        <img src="{{ site.baseurl }}/assets/team/natasja.jpg"
+            data-toggle="tooltip" data-placement="top" title="Natasja">
+        <img src="{{ site.baseurl }}/assets/team/nigel.jpg"
+            data-toggle="tooltip" data-placement="top" title="Nigel">
+        <img src="{{ site.baseurl }}/assets/team/quinten.jpg"
+            data-toggle="tooltip" data-placement="top" title="Quinten">
+        <img src="{{ site.baseurl }}/assets/team/rebecca.jpg"
+            data-toggle="tooltip" data-placement="top" title="Rebecca">
+        <img src="{{ site.baseurl }}/assets/team/sam.jpg"
+            data-toggle="tooltip" data-placement="top" title="Sam">
+        <img src="{{ site.baseurl }}/assets/team/simon.jpg"
+            data-toggle="tooltip" data-placement="top" title="Simon">
+        <img src="{{ site.baseurl }}/assets/team/wouter.jpg"
+            data-toggle="tooltip" data-placement="top" title="Wouter">
     </div>
 </div>
 
@@ -107,19 +123,19 @@ layout: default
         </p>
     </div>
     <div class="pt-4 d-flex flex-column flex-md-row align-items-top justify-content-around">
-        <div class="px-3">
+        <div class="px-3 mb-4">
             <a href="/minoren/minprog/" class="text-reset">
                 <img class="card-img-top w-75 pb-4" src="{{ site.baseurl }}/assets/home/keuze-prog.png">
                 <h5>Minor<br>Programmeren</h5>
             </a>
         </div>
-        <div class="px-3">
+        <div class="px-3 mb-4">
             <a href="/minoren/minai/" class="text-reset">
                 <img class="card-img-top w-75 pb-4" src="{{ site.baseurl }}/assets/home/keuze-ai.png">
-                <h5>Minor<br>Kunstmatige Intelligentie</h5>
+                <h5>Minor<br>AI</h5>
             </a>
         </div>
-        <div class="px-3">
+        <div class="px-3 mb-4">
             <a href="/keuzevakken/" class="text-reset">
                 <img class="card-img-top w-75 pb-4" src="{{ site.baseurl }}/assets/home/keuze-scientific.png">
                 <h5>Keuzevakken</h5>
@@ -127,3 +143,16 @@ layout: default
         </div>
     </div>
 </div>
+
+<div class="panel-bg panel-padded panel-content-50">
+    <h1 class="display-4">Vragen</h1>
+    <p class="display-6">
+        Heb je nog vragen? Stuur een e-mail naar <a href="mailto:help@mprog.nl">help@mprog.nl</a>. E&eacute;n van de docenten of assistenten zal je te woord staan.
+    </p>
+</div>
+
+<script>
+    $(function () {
+      $('[data-toggle="tooltip"]').tooltip()
+    })
+</script>

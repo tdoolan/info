@@ -3,6 +3,7 @@ name: Programmeerproject
 image: apps.svg
 keuzevak: true
 doelgroep: Onder andere voor studenten Informatiekunde
+periode: Parttime, naar keuze in november-december of april-mei
 studiegids: https://studiegids.uva.nl/xmlpages/page/2019-2020/zoek-vak/vak/72970
 vakcode:
     parttime: 5062PRPR6Y
