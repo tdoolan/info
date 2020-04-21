@@ -23,6 +23,30 @@ We gebruiken de tijd om je heel veel zelf te laten programmeren, maar ook om je 
 
 Als je je inschrijft voor de minor programmeren, kies je zelf de blokken waarin je de vakken gaat volgen en de werkgroepen waar je aanwezig bent. De vakken kennen een verplichte aanwezigheid van 12 uur per week: daarom kun je zelf een werkgroep kiezen die goed te combineren is met een ander vak in dezelfde periode. 
 
+<div class="panel text-center bg-light px-3 py-5" style="margin-top:6rem;">
+    
+    <h1 class="display-3">Vakken</h1>
+    
+    <p class="display-6 w-50 mx-auto">Dit zijn de vakken die je volgt tijdens de Minor Kunstmatige Intelligentie. Elk vak is 6 studiepunten, dus ongeveer 160 uur aan studietijd.</p>
+
+    <div class="w-75-centered mt-5 text-left row row-cols-1 row-cols-md-2">
+        {% assign courses = site.courses | sort: "order" %}
+        {% for course in courses %}
+        {% if course.curriculum == "Minor KI" %}
+        <div class="col mb-4 px-0 px-md-3">
+            <div class="card mb-3 bg-light border-0 h-100" style="smax-width: 540px;">
+                <div class="card-body psx-0 px-md-3">
+                    <h5 class="card-title">{{ course.name }}</h5>
+                    <p class="card-text">{{ course.content | markdownify }}</p>
+                </div>
+            </div>
+        </div>  
+        {% endif %}
+        {% endfor %}
+    </div>
+
+</div>
+
 <div class="row my-4" style="">
     <div class="col">
         <img class="img-fluid" src="/assets/home/bots.jpeg">
