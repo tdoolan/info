@@ -142,6 +142,10 @@
   margin-top:10px;
 }
 
+.card-title-responsive {
+  display: none;
+}
+
 #datascience h6.card-title, #KI h6.card-title {
   color: black;
 }
@@ -152,4 +156,79 @@
 
 #datascience {
   margin-bottom: 20px;
+}
+
+.space {
+  height: 100px;
+  display: none;
+}
+
+
+@media only screen and (max-width: 820px) {
+  .wrapper {
+    display: block;
+    margin: auto;
+    align-content: center;
+  }
+
+  .wrapper img {
+    max-width: 80px;
+    max-height: 80px;
+  }
+
+  .keuzehulp .col {
+    max-width: 100%;
+    margin-top: 20px;
+  }
+
+  .keuzehulp .card img {
+    float: right;
+    position: absolute;
+    margin: 10px;
+    right: 5%;
+  }
+
+  .minor-title {
+    margin-top: 20px;
+  }
+
+  .keuzehulp .card ul > li > p {
+      margin-bottom: 1px;
+      font-size: 1.2em;
+  }
+  .keuzehulp .card-body p {
+    font-size: 13px;}
+
+  hr {
+    margin-top: 45px;
+  }
+
+  #programmeren, #computational, #informationsystems, #AI, #scientific {
+    height: auto;
+  }
+
+  .space {
+    display: block;
+  }
+
+  .card-title {
+    display: none;
+  }
+
+  .card-title-responsive {
+    display: block;
+  }
+  .keuzehulp h5 {
+    margin-left: 10px;
+    font-size: 18px;
+    text-align: left;
+}
+
+}
+
+@media only screen and (max-width: 1070px) {
+  #programmeren, #computational, #informationsystems, #AI, #scientific {
+    height: auto;
+  }
+
 }
