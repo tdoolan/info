@@ -7,4 +7,4 @@ vakcode:
     parttime: 50621SCP3Y
 ---
 
-In this course you'll learn Python, a programming language that is increasingly used by scientists from all fields of study. We focus on the absolute basics of programming, which you will learn while doing programming problems from several scientific areas.
+In dit vak leer je om je eigen pipeline te maken voor het verwerken van data. Een data pipeline is een sequentie van verwerkingstappen om van een ruwe data bron uiteindelijk tot bruikbare informatie te komen. We zullen veelvoorkomende stappen in een pipeline, zoals het vergaren, inlezen, transformeren, analyseren, en visualiseren van data, behandelen. Daarnaast zullen we specifiek kijken naar hoe machine learning algoritmen kunnen worden toegepast om deze stappen uit te breiden. We sluiten het vak af met een project waarbij je je eigen data pipeline ontwerpt en implementeert.

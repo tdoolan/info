@@ -7,4 +7,4 @@ vakcode:
     parttime: 50621SCP3Y
 ---
 
-In this course you'll learn Python, a programming language that is increasingly used by scientists from all fields of study. We focus on the absolute basics of programming, which you will learn while doing programming problems from several scientific areas.
+In dit vak zul je bekend raken met Python. Python is een programmeertaal die steeds meer gebruikt wordt voor data analyse door wetenschappers uit ieder wetenschapsveld. We zullen beginnen bij de basis van het programmeren, wat je zult leren terwijl je kleine problemen oplost uit verscheidene wetenschapsvelden. Daarna gaan we door met het verkennen van Python en programmeren in het algemeen, terwijl we wat grotere problemen en data sets aanpakken, en dus ook grotere programma's schrijven.

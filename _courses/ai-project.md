@@ -7,4 +7,4 @@ vakcode:
     parttime: 50621SCP3Y
 ---
 
-In this course you'll learn Python, a programming language that is increasingly used by scientists from all fields of study. We focus on the absolute basics of programming, which you will learn while doing programming problems from several scientific areas.
+In dit vak zul je alle geleerde vaardigheden voor programmeren en data verwerking, en alle kennis van machine learning modellen en de toepassing daarvan, in een eindproject gaan implementeren. Voor dit project zul je met een team van studenten een maand lang aan een machine learning case werken, waarbij jullie itereren over alle aspecten van de case; van probleem analyse en data cleaning, tot het benchmarken van verschillende modellen tegen elkaar. Uiteindelijk beschrijf je de gehele oplossing, van initieel probleem tot eindproduct, in een verslag.
