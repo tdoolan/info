@@ -7,7 +7,6 @@ p
 
 .mainnav
 {
-/*	background-color:#28ABE2;*/
 	background-color:#0E1F2B;
 	opacity:0.98;
 }
@@ -22,16 +21,9 @@ p
 	align-items: flex-start;
 }
 
-#mainnav .navbar-nav
-{
-/*	width:100%;*/
-	
-}
-
 #mainnav .navbar-nav .nav-item
 {
 	flex: 1 1 auto;
-	//margin-right:2rem;
 }
 
 #mainnav .navbar-brand img
@@ -40,19 +32,6 @@ p
 	height:1.5rem;
 }
 
-/*@media (min-width: 48em) {
-	.content {
-		padding-top:3rem;
-	}
-}
-
-@media (min-width: 64em) {
-	.content {
-		margin-left: 20rem;
-		margin-right: 2rem;
-	}
-}
-*/
 div.gallery
 {
 	display: flex;
@@ -155,7 +134,7 @@ div.gallery.small img
 	}
 	.w-50
 	{
-		width:initial!important;
+		width:100%!important;
 	}
 }
 
