@@ -8,4 +8,4 @@ vakcode:
     fulltime: 5062PRTH6Y
 ---
 
-Heuristieken zijn technieken waarmee je problemen kunt oplossen die je met de hand, maar ook met een computer niet volledig kan doorrekenen. Door op een slimme manier de mogelijke oplossingen te bestuderen, kun je er een hoop uitsluiten, waardoor je sneller tot de beste oplossing komt. Het probleem is wel dat je de allerbeste oplossing misschien ook uitsluit, maar dat nemen we dan maar voor lief.
+Heuristieken zijn technieken waarmee je problemen kunt oplossen die je met de hand, maar ook met een computer niet volledig kan doorrekenen. Door op een slimme manier de mogelijke oplossingen te bestuderen, kun je er een hoop uitsluiten, waardoor je sneller tot de beste oplossing komt. Het probleem is wel dat je de allerbeste oplossing misschien ook uitsluit, maar dat nemen we dan maar voor lief. Een klassiek onderwerp uit de kunstmatige intelligentie!
