@@ -3,35 +3,35 @@ layout: minai
 title: Minor AI
 ---
 
-<div class="panel text-center">
-    <div class="row min-vh-75">
-        <div class="col-md-7 col-xl-8">
-            <img class="mb-5 img-fluid" src="{{ site.baseurl }}/assets/minorki/ml1cropped.png">
-        </div>
-        <div class="col-md-5 col-xl-4 d-flex flex-column justify-content-end text-right" style="smax-width:min-content;">
+<div class="panel position-relative">
+        <img class="mb-5 img-fluid" src="{{ site.baseurl }}/assets/minorki/ml1cropped.png">
+        <div class="position-absolute text-right" style="width:33%; bottom:1rem; right:1rem;">
             <h1 class="display-4 d-inline" style="font-size:5.5rem;">Minor AI</h1>
-            <h1 class="" style="font-size:1.5rem;"><small>Leer in vijf maanden programmeren en  AI-technieken toepassen</small></h1>
+            <h1 class="" style="font-size:1.5rem;"><small>Leer in vijf maanden programmeren en problemen oplossen met machine learning</small></h1>
         </div>
-    </div>
 </div>
 
 <div class="panel min-vh-50 v-center w-75-centered text-center">
     <p class="display-5">
-        Bij de minor AI kun je kennis maken met kunstmatige intelligentie. We presenteren je een breed scala aan algoritmen, waarvan je een deel zelf gaat bouwen en toepassen op levensechte problemen.
+        Bij de minor AI kun je kennis maken met kunstmatige intelligentie. We presenteren 
+        je allerlei algoritmen, waarvan je een deel zelf gaat bouwen en toepassen op 
+        levensechte problemen. De minor heeft <em>geen</em> 
+        ingangseisen op gebied van programmeren of wiskunde: wat je nodig hebt 
+        ga je bij ons leren!
     </p>
 </div>
 
-<div class="panel">
+<div class="panel-bg p-0">
     <img class="img-fluid" src="{{ site.baseurl }}/assets/minorki/mensen.jpeg">
 </div>
 
-<div class="panel min-vh-75 v-center">
-    <div class="row mt-5">
-        <div class="col-md-6 px-5 pt-5">
-            <h1>Aanbod</h1>
+<div class="panel v-center">
+    <div class="row">
+        <div class="col-md-6 px-md-5 mb-5">
+            <h2>Aanbod</h2>
             <p class="display-6">
                 Komend studiejaar wordt de minor twee keer gegeven voor
-                maximaal 25 studenten per semester. Wil je meedoen,
+                maximaal 24 studenten per semester. Wil je meedoen,
                 dan verwachten we dat je fulltime reserveert voor de vakken. Er is dan ook 
                 een (online) aanwezigheidsplicht: de deelnemers worden in teams ingedeeld die
                 vijf maanden lang samen studeren en leren.
@@ -39,27 +39,32 @@ title: Minor AI
                 de voorkeur uitgaat naar studenten met geen tot weinig programmeerervaring.
             </p>
         </div>
-        <div class="col-md-6 px-5">
-            <h1>Inhoud</h1>
+        <div class="col-md-6 px-md-5">
+            <h2>Selectie</h2>
             <p class="display-6">
-                De minor bestaat uit het leren programmeren en het leren verwerken van 
-                data uit concrete toepassingen. Daarnaast zullen we de wiskunde behandelen 
-                die de drijvende kracht is achter deze algoritmen: statistiek
-                en calculus. We zullen ook de filosofische en maatschappelijke 
-                consequenties van lerende systemen bespreken. En deze minor heeft <em>geen</em> 
-                ingangseisen op gebied van programmeren of wiskunde: wat je nodig hebt 
-                ga je bij ons leren.
+                Er zullen in de minor AI dit jaar 24 plaatsen beschikbaar zijn, in de digitale of in-persoon versie van het onderwijs, afhankelijk van de maatregelen op dat moment. Deze minor heeft geen ingangseisen, behalve wiskunde op VWO niveau, en dus ook geen eisen voor A of B. Er zal vanwege het beperkt aantal plaatsen wel een selectie procedure zijn.
+
+                De minor richt zich specifiek op studenten met minder voorkennis op het gebied van wiskunde en programmeren, dus we willen graag weten met welke voorkennis je precies binnen komt, zodat we hier een gebalanceerde mix in kunnen maken. Verder zijn de behandelde onderwerpen soms vrij interdiciplinair, dus mikken we ook op een hetrogene groep van oorspronkelijke studies.
+
+                Als je het formulier hebt in gevuld met je achtergrond kennis, studie die je op dit moment doet en motivatie, krijg je van ons een reactie met mogelijk een uitnodiging voor een Zoom gesprek. De deadline voor de aanmeldingen is ....
             </p>
         </div>
     </div>
 </div>
 
 
-<div class="panel text-center bg-light px-3 py-5" style="margin-top:6rem;">
+<div class="panel-padded panel-bg text-center bg-light">
     
     <h1 class="display-3">Vakken</h1>
     
-    <p class="display-6 w-50 mx-auto">Dit zijn de vakken die je volgt tijdens de Minor Kunstmatige Intelligentie. Elk vak is 6 studiepunten, dus ongeveer 160 uur aan studietijd.</p>
+    <p class="display-6 w-50 mx-auto">
+        De minor bestaat uit het leren programmeren en het leren verwerken van 
+        data uit concrete toepassingen. Daarnaast zullen we de wiskunde behandelen 
+        die de drijvende kracht is achter deze algoritmen: statistiek
+        en calculus. We zullen ook de filosofische en maatschappelijke 
+        consequenties van lerende systemen bespreken. Elk vak is 6 studiepunten, dus 
+        ongeveer 160 uur aan studietijd.
+    </p>
 
     <div class="w-75-centered mt-5 text-left row row-cols-1 row-cols-md-2">
         {% assign courses = site.courses | sort: "order" %}
@@ -80,18 +85,19 @@ title: Minor AI
 </div>
 
 
-<div class="panel text-center">
+
+<div class="panel text-md-center">
     
     <h1 class="display-3">Alternatieven</h1>
     
-    <p class="display-6 w-50-centered mx-auto pb-5">
-        Heb je al meer programmeerervaring? Dan zijn er bij de UvA twee andere minoren waar je aan mee kunt doen.
+    <p class="display-6 w-50-centered mx-auto pb-md-5">
+        Heb je al meer programmeerervaring? Dan zijn er bij de UvA twee andere AI-minoren waar je aan mee kunt doen.
     </p>
 
     <div class="row row-cols-1 row-cols-md-2 w-75-centered">
         <div class="col mb-4 border-right">
             <div class="card shadows border-0">
-                <div class="card-body p-5">
+                <div class="card-body p-md-5">
                     <h5 class="card-title">
                         Minor Kunstmatige Intelligentie<br>
                         (op maat samengesteld)
@@ -108,7 +114,7 @@ title: Minor AI
         </div>
         <div class="col">
             <div class="card shadows border-0">
-                <div class="card-body p-5">
+                <div class="card-body p-md-5">
                     <h5 class="card-title">Minor Data Science and Artificial Intelligence</h5>
                     <p class="card-text">
                         Je volgt een vast programma van minorvakken bij de faculteit
@@ -123,8 +129,8 @@ title: Minor AI
         </div>
     </div>
     
-    <div class="text-center" class="m-3">
-        <a href="{{ site.baseurl }}/minoren/keuzehulp/" class="text-reset d-block p-5 w-100 h-100">
+    <div class="text-md-center" class="m-3">
+        <a href="{{ site.baseurl }}/keuzehulp/" class="text-reset d-block p-md-5 w-100 h-100">
         Wil je vergelijken met meer minoren uit het vakgebied van de informatica? 
         Ga naar de keuzehulp →
         </a>
@@ -138,7 +144,7 @@ title: Minor AI
     <div class="px-4">
         <h1 class="display-3 text-center mb-4">Aanmelden</h1>
         <p class="w-50 mx-auto mb-5" style="font-size:1.2rem;">
-            Om je aanmelding te starten voor de minor Kunstmatige Intelligentie vul je eerst op deze website je gegevens in. Daarna 
+            Om je aanmelding te starten voor de minor AI vul je eerst op deze website je gegevens in. Daarna 
             start een selectie- en adviestraject. Als je geselecteerd wordt voor de minor dan
             helpen we je verder met de vakinschrijving.
         </p>
