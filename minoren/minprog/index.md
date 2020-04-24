@@ -3,21 +3,14 @@ layout: minprog
 title: Minor Programmeren
 ---
 
-<div class="d-flex align-items-center justify-content-center " style="background-color: #fafafa; height:75vh; ">
+<div class="panel panel-75vh  position-relative text-center d-flex flex-column" style="height:75vh">
+    <img class="mb-5 img-fluid d-block" src="{{ site.baseurl }}/assets/logos/programmeren.svg">
     <div>
-        <!-- bootstrap icon -->
-        <svg class="bi bi-terminal mx-auto" width="10em" height="10em" viewBox="0 0 16 16" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
-          <path fill-rule="evenodd" d="M14 2H2a1 1 0 00-1 1v10a1 1 0 001 1h12a1 1 0 001-1V3a1 1 0 00-1-1zM2 1a2 2 0 00-2 2v10a2 2 0 002 2h12a2 2 0 002-2V3a2 2 0 00-2-2H2z" clip-rule="evenodd"/>
-          <path fill-rule="evenodd" d="M6 9a.5.5 0 01.5-.5h3a.5.5 0 010 1h-3A.5.5 0 016 9zM3.146 4.146a.5.5 0 01.708 0l2 2a.5.5 0 010 .708l-2 2a.5.5 0 11-.708-.708L4.793 6.5 3.146 4.854a.5.5 0 010-.708z" clip-rule="evenodd"/>
-        </svg>
-    <h1 class="display-3 text-center" style="vertical-align:center">Minor Programmeren</h1>
-    <ul style="list-style-type:none; padding-left:0;">
-        <li>Keuzeprogramma 30 studiepunten.</li>
-        <li>Alles in één semester, of verdeeld over het jaar.</li>
-        <li>Keuze tussen webprogrammeren en wetenschappelijke toepassing.</li>
-    </ul>
+        <h1 class="display-4 d-inline" style="font-size:5.5rem;">Minor Programmeren</h1>
+        <h1 class="" style="font-size:1.5rem;"><small>Leer in vijf maanden programmeren en ...</small></h1>
+    </div>
 </div>
-</div>
+
 
 We gebruiken de tijd om je heel veel zelf te laten programmeren, maar ook om je kennis te laten maken met de manier van werken en de taal van het vakgebied, zodat je niet alleen zelf programma's kunt schrijven maar ook op een effectieve manier kunt samenwerken met andere programmeurs. 
 
