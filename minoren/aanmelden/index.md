@@ -1,3 +1,7 @@
+---
+layout: page
+---
+
 # Aanmelden
 
 De procedure verschilt afhankelijk van je inschrijving bij de universiteit.
