@@ -17,7 +17,7 @@ title: Minor Programmeren
 
 <div class="row my-5 row-cols-1 row-cols-md-2" style="">
     <div class="col">
-        <img class="img-fluid" src="/assets/minprog/bots.jpeg">
+        <img class="img-fluid" src="{{ site.baseurl }}/assets/minprog/bots.jpeg">
     </div>
     <div class="col">
         <h1>Inhoud</h1>
@@ -52,7 +52,7 @@ title: Minor Programmeren
 
 <div class="row my-5 row-cols-1 row-cols-md-2" style="">
     <div class="col">
-        <img class="img-fluid" src="/assets/minprog/college.jpeg">
+        <img class="img-fluid" src="{{ site.baseurl }}/assets/minprog/college.jpeg">
     </div>
     <div class="col">
         <h1>Werkwijze</h1>
@@ -136,7 +136,7 @@ In de laatste fase ga je in teams aan de slag met algoritmen en datastructuren. 
         </p>
     </div>
     <div class="col">
-        <img class="img-fluid" src="/assets/home/bots.jpeg">
+        <img class="img-fluid" src="{{ site.baseurl }}/assets/home/bots.jpeg">
     </div>
 </div>
 
