@@ -1,7 +1,7 @@
 ---
 name: Python voor Data Processing
 curriculum: Minor KI
-order: 3
+order: 1
 image: sp1.png
 vakcode:
     parttime: 50621SCP3Y

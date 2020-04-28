@@ -1,7 +1,7 @@
 ---
 name: Introduction to Machine Learning 1
 curriculum: Minor KI
-order: 1
+order: 2
 image: sp1.png
 vakcode:
     parttime: 50621SCP3Y
