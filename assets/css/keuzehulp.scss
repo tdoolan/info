@@ -2,15 +2,8 @@
 ---
 
 .keuzehulp  {
-    color: grey;
-//    position: relative;
-//    width: 100vw;
-//    margin-left: -50vw;
-//    left: 50%;
 
-    .col {
-        padding-left: 9px;
-    }
+    color: grey;
 
     .card img {
         padding: 10px 4px 4px 4px;
@@ -25,7 +18,31 @@
         opacity: 1;
         transition: all 0.5s;
         border: none;
-        box-shadow: 0 1rem 3rem rgba(0,0,0,.175)
+        box-shadow: 0 1rem 2rem rgba(0,0,0,.175);
+        
+        font-size: 0.75rem;
+
+        .card-link+.card-link
+        {
+            margin-left: 0.75rem;
+        }
+        
+        a
+        {
+            margin-top: 8px;
+            padding-bottom: 10px;
+        }
+        
+        a:after
+        {
+            content:" \2192";
+        }
+
+        li
+        {
+            font-size: 12px;
+            color: black;
+        }
     }
 
     .card-body {
@@ -39,18 +56,6 @@
         margin: 0px;
     }
 
-    .card a {
-        color: darkgrey;
-        margin-left: 10px;
-        margin-top: 8px;
-        padding-bottom: 10px;
-    }
-
-    .card li {
-        font-size: 12px;
-        color: black;
-    }
-
     .card-text {
         font-size: 12px;
     }
@@ -61,7 +66,6 @@
 
     .row, .nav {
         height: 100%;
-//        position: absolute;
         top: 0;
     }
 
@@ -73,10 +77,7 @@
     }
 
     .row {
-//        width: 100%;
         z-index: 10;
-        margin: auto;
-//        padding: 2.5%;
         padding-top: 0%;
     }
 
