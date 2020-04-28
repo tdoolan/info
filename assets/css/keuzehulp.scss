@@ -14,7 +14,6 @@
 
     .card {
         border-radius: 3px;
-        width: 102%;
         opacity: 1;
         transition: all 0.5s;
         border: none;
@@ -196,12 +195,17 @@
             max-height: 80px;
         }
 
-        .keuzehulp .col {
+        .col {
             max-width: 100%;
             margin-top: 20px;
         }
+        
+        .card
+        {
+            box-shadow: 0 1rem 1rem rgba(0,0,0,.175);
+        }
 
-        .keuzehulp .card img {
+        .card img {
             float: right;
             position: absolute;
             margin: 10px;
