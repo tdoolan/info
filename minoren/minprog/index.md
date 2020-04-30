@@ -134,6 +134,13 @@ title: Minor Programmeren
     <p class="display-6">
         De minor Programmeren is toegankelijk voor alle studenten van universiteit en hbo uit het derde jaar of hoger. Studeer je nog niet aan de UvA? Dan kun je bijvakker worden zonder extra collegegeld te betalen. Let op dat je voor inschrijving als bijvakker wel een vwo-diploma of een hbo-propedeuse moet hebben. Na je aanmelding helpen we je door alle benodigde stappen heen.
     </p>
+    
+    <h2>Benodigdheden</h2>
+    <p class="display-6">
+        Om mee te doen aan deze minor heb je een eigen laptop nodig. Dit hoeft geen
+        gloednieuw exemplaar te zijn. Mac, Windows of Linux zijn allemaal prima. Een goedwerkende
+        wifi-verbinding is wel heel belangrijk.
+    </p>
 </div>
 
 
