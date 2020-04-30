@@ -25,9 +25,11 @@ title: Minor Programmeren
             De minor Programmeren is 30 studiepunten en volg je standaard in een halfjaar. Je leert eerst uitgebreid de basis van programmeren (en meteen hoe een computer werkt), daarna ga je je specialiseren in het ontwikkelen van webapplicaties of wetenschappelijk programmeren.
         </p>
         <p class="display-6">
-        
             We gebruiken de tijd om je heel veel zelf te laten programmeren, maar ook om je kennis te laten maken met de manier van werken en de taal van het vakgebied, zodat je niet alleen zelf programma's kunt schrijven, maar ook op een effectieve manier kunt samenwerken met andere programmeurs. 
-            
+        </p>
+        <p class="display-6">
+            Om mee te doen heb je geen enkele voorkennis van programmeren nodig, alleen een 
+            motivatie om vijf maanden heel hard te werken!
         </p>
     </div>
 </div>
@@ -86,7 +88,7 @@ title: Minor Programmeren
             dagelijks samen met je team, waar mogelijk op locatie en anders met een videoverbinding.
         </p>
         <p class="display-6">
-            Wil je de minor verspreiden, dan kan dit voor de meeste vakken <strong>parttime</strong>. We gaan
+            Wil je de minor verspreiden over meer dan vijf maanden, dan kun je de meeste vakken <strong>parttime</strong> volgen. We gaan
             er vanuit dat je zo'n 20 uur per week aan de vakken kwijt bent. Dat is nog steeds een
             flinke last! Een deel van die tijd ga je aan de slag met je team van medestudenten en
             woon je het mentoraat bij. Wekelijkse deadlines en laten zien van je programma's
