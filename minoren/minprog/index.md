@@ -76,48 +76,6 @@ title: Minor Programmeren
 </div>
 
 
-<!--<div class="panel panel-padded bg-light">
-    <div class="text-center mb-5">
-    <h1 class="display-4">Het programma</h1>
-    </div>
-
-    <div class="row px-5">
-        <div class="col">
-            <h1 class=""><small>Fase 1</small><br>Programmeren</h1>
-        </div>
-        <div class="col">
-            <p>
-                Allereerst ga je aan de slag met kleine en grotere opdrachten om je persoonlijke kennis en vaardigheid met het programmeren te ontwikkelen. De talen die je leert zijn onder andere C en Python.
-            </p>
-        </div>
-    </div>
-
-    <div class="row px-5 mt-5">
-        <div class="col">
-            <h1 class=""><small>Fase 2</small><br>Platforms</h1>
-        </div>
-        <div class="col">
-            <p>
-Dan volgt twee maanden webprogrammeren. Je leert verder over de front-end met HTML, CSS en Javascript. En je duikt de wereld van de webservers in met Python. Zo leer je tijdens een aantal wat grotere projecten alle aspecten kennen van het maken van goede, mooie, nuttige en interessante websites. Vervolgens ga je zelf een project definiëren en een website bouwen. We helpen je daarbij je idee vorm te geven, verder te ontwikkelen en gestructureerd omzetten in een goedwerkende webapplicatie die iedereen online kan uitproberen.
-
-            </p>
-
-        </div>
-    </div>
-
-    <div class="row px-5 mt-5">
-        <div class="col">
-            <h1 class=""><small>Fase 3</small><br>Algoritmen</h1>
-        </div>
-        <div class="col">
-            <p>
-In de laatste fase ga je in teams aan de slag met algoritmen en datastructuren. In dit vak is het doel om computers te gebruiken om voor mensen “onoplosbare problemen” toch tot een goed einde te brengen. Technieken uit de kunstmatige intelligentie kunnen daar goed bij helpen. Het is een project met veel verschillende cases om uit te kiezen en elk team kan volledig z’n eigen aanpak kiezen.
-
-            </p>
-        </div>
-    </div>
-</div> -->
-
 <div class="row my-4" style="">
     <div class="col">
         <h1>Fulltime of parttime</h1>
@@ -155,8 +113,9 @@ In de laatste fase ga je in teams aan de slag met algoritmen en datastructuren. 
         <div class="col mb-4 px-0 px-md-3">
             <div class="card mb-3 bg-light border-0 h-100" style="smax-width: 540px;">
                 <div class="card-body">
-                    <h5 class="card-title">{{ course.name }}</h5>
-                    <p class="card-text">{{ course.content | markdownify }}</p>
+                    <h5 class="card-title mb-0">{{ course.name }}</h5>
+                    <p class="text-muted">Niveau: {{ course.niveau }}</p>
+                    <p class="card-text mt-3">{{ course.content | markdownify }}</p>
                 </div>
             </div>
         </div>  
@@ -171,7 +130,7 @@ In de laatste fase ga je in teams aan de slag met algoritmen en datastructuren. 
 <div class="panel-bg panel-padded panel-content-50">
     <h1 class="display-4">Toelating</h1>
     <p class="display-6">
-        De minor Programmeren is toegankelijk voor alle derdejaarsstudenten van universiteit en hbo. Studeer je nog niet aan de UvA? Dan kun je bijvakker worden zonder extra collegegeld te betalen. Let op dat je voor inschrijving als bijvakker wel een vwo-diploma of een hbo-propedeuse moet hebben. Na je aanmelding helpen we je door alle benodigde stappen heen.
+        De minor Programmeren is toegankelijk voor alle studenten van universiteit en hbo uit het derde jaar of hoger. Studeer je nog niet aan de UvA? Dan kun je bijvakker worden zonder extra collegegeld te betalen. Let op dat je voor inschrijving als bijvakker wel een vwo-diploma of een hbo-propedeuse moet hebben. Na je aanmelding helpen we je door alle benodigde stappen heen.
     </p>
 </div>
 

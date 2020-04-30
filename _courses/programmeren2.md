@@ -2,6 +2,7 @@
 name: Programmeren 2
 curriculum: Minor Programmeren
 order: 2
+niveau: tweedejaars
 vakcode:
     fulltime: 50622FUP6Y
     parttime: 50622PRP6Y

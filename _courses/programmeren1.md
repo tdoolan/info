@@ -4,6 +4,7 @@ curriculum: Minor Programmeren
 order: 1
 keuzevak: true
 studiegids: https://studiegids.uva.nl/xmlpages/page/2019-2020/zoek-vak/vak/72912
+niveau: eerstejaars
 vakcode:
     fulltime: 50621FUP6Y
     parttime: 50621PRP6Y

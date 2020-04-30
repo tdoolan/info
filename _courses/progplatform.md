@@ -7,6 +7,7 @@ keuzevak: true
 doelgroep: Onder andere voor studenten Informatiekunde
 periode: Parttime, naar keuze in september-oktober of februari-maart
 studiegids: https://studiegids.uva.nl/xmlpages/page/2019-2020/zoek-vak/vak/73052
+niveau: derdejaars
 vakcode:
     fulltime: 50622FUP6Y
     parttime: 50622PRP6Y
