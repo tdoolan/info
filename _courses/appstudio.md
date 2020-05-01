@@ -1,7 +1,6 @@
 ---
 name: Web App Studio
 image: apps.svg
-keuzevak: true
 doelgroep: Onder andere voor studenten Informatiekunde
 periode: Parttime, naar keuze in september-oktober of februari-maart
 online: https://apps.mprog.nl/

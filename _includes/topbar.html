@@ -5,6 +5,7 @@
         <span class="navbar-toggler-icon"></span>
     </button>
     <div class="collapse navbar-collapse" id="navbarNav">
+        {% if page.language!='english' %}
         <ul class="navbar-nav">
             <li class="nav-item">
                 <a class="nav-link" href="{{ site.baseurl }}/minoren">Minoren</a>
@@ -17,6 +18,16 @@
             </li>
             <li class="nav-item">
                 <a class="nav-link text-warning" href="{{ site.baseurl }}/keuzehulp">Keuzehulp</a>
+            </li>
+        </ul>
+        {% endif %}
+        <ul class="navbar-nav ml-auto">
+            <li class="nav-item">
+                {% if page.language=='english' %}
+                <a class="nav-link" href="{{ site.baseurl }}/">Back to Dutch</a>
+                {% else %}
+                <a class="nav-link" href="{{ site.baseurl }}/english/">English</a>
+                {% endif %}
             </li>
         </ul>
     </div>

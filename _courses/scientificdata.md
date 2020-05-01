@@ -1,5 +1,6 @@
 ---
 name: Data Processing
+curriculum: scientific
 vakcode:
     parttime: 5062DAPR6Y
 online: https://data.mprog.nl/

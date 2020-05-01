@@ -1,5 +1,6 @@
 ---
 name: Scientific Programming 2
+curriculum: scientific
 image: sp2.png
 vakcode:
     parttime: 50622SCP3Y

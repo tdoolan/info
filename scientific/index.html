@@ -1,0 +1,70 @@
+---
+title: Scientific Programming
+layout: page
+---
+
+<div class="position-relative text-center d-flex flex-column justify-content-center"
+        style="min-height:calc(100vh - 112px);">
+    <div class="my-5">
+        <img class="img-fluid" style="max-width:30vw" src="{{ site.baseurl }}/assets/logos/scientific.svg">
+    </div>
+    <div>
+        <h1 class="display-4 d-inline" style="font-size:5.5rem;">Scientific Programming</h1>
+        <h1 class="mt-3" style="font-size:1.5rem;"><small>Learn to program in Python and use your skills in scientific projects</small></h1>
+    </div>
+</div>
+
+<div class="mb-4 panel-padded panel-content-75 smin-vh-50 v-center bg-warning">
+    <p class="display-6">
+        Scientists use computation to simulate real-world scenarios, to mine data obtained in
+        large-scale studies, and to gain insights that might otherwise stay hidden. A bit of 
+        programming knowledge and a couple of 
+        basic techniques are all that you need to get better and faster results. Our courses below
+        help you learn Python, a language now often used in science, and many techniques
+        that you can use in your own projects. Whether you're a student or a seasoned researcher,
+        you're welcome to learn with us!
+    </p>
+</div>
+
+<div class="row row-cols-1 row-cols-md-2">
+    {% for course in site.courses %}
+    {% if course.curriculum=='scientific' %}
+    <div class="col mb-4">
+        <div class="card mb-3 bg-light border-0 h-100" style="min-height:20vw;">
+            <!-- <div class="card-body">
+                {% if course.image %}
+                <img src="{{ site.baseurl }}/assets/courses/{{ course.image }}" class="img" style=" max-width:200px;" alt="...">
+                {% endif %}
+            </div> -->
+            <div class="card-body flex-fill">
+                    <h4 class="card-title">{{ course.name }}</h4>
+                    <p class="card-text">{{ course.content | markdownify }}</p>
+            </div>
+        <div class="card-footer border-0">
+            <a href="{{ course.online }}" class="card-link">Visit the course website &rarr;</a>
+        </div>
+        </div>
+    </div>  
+    {% endif %}
+    {% endfor %}
+</div>
+
+<div class="min-vh-75 v-center text-center bg-warning py-5">
+    <div class="px-4">
+        <h1 class="display-3 text-center mb-4">Registration</h1>
+        <p class="w-50 mx-auto mb-5" style="font-size:1.2rem;">
+            To register for these courses, enter your information on this website, and
+            we'll guide you through the process.
+        </p>
+        <p class="mb-0">
+            <a class="btn btn-outline-dark btn-lg disabled" href="/minoren/aanmelden">Available 29 May</a>
+        </p>
+    </div>
+</div>
+
+<div class="panel-bg panel-padded panel-content-50">
+    <h1 class="display-4">Questions</h1>
+    <p class="display-6">
+        Have questions? Send us an e-mail at <a href="mailto:help@mprog.nl">help@mprog.nl</a>. One of the teachers or assistants will help you out.
+    </p>
+</div>

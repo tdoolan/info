@@ -1,5 +1,6 @@
 ---
 name: Scientific Programming 1
+curriculum: scientific
 image: sp1.png
 vakcode:
     parttime: 50621SCP3Y
