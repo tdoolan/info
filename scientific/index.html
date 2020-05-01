@@ -14,19 +14,37 @@ layout: scientific
     </div>
 </div>
 
-<div class="mb-4 panel-padded panel-content-75 smin-vh-50 v-center bg-warning">
+<div class="mb-4 panel-padded panel-content-75 v-center bg-warning">
+    <h2>
+        What this is about
+    </h1>
     <p class="display-6">
         Scientists use computation to simulate real-world scenarios, to mine data obtained in
         large-scale studies, and to gain insights that might otherwise stay hidden. A bit of 
         programming knowledge and a couple of 
         basic techniques are all that you need to get better and faster results. Our courses below
-        help you learn Python, a language now often used in science, and many techniques
+        help you learn Python, a language now often used in science, as well as many techniques
         that you can use in your own projects. Whether you're a student or a seasoned researcher,
         you're welcome to learn with us!
     </p>
+    <h2>
+        How we teach
+    </h1>
+    <p class="display-6">
+        Teaching is online for this track. The courses are self-contained and allow you to progress
+        by studying programming theory and... writing many programs!
+        All problems are small versions of real scientific computing challenges. Later, you'll
+        progress towards defining, designing and implementing larger projects. Upon registration, you get access to a forum where
+        students post questions and answers. In case you get stuck, there's also an option to book
+        a one-on-one appointment with one of the staff. 
+    </p>
 </div>
 
-<div class="row row-cols-1 row-cols-md-2">
+<div class="panel">
+    
+    <h1 class="display-3 text-center mb-4">Courses</h1>
+    
+<div class="row row-cols-1 row-cols-md-2">    
     {% for course in site.courses %}
     {% if course.curriculum=='scientific' %}
     <div class="col mb-4">
@@ -49,11 +67,14 @@ layout: scientific
     {% endfor %}
 </div>
 
+</div>
+
 <div class="min-vh-75 v-center text-center bg-warning py-5">
     <div class="px-4">
         <h1 class="display-3 text-center mb-4">Registration</h1>
         <p class="w-50 mx-auto mb-5" style="font-size:1.2rem;">
-            To register for these courses, enter your information on this website, and
+            We currently only offer these courses to UvA students and staff. 
+            To register, enter your information on this website, and
             we'll guide you through the process.
         </p>
         <p class="mb-0">
