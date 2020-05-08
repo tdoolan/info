@@ -14,7 +14,7 @@ layout: scientific
     </div>
 </div>
 
-<div class="mb-4 panel-padded panel-content-75 v-center bg-warning">
+<div class="mb-4 panel-padded panel-content-75 v-center bg-warning px-3">
     <h2>
         What this is about
     </h1>
@@ -40,35 +40,40 @@ layout: scientific
     </p>
 </div>
 
-<div class="panel">
+<div class="panel-padded">
     
     <h1 class="display-3 text-center mb-4">Courses</h1>
-    <p class="mb-4 display-6">Follow the links below to start any of our courses! If you're UvA
-        staff or student, you might consider registering to earn credit or a certificate, but this
-        is not needed to do the courses online!</p>
+    <p class="mb-5 display-6 w-50-centered">
+        Follow the links below to have a look at any of the courses. You can immediately 
+        start practicing if you'd like! And if you're a UvA
+        staff or student, you might consider registering to earn credit or a certificate as well.
+    </p>
     
-<div class="row row-cols-1 row-cols-md-2">    
-    {% for course in site.courses %}
-    {% if course.curriculum=='scientific' %}
-    <div class="col mb-4">
-        <div class="card mb-3 bg-light border-0 h-100" style="min-height:20vw;">
-            <!-- <div class="card-body">
-                {% if course.image %}
-                <img src="{{ site.baseurl }}/assets/courses/{{ course.image }}" class="img" style=" max-width:200px;" alt="...">
-                {% endif %}
-            </div> -->
-            <div class="card-body flex-fill">
+    <div class="row row-cols-1 row-cols-md-2">    
+        {% for course in site.courses %}
+        {% if course.curriculum=='scientific' %}
+        <div class="col mb-4">
+            <div class="card mb-3 bg-light border-0 h-100" style="min-height:20vw;">
+                <!-- <div class="card-body">
+                    {% if course.image %}
+                    <img src="{{ site.baseurl }}/assets/courses/{{ course.image }}" class="img" style=" max-width:200px;" alt="...">
+                    {% endif %}
+                    </div>
+                    -->
+                <div class="card-body flex-fill">
                     <h4 class="card-title">{{ course.name }}</h4>
                     <p class="card-text">{{ course.content | markdownify }}</p>
+                </div>
+                <div class="card-footer border-0">
+                    <a href="{{ course.online }}" class="card-link">
+                        Visit the course website &rarr;
+                    </a>
+                </div>
             </div>
-        <div class="card-footer border-0">
-            <a href="{{ course.online }}" class="card-link">Visit the course website &rarr;</a>
-        </div>
-        </div>
-    </div>  
-    {% endif %}
-    {% endfor %}
-</div>
+        </div>  
+        {% endif %}
+        {% endfor %}
+    </div>
 
 </div>
 
