@@ -151,9 +151,8 @@ title: Minor Programmeren
             Om je aanmelding te starten voor de minor Programmeren vul je eerst op deze website je gegevens in. Daarna helpen we je verder met alle stappen van je aanmelding.
         </p>
         <p class="mb-0">
-            <a class="btn btn-outline-dark btn-lg disabled" href="/minoren/aanmelden">Aanmelden kan vanaf 13 mei</a>
+            <a class="btn btn-outline-dark btn-lg" href="https://register.mprog.nl/">Nu aanmelden</a>
         </p>
-        <p class="w-50 mx-auto mt-5"><small>Kun je niet wachten? Dan kun je alvast je herinschrijving bij je eigen opleiding regelen voor het studiejaar 2021-2022. Kijk hiervoor op de website van je onderwijsinstelling.</small></p>
     </div>
 </div>
 
