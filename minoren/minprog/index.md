@@ -141,6 +141,11 @@ title: Minor Programmeren
         gloednieuw exemplaar te zijn. Mac, Windows of Linux zijn allemaal prima. Een goedwerkende
         wifi-verbinding is wel heel belangrijk.
     </p>
+
+    <h2>Jaarindeling en startdata</h2>
+    <p class="display-6">
+        Het eerste semester loopt van 31 augustus t/m 29 januari, en het tweede semester loopt van 1 februari t/m 25 juni. Als je een complete minor doet, dan duurt deze altijd van de eerste tot de laatste dag van het semester. Let op dat in het eerste semester geen herfstvakantie is. Een complete kalender van het academisch jaar 2020-2021 <a href="https://www.uva.nl/onderwijs/bachelor/praktische-zaken/academische-kalender/academische-kalender.html">vind je hier</a>.
+    </p>
 </div>
 
 
