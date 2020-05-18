@@ -5,7 +5,7 @@ layout: page
 # Vacatures
 {:.mt-5}
 
-## Studentassistent/begeleider <small>case studies grote systemen</small>
+## Studentassistent/begeleider<br><small>case studies grote systemen</small>
 
 Bij de minor Programmeren zoeken we een studentassistent voor individuele begeleiding van studenten. Onze studenten doen case studies van grotere softwaresystemen, leren deze in kaart brengen en aanpassingen te doen. Zo'n systeem is evolutionair ontstaan en dat betekent dat het uitpluizen van de interne structuur een pittige taak is. De voertaal is C# en goede bekendheid met ASP.net is belangrijk.
 
