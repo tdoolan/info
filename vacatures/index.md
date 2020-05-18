@@ -2,7 +2,8 @@
 layout: page
 ---
 
-# Vacatures{:.mt-5}
+# Vacatures
+{:.mt-5}
 
 ## Student-assistent grote systemen
 
