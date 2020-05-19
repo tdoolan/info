@@ -1,8 +1,11 @@
 ---
 name: Data Processing
 curriculum: scientific
-vakcode:
-    parttime: 5062DAPR6Y
+info:
+    -
+        speed: parttime
+        code: 5062DAPR6Y
+        studiegids: https://studiegids.uva.nl/xmlpages/page/2020-2021/zoek-vak/vak/79534
 online: https://data.mprog.nl/
 ---
 

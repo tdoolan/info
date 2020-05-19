@@ -2,8 +2,11 @@
 name: Scientific Programming 1
 curriculum: scientific
 image: sp1.png
-vakcode:
-    parttime: 50621SCP3Y
+info:
+    -
+        speed: parttime
+        code: 50621SCP3Y
+        studiegids: https://studiegids.uva.nl/xmlpages/page/2020-2021/zoek-vak/vak/80137
 online: https://sp1.mprog.nl/
 sources: https://github.com/uva-sp/scientific-programming-1
 ---

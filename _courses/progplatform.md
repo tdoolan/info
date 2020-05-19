@@ -1,16 +1,21 @@
 ---
-name: Programmeerplatforms
+name: Programmeerplatform
 curriculum: Minor Programmeren
 order: 3
 image: apps.svg
 keuzevak: true
 doelgroep: Onder andere voor studenten Informatiekunde
 periode: Parttime, naar keuze in september-oktober of februari-maart
-studiegids: https://studiegids.uva.nl/xmlpages/page/2019-2020/zoek-vak/vak/73052
 niveau: derdejaars
-vakcode:
-    fulltime: 50622FUP6Y
-    parttime: 50622PRP6Y
+info:
+    -
+        speed: fulltime
+        code: 5062FUPL6Y
+        studiegids: https://studiegids.uva.nl/xmlpages/page/2020-2021/zoek-vak/vak/80266
+    -
+        speed: parttime
+        code: 5062PRPT6Y
+        studiegids: https://studiegids.uva.nl/xmlpages/page/2020-2021/zoek-vak/vak/80265
 ---
 
 In deze cursus bouw je je eigen toolbox op voor het ontwikkelen van complexe applicaties. Je kunt twee kanten op:

@@ -2,8 +2,11 @@
 name: Scientific Programming 2
 curriculum: scientific
 image: sp2.png
-vakcode:
-    parttime: 50622SCP3Y
+info:
+    -
+        speed: parttime
+        code: 50622SCP3Y
+        studiegids: https://studiegids.uva.nl/xmlpages/page/2020-2021/zoek-vak/vak/80138
 online: https://sp2.mprog.nl/
 ---
 

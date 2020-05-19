@@ -118,6 +118,11 @@ title: Minor Programmeren
                     <h5 class="card-title mb-0">{{ course.name }}</h5>
                     <p class="text-muted">Niveau: {{ course.niveau }}</p>
                     <p class="card-text mt-3">{{ course.content | markdownify }}</p>
+                    {% for speed in course.info %}
+                    <p class="card-text mb-1">
+                        <a href="{{ speed.studiegids }}">Studiegids {{ speed.speed | capitalize }} &rarr;</a>
+                    </p>
+                    {% endfor %}
                 </div>
             </div>
         </div>  
