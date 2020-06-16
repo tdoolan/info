@@ -10,4 +10,4 @@ info:
 online: https://sp2.mprog.nl/
 ---
 
-This course continues the problem solving curriculum from Scientific Programming 1. You'll work on larger programs and get to know Python a lot better, so you get ready to learn more programming techniques on your own.
+This course continues the problem solving curriculum from Scientific Programming 1. You'll work on larger programs and get to know Python a lot better, so you get ready to learn more programming techniques on your own. (Workload: about 80 hours)

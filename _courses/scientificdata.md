@@ -9,4 +9,4 @@ info:
 online: https://data.mprog.nl/
 ---
 
-In this course you'll build your own toolkit of useful programs with which you can read, transform and analyse data that you might find in various scientific areas. Before starting this course, you need a thorough understanding of Python!
+In this course you'll build your own toolkit of useful programs with which you can read, transform and analyse data that you might find in various scientific areas. Before starting this course, you need a thorough understanding of Python! (Workload: about 160 hours)
