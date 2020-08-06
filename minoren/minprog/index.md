@@ -161,7 +161,7 @@ title: Minor Programmeren
             Om je aanmelding te starten voor de minor Programmeren vul je eerst op deze website je gegevens in. Daarna helpen we je verder met alle stappen van je aanmelding.
         </p>
         <p class="mb-0">
-            <a class="btn btn-outline-dark btn-lg" href="https://register.mprog.nl/">Nu aanmelden</a>
+            <a class="btn btn-outline-dark btn-lg disabled" href="https://register.mprog.nl/">Aanmelden nu niet mogelijk</a>
         </p>
     </div>
 </div>
