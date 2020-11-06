@@ -31,7 +31,7 @@ geval alvast kijken of je het leren programmeren leuk zou vinden.
 
 ## Pyramid Assignment
 
-![Ga naar de opdrachtpagina](mario.html)
+[Ga naar de opdrachtpagina](mario.html).
 
 ## Questionaire
 
