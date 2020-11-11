@@ -31,7 +31,7 @@ geval alvast kijken of je het leren programmeren leuk zou vinden.
 
 ## Pyramid Assignment
 
-[Ga naar de opdrachtpagina](mario.html).
+[Ga naar de opdrachtpagina](pyramid.html).
 
 ## Questionaire
 
@@ -39,7 +39,7 @@ De antwoorden op de vragen hieronder worden **niet** meegenomen bij je
 selectie, maar zouden is wel erg helpen om wat meer inzicht te krijgen hoe
 effectief de bovenstaande opdracht is.
 
-1. Wat je uiteindelijke oplossing voor de mario code?
+1. Wat je uiteindelijke oplossing voor de Pyramid-opdracht?
 
 2. Hoeveel uur ben je totaal ongeveer bezig geweest met de opdracht?
 
