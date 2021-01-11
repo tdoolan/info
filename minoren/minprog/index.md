@@ -165,7 +165,7 @@ title: Minor Programmeren
             Aanmelden voor 2020/2021 semester 2 is niet meer mogelijk.
         </p>
         <p class="mb-0">
-            <a class="btn btn-outline-dark btn-lg" disabled>Aanmelden voor het tweede semester</a>
+            <a class="btn btn-outline-dark btn-lg disabled">Aanmelden voor het tweede semester</a>
         </p>
     </div>
 </div>
