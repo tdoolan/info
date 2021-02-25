@@ -37,21 +37,21 @@ div.gallery
     display: flex;
     flex-wrap: wrap;
     align-items: center;
-    justify-content: space-between;
+    justify-content: space-sbetween;
     align-content: center;
     padding:0.25rem 0;
 }
 
 div.gallery img
 {
-    margin:0.25rem 0;
+    margin:0.25rem 0.125rem;
     object-fit: contain;
     border-radius:0;
 }
 
 div.gallery.small img
 {
-    margin:0.125rem 0;
+    margin:0.125rem 0.125rem;
 }
 
 @media (max-width: 575.98px)
