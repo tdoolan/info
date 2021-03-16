@@ -33,21 +33,3 @@ geval alvast kijken of je het leren programmeren leuk zou vinden.
 
 [Ga naar de opdrachtpagina](pyramid.html).
 
-## Questionaire
-
-De antwoorden op de vragen hieronder worden **niet** meegenomen bij je
-selectie, maar zouden is wel erg helpen om wat meer inzicht te krijgen hoe
-effectief de bovenstaande opdracht is.
-
-1. Wat je uiteindelijke oplossing voor de Pyramid-opdracht?
-
-2. Hoeveel uur ben je totaal ongeveer bezig geweest met de opdracht?
-
-3. Hoe moeilijk vond je deze opdracht om te maken (1 tot 5)
-
-4. Hoe leuk vond je deze opdracht om te maken (1 tot 5)
-
-5. Ben je vaak vast komen te zitten of heb je veel dingen op moeten zoeken?
-
-6. Denk je op basis van deze opdracht je dat het leuk zou vinden om meer te
-leren programmeren?
