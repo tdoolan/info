@@ -83,14 +83,13 @@ title: Minor Programmeren
             Wil je de minor in &eacute;&eacute;n semester doen, dan is dit <strong>fulltime</strong> en zul je
             vijf dagen per week van 9 tot 5 met de minor bezig zijn. Er is dan dus geen tijd
             voor bijbaantjes en andere vakken! Een keuze die je bewust moet maken. Je studeert
-            dagelijks samen met je team, waar mogelijk op locatie en anders met een videoverbinding.
+            dagelijks samen met je team, waar mogelijk op locatie, en anders met een videoverbinding.
         </p>
         <p class="display-6">
             Wil je de minor verspreiden over meer dan vijf maanden, dan kun je de meeste vakken <strong>parttime</strong> volgen. We gaan
             er vanuit dat je zo'n 20 uur per week kwijt bent aan de vakken. Dat is nog steeds een
             flinke last! Een deel van die tijd ga je aan de slag met je team van medestudenten en
-            woon je het mentoraat bij. Wekelijkse deadlines en demonstreren van je programma's
-            horen er ook bij.
+            woon je het mentoraat bij. Wekelijkse deadlines horen er ook bij.
         </p>
     </div>
     <div class="col">
@@ -103,17 +102,16 @@ title: Minor Programmeren
     
     <h2 class="display-4 markered mb-5">Vakken</h2>
     
-    <p class="display-6 w-50 mx-auto">Dit zijn de vakken die je volgt tijdens de Minor Programmeren. Elk vak is 6 studiepunten, dus ongeveer 160 uur aan studietijd.</p>
+    <p class="display-6 w-50 mx-auto">Dit zijn de vakken die je volgt tijdens de Minor Programmeren. Elk vak is 6 studiepunten, dus kost je ongeveer 160 uur aan gefocuste studie.
+        De meeste studenten vinden onze vakken zwaarder dan die van hun eigen studie (maar ook leuker!).</p>
 
-    <p class="display-6 mt-5 font-weight-bold">Deze sectie wordt binnenkort weer aangevuld met actuele informatie.</p>
-
-    <!--div class="w-75-centered mt-5 text-left ">
+    <div class="w-75-centered mt-5 text-left ">
         <div class="row row-cols-1 row-cols-md-2">
         {% assign courses = site.courses | sort: "order" %}
         {% for course in courses %}
         {% if course.curriculum == "Minor Programmeren" %}
         <div class="col mb-4 px-0 px-md-3">
-            <div class="card mb-3 bg-light border-0 h-100" style="smax-width: 540px;">
+            <div class="card mb-3 bg-transparent border-0 h-100" style="smax-width: 540px;">
                 <div class="card-body">
                     <h5 class="card-title mb-0">{{ course.name }}</h5>
                     <p class="text-muted">Niveau: {{ course.niveau }}</p>
@@ -129,7 +127,7 @@ title: Minor Programmeren
         {% endif %}
         {% endfor %}
         </div>
-    </div-->
+    </div>
 
 </div>
 
@@ -137,7 +135,11 @@ title: Minor Programmeren
 <div class="panel-bg panel-padded panel-content-50">
     <h2 class="display-4 mb-4 markered text-center w-auto mx-auto">Toelating</h2>
     <p class="display-6">
-        De minor Programmeren is toegankelijk voor studenten van universiteit en soms ook hbo uit het derde jaar of hoger (maar niet voor studenten uit het vakgebied van de ICT). Studeer je nog niet aan de UvA? Dan kun je meestal bijvakker worden zonder extra collegegeld te betalen. Let op dat je voor inschrijving als bijvakker wel een vwo-diploma of een hbo-propedeuse moet hebben. Na je aanmelding helpen we je door alle benodigde stappen heen.
+        De minor Programmeren is toegankelijk voor studenten uit het derde jaar of hoger van universiteit en soms ook hbo (maar niet voor studenten uit het vakgebied van de ICT). We geven les op academisch niveau.
+    </p>
+    <h3 class="mt-4 mb-3">Bijvak</h3>
+    <p class="display-6">
+        Studeer je nog niet aan de UvA? Dan kun je meestal bijvakker worden zonder extra collegegeld te betalen. Let op dat je voor inschrijving als bijvakker wel een vwo-diploma of een hbo-propedeuse moet hebben. Na je aanmelding helpen we je door alle benodigde stappen heen.
         De toelatingsprocedure voor niet-UvA-studenten kan meer dan een maand in beslag nemen.
     </p>
     
@@ -160,11 +162,10 @@ title: Minor Programmeren
         <h2 class="display-3 text-center mb-4 text-light">Aanmelden</h2>
         <p class="w-50 mx-auto mb-5" style="font-size:1.2rem;">
             Om je aanmelding voor de minor Programmeren te starten vul je eerst op deze website je gegevens in. Daarna helpen we je verder met alle stappen van je aanmelding.
-            Er vindt geen selectie plaats, dus als je je aanmeldt via deze site en daarna ingeschreven bent voor de UvA en voor de minorvakken, dan ben je verzekerd van een plek (calamiteiten uitgezonderd).
+            Er vindt geen selectie plaats, dus als je je aanmeldt via deze site en daarna je inschrijving bij de UvA en voor de minorvakken voltooit, dan ben je verzekerd van een plek (uitgezonderd calamiteiten).
         </p>
         <p class="mb-5 w-50 mx-auto">
-            Aanmelden voor semester 1 van studiejaar 2021/2022 kan vanaf medio april. Hou
-            deze website in de gaten.
+            Aanmelden voor semester 1 van studiejaar 2021/2022 kan vanaf medio april. Inschrijving voor de vakken kan vanaf eind mei. Hou deze website in de gaten.
         </p>
         <p class="mb-0">
             <a class="btn btn-outline-dark btn-lg disabled">Aanmelden is nu niet mogelijk</a>

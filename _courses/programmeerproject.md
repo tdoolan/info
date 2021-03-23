@@ -3,7 +3,7 @@ name: Programmeerproject
 curriculum: Minor Programmeren
 order: 4
 image: apps.svg
-keuzevak: true
+#keuzevak: true
 doelgroep: Onder andere voor studenten Informatiekunde
 periode: Parttime, naar keuze in november-december of april-mei
 niveau: derdejaars
@@ -18,4 +18,4 @@ info:
         studiegids: https://studiegids.uva.nl/xmlpages/page/2020-2021/zoek-vak/vak/79446
 ---
 
-Dit project past naadloos op je voorkennis uit het vak Programmeerplatforms. Binnen enkele weken vorm je een idee om tot een goed gespecificeerd ontwerp en vervolgens implementeer je een interactieve webapplicatie of een pipeline waarmee van wetenschappelijke data scherpe inzichten worden gevormd. Elke student gebruikt een eigen idee en zoekt daarbij de data of externe programma's die nodig zijn om het tot een prachtproject te maken.
+Tijdens het Programmeerproject ga je aan de slag met het meer zelfstandig leren over programmeren. Je kunt daarbij allerlei verschillende kanten op: meer Python, een ander platform, technieken uit een bepaald vakgebied. Samen met de docenten en medestudenten zoek je het juiste lesmateriaal, en na een gedegen voorbereiding laat je zien dat je zelfstandig verder kunt leren, door het ontwerpen en bouwen van een eindproject.
