@@ -3,6 +3,7 @@ name: Machine Learning Project
 curriculum: Minor KI
 order: 5
 image: sp1.png
+periode: januari
 info:
     -
         speed: fulltime

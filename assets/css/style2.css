@@ -44,7 +44,7 @@ div.gallery
 
 div.gallery img
 {
-    margin:0.25rem 0.125rem;
+    margin:0.25rem 0.25rem;
     object-fit: contain;
     border-radius:0;
 }
@@ -59,6 +59,7 @@ div.gallery.small img
     div.gallery img
     {
         width: calc(50% - 0.25rem);
+        margin:0.25rem 0.125rem;
     }
 
     div.gallery.small img
@@ -119,6 +120,11 @@ div.gallery.small img
         margin-left:auto;
         margin-right:auto;
     }
+    
+    .w-md-75
+    {
+        width:75%;
+    }
 }
 
 @media (max-width: 767.98px)
@@ -153,4 +159,50 @@ div.gallery.small img
 {
     display:inline;
     max-width:3rem;
+}
+
+.markered
+{
+    display: inline-block;
+    border-radius:0.5rem;
+    padding:0.5rem;
+    background-color: #85FFBD;
+    background: linear-gradient(45deg, rgba(133,255,189,0.7) 0%, rgba(255,251,125,0.7) 100%);
+    transform: rotate(-1.1deg);
+}
+
+.markered2
+{
+    padding:0.5rem;
+    background-color: #FBDA61;
+    background-image: linear-gradient(45deg, #FBDA61 0%, #FF5ACD 100%);
+}
+
+.markered3
+{
+    background-color: #A9C9FF;
+    background-image: linear-gradient(180deg, #A9C9FF 0%, #FFBBEC 100%);
+
+}
+
+.markered4
+{
+    padding:0.5rem;
+    background-color: #0093E9;
+    background: linear-gradient(160deg, rgba(3,36,56,1) 0%, rgba(21,38,36,1) 100%);
+
+
+}
+
+.bg-warning
+{
+    background-color:transparent!important;
+    background: rgb(255,193,7);
+    background: linear-gradient(160deg, rgba(255,193,7,0.9) 0%, rgba(255,215,7,0.8) 100%);
+}
+
+.bg-light
+{
+    background-color:transparent!important;
+    background: linear-gradient(45deg, rgba(244,244,221,0.15) 0%, rgba(244,221,221,0.25) 100%);
 }

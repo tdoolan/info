@@ -3,6 +3,7 @@ name: Data Pipelines
 curriculum: Minor KI
 order: 4
 image: sp1.png
+periode: november-december
 info:
     -
         speed: parttime

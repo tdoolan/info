@@ -3,13 +3,19 @@
 
 h2
 {
-    margin-top:1.8rem;
+//    margin-top:1.8rem;
     margin-bottom:1rem;
 }
 
 p:last-child
 {
-	margin-bottom:0;
+    margin-bottom:0;
+}
+
+.display-1
+{
+    font-size: 10rem;
+    line-height: 0.8;
 }
 
 .display-3
@@ -19,41 +25,51 @@ p:last-child
 
 .display-4
 {
-	font-weight:500;
-	margin-bottom:1rem;
+    //font-weight:500;
+    margin-bottom:1rem;
 }
 
 .display-5
 {
-	font-size:1.5rem;
+    font-size:1.5rem;
 }
 
 .display-6
 {
-	font-size:1.2rem;
+    font-size:1.2rem;
 }
 
 @media (max-width: 375px)
 {
-	.display-4
-	{
-		font-size:2.5rem!important;
-	}
+    .display-4
+    {
+        font-size:2.5rem!important;
+    }
 }
 
 @media (max-width: 767.98px)
 {
-	.display-3
-	{
-		font-size:2.5rem;
-	}
-	.display-5
-	{
-		font-size:1.2rem;
-	}
+    .display-1
+    {
+        font-size:5rem;
+    }
+    
+    .display-4
+    {
+        font-size:3.0rem;
+    }
+    
+    .display-3
+    {
+        font-size:2.5rem;
+    }
+    .display-5
+    {
+        font-size:1.2rem;
+    }
 
-	.display-6
-	{
-		font-size:1.1rem;
-	}
+    .display-6
+    {
+        font-size:1.1rem;
+    }
 }
