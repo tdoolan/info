@@ -102,8 +102,8 @@ title: Minor Programmeren
     
     <h2 class="display-4 markered mb-5">Vakken</h2>
     
-    <p class="display-6 w-50 mx-auto">Dit zijn de vakken die je volgt tijdens de Minor Programmeren. Elk vak is 6 studiepunten, dus kost je ongeveer 160 uur aan gefocuste studie.
-        De meeste studenten vinden onze vakken zwaarder dan die van hun eigen studie (maar ook leuker!).</p>
+    <p class="display-6 w-50 mx-auto">Dit zijn de vakken die je volgt tijdens de Minor Programmeren. Elk vak is 6 studiepunten, dus kost je ongeveer 160 uur aan gefocust studeren.
+        De meeste studenten vinden onze vakken zwaarder dan die van hun eigen opleiding (maar ook leuker!).</p>
 
     <div class="w-75-centered mt-5 text-left ">
         <div class="row row-cols-1 row-cols-md-2">
