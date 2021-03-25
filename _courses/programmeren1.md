@@ -5,6 +5,8 @@ order: 1
 keuzevak: true
 niveau: eerstejaars
 periode: Parttime, naar keuze in september-oktober of februari-maart
+fulltime: september
+parttime: september-oktober
 info:
     -
         speed: fulltime

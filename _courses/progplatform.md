@@ -18,4 +18,4 @@ info:
         studiegids: https://studiegids.uva.nl/xmlpages/page/2020-2021/zoek-vak/vak/80265
 ---
 
-In deze cursus bouw je je eigen toolbox op voor het oplossen van programmeerproblemen. Met je basiskennis van Python ga je nu de diepte in en leer je bijvoorbeeld technieken voor het analyseren van data, en je doet ervaring op met het bouwen van algoritmen op basis van frameworks die door andere programmeurs gebouwd zijn. Zo leer je beter code schrijven, maar ook lezen!
+In deze cursus bouw je je eigen toolbox voor het oplossen van programmeerproblemen. Met je basiskennis van Python ga je nu de diepte in en leer je bijvoorbeeld technieken voor het analyseren van data, en je doet ervaring op met het bouwen van algoritmen op basis van frameworks die door andere programmeurs gebouwd zijn. Zo leer je beter code schrijven, maar ook lezen!
