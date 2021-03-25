@@ -172,11 +172,11 @@ title: Minor Programmeren
             Om je aanmelding voor de minor Programmeren te starten vul je eerst op je persoonlijke gegevens in. Daarna helpen we je verder met alle stappen van je aanmelding.
             Er vindt geen selectie plaats, dus als je je aanmeldt via deze site en daarna uiterlijk op 1 juli je inschrijving bij de UvA en voor de minorvakken voltooit, dan ben je verzekerd van een plek (uitgezonderd calamiteiten i.v.m. corona).
         </p>
-        <p class="mb-5 w-50 mx-auto">
-            Aanmelden voor het eerste semester van studiejaar 2021/2022 kan vanaf 1 mei. Inschrijving voor de vakken kan in juni, tijdens de normale vakinschrijving van de UvA. Hou deze website in de gaten.
-        </p>
-        <p class="mb-0">
+        <p class="mb-5">
             <a class="btn btn-outline-dark btn-lg disabled">Aanmelden is nog niet mogelijk</a>
+        </p>
+        <p class="mb-0 w-75 mx-auto">
+            Aanmelden voor het eerste semester van studiejaar 2021/2022 kan vanaf 1 mei. Inschrijving voor de vakken kan in juni, tijdens de normale vakinschrijving van de UvA. Hou deze website in de gaten.
         </p>
     </div>
 </div>
