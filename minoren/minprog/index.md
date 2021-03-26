@@ -77,6 +77,9 @@ title: Minor Programmeren
             elkaar na over de aanpak. En je kunt elke dag terecht voor hulp bij &eacute;&eacute;n
             van de studentassistenten.
         </p>
+        <p class="display-6">
+            Het onderwijs vindt op locatie plaats als de omstandigheden dat toelaten.
+        </p>
     </div>
 </div>
 
@@ -143,7 +146,7 @@ title: Minor Programmeren
 <div class="panel-bg panel-padded panel-content-50">
     <h2 class="display-4 mb-4 markered text-center w-auto mx-auto">Toelating</h2>
     <p class="display-6">
-        De minor Programmeren is toegankelijk voor studenten uit het derde jaar of hoger van universiteit en hbo (we checken het aantal EC dat je gehaald hebt). Studenten uit het vakgebied van de ICT kunnen niet meedoen met deze minor.
+        De minor Programmeren is toegankelijk voor studenten uit het derde jaar of hoger van universiteit en hbo (we checken het aantal EC dat je gehaald hebt). Studenten uit het vakgebied van de ICT kunnen niet meedoen met deze minor. Kom je van het hbo, kijk dan ook eens bij <a href="https://www.kiesopmaat.nl/modules/31fr/-/141551/">deze minor</a> met vergelijkbare inhoud, maar specifiek op hbo-niveau.
     </p>
     <h3 class="mt-4 mb-3">Bijvak</h3>
     <p class="display-6">
