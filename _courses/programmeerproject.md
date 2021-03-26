@@ -1,5 +1,5 @@
 ---
-name: Programmeerproject
+name: Programmeerproject<br><span class="badge badge-secondary">volledig vernieuwd!</span>
 curriculum: Minor Programmeren
 order: 4
 image: apps.svg

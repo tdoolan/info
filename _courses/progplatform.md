@@ -1,5 +1,5 @@
 ---
-name: Programmeerplatform
+name: Programmeerplatform<br><span class="badge badge-secondary">volledig vernieuwd!</span>
 curriculum: Minor Programmeren
 order: 3
 image: apps.svg
