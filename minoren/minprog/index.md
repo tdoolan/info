@@ -14,11 +14,11 @@ title: Minor Programmeren
     </div>
 </div>
 
-<div class="panel p-5 rounded bg-light text-center">
+<!-- <div class="panel p-5 rounded bg-light text-center">
     <p class="w-75 mx-auto font-weight-bold">
     Let op: de informatie op deze pagina is grotendeels bijgewerkt voor het studiejaar 2021-2022, maar wordt nog wel aangepast. Op 1 mei is alles definitief en worden de aanmeldingen geopend.
     </p>
-</div>
+</div> -->
 
 <div class="row mt-3 my-md-5 row-cols-1 row-cols-md-2" style="">
     <div class="col">
