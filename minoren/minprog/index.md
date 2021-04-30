@@ -176,10 +176,10 @@ title: Minor Programmeren
             Er vindt geen selectie plaats, dus als je je aanmeldt via deze site en daarna uiterlijk op 1 juli je inschrijving bij de UvA en voor de minorvakken voltooit, dan ben je verzekerd van een plek (uitgezonderd calamiteiten i.v.m. corona).
         </p>
         <p class="mb-5">
-            <a class="btn btn-outline-dark btn-lg disabled">Aanmelden is nog niet mogelijk</a>
+            <a href="https://register.mprog.nl/" class="btn btn-outline-dark btn-lg">Aanmelden voor Semester 1</a>
         </p>
         <p class="mb-0 w-75 mx-auto">
-            Aanmelden voor het eerste semester van studiejaar 2021/2022 kan vanaf 1 mei. Inschrijving voor de vakken kan in juni, tijdens de normale vakinschrijving van de UvA. Hou deze website in de gaten.
+            Aanmelden voor het eerste semester van studiejaar 2021/2022 kan vanaf 1 mei. Inschrijving voor de vakken kan vervolgens vanaf 11 juni, tijdens de normale vakinschrijving van de UvA.
         </p>
     </div>
 </div>
