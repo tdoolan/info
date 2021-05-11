@@ -239,10 +239,6 @@ The introduction given could already be enough information for you to start
 experimenting and some writing code above. If you're not sure where to start
 yet, check out some of the hints in the next section.
 
-When you're done, don't forget to save your solution on in a text file called
-`pyramid`. We'd like you to submit your final result as part of this
-introduction, however your result won't be used as a selection criterium.
-
 ### Building blocks for the pyramid
 
 The text above should have given you an idea of the building blocks and what to
