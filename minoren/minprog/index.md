@@ -172,8 +172,7 @@ title: Minor Programmeren
     <div class="px-4">
         <h2 class="display-3 text-center mb-4 text-light">Aanmelden</h2>
         <p class="w-50 mx-auto mb-5" style="font-size:1.2rem;">
-            Om je aanmelding voor de minor Programmeren te starten vul je eerst je persoonlijke gegevens in. Daarna helpen we je verder met alle stappen van je aanmelding.
-            Er vindt geen selectie plaats, dus als je je aanmeldt via deze site en daarna uiterlijk op 1 juli je inschrijving bij de UvA en voor de minorvakken voltooit, dan ben je verzekerd van een plek (uitgezonderd calamiteiten i.v.m. corona).
+            Om je aanmelding voor de minor Programmeren te starten vul je eerst je persoonlijke gegevens in. Daarna helpen we je verder met alle stappen van je aanmelding. Er is nog voldoende ruimte!
         </p>
         <p class="mb-5">
             <a href="https://register.mprog.nl/" class="btn btn-outline-dark btn-lg">Aanmelden voor Semester 1</a>
