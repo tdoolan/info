@@ -231,7 +231,7 @@ title: Minor Programmeren
             Om je aanmelding voor de minor Programmeren te starten vul je eerst je persoonlijke gegevens in. Daarna helpen we je verder met alle stappen van je aanmelding. Er is nog voldoende ruimte!
         </p>
         <p class="mb-5">
-            <a href="https://register.mprog.nl/" class="btn btn-outline-dark btn-lg">Aanmelden voor Semester 1</a>
+            <a href="https://register.mprog.nl/" class="btn btn-outline-dark btn-lg">Aanmelden voor Semester 2</a>
         </p>
         <!--p class="mb-0 w-75 mx-auto">
             Aanmelden voor het eerste semester van studiejaar 2021/2022 kan vanaf 1 mei. Inschrijving voor de vakken kan vervolgens vanaf 11 juni, tijdens de normale vakinschrijving van de UvA.
