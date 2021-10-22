@@ -12,7 +12,8 @@ title: Minor Programmeren
         <h1 class="display-1 d-inline position-abssolute d-block">
             Minor<br> Program&#8203;meren
         </h1>
-        <h2 class="mt-5" style="font-size:1.5rem;"><small>Leer in vijf maanden programmeren en maak kennis met de basis van informatica en software engineering.</small></h2>
+        <p class="mt-5" style="font-size:1.2rem;">Leer in vijf maanden programmeren en maak kennis met de basis van informatica en software engineering.</p>
+        <p class="mt-5" style="font-size:1.2rem;">Let op: er zijn nu <strong>drie versies</strong> van de minor. Zie hieronder voor meer informatie.</p>
     </div>
 </div>
 
