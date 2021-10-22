@@ -3,14 +3,16 @@ layout: minprog
 title: Minor Programmeren
 ---
 
-<div class="rounded position-relative text-center d-flex flex-column justify-content-center markered3 p-3"
-        style="min-height:calc(100vh - 112px - 1rem);">
+<div class="rounded-lg border-0 position-relative text-center d-flex flex-column justify-content-center markered3 p-3 mt-3"
+        style="min-height:calc(100vh - 112px - 3rem);">
     <!--div class="my-5">
         <img class="img-fluid" style="max-width:30vw" src="{{ site.baseurl }}/assets/logos/programmeren.svg">
     </div-->
-    <div class="p-3">
-        <h1 class="display-1 d-inline">Minor<br> Program<br>meren</h1>
-        <h1 class="mt-5" style="font-size:1.5rem;"><small>Leer in vijf maanden programmeren en maak kennis met de basis van informatica en software engineering.</small></h1>
+    <div class="p-3 position-relative">
+        <h1 class="display-1 d-inline position-abssolute d-block">
+            Minor<br> Program&#8203;meren
+        </h1>
+        <h2 class="mt-5" style="font-size:1.5rem;"><small>Leer in vijf maanden programmeren en maak kennis met de basis van informatica en software engineering.</small></h2>
     </div>
 </div>
 
@@ -22,7 +24,7 @@ title: Minor Programmeren
 
 <div class="row mt-3 my-md-5 row-cols-1 row-cols-md-2" style="">
     <div class="col">
-        <img class="img-fluid rounded" src="{{ site.baseurl }}/assets/minprog/bots.jpeg">
+        <img class="img-fluid rounded-lg" src="{{ site.baseurl }}/assets/minprog/bots.jpeg">
     </div>
     <div class="col px-4 px-md-3 py-4 py-md-0">
         <h2 class="mb-3">Inhoud</h2>
@@ -40,7 +42,7 @@ title: Minor Programmeren
 </div>
 
 
-<div class=" rounded panel-bg panel-padded panel-content-50 text-light markered4 pdb">
+<div class="rounded-lg panel-bg panel-padded panel-content-50 text-light markered4 pdb">
     <div>
         <h2 class="display-4">Online lesmateriaal</h2>
         <p class="display-6">
@@ -57,9 +59,9 @@ title: Minor Programmeren
 </div>
 
 
-<div class="row my-3 my-md-5 row-cols-1 row-cols-md-2">
+<div class="row my-3 my-md-5 row-cols-1 row-cols-md-2 mb-5">
     <div class="col">
-        <img class="img-fluid rounded" src="{{ site.baseurl }}/assets/minprog/college.jpeg">
+        <img class="img-fluid rounded-lg" src="{{ site.baseurl }}/assets/minprog/college.jpeg">
     </div>
     <div class="col px-4 px-md-3 my-4 my-md-0">
         <h2 class="mb-3">Werkwijze</h2>
@@ -84,30 +86,84 @@ title: Minor Programmeren
 </div>
 
 
-<div class="row my-3 my-md-4 row-cols-1 row-cols-md-2">
-    <div class="col text-left text-md-right px-4 px-md-3 my-4 my-md-0">
-        <h2 class="mb-3">Fulltime of parttime</h2>
-        <p class="display-6">
-            Wil je de minor in &eacute;&eacute;n semester doen, dan is dit <strong>fulltime</strong> en zul je
-            vijf dagen per week van 9 tot 5 met de minor bezig zijn. Er is dan dus geen tijd
-            voor bijbaantjes en andere vakken! Nog sterker: je bent fulltime bij ons aanwezig. Een keuze die je bewust moet maken dus. Mocht het nodig zijn, dan treffen we natuurlijk 
-            maatregelen voor online aanwezigheid. Studenten vinden deze structuur meestal erg prettig in combinatie met het leren van iets totaal nieuws.
-        </p>
-        <p class="display-6">
-            Wil je de minor verspreiden over meer dan vijf maanden, dan kun je de meeste vakken <strong>parttime</strong> volgen. Je bent dan zo'n 20 uur per week kwijt bent aan de vakken. Dat is nog steeds een
-            flinke last! Ongeveer 8 uur van die tijd ga je aan de slag met je team van medestudenten en woon je het mentoraat bij. Roosters zijn flexibel: uit ervaring
-            blijkt dat het goed te combineren is met een ander vak. Wekelijkse deadlines horen er ook bij.
-        </p>
+
+<div class="panel panel-padded mb-0" style="">
+
+<h2 class="display-3 text-center mt-5">Versies</h2>
+
+
+<div class="row my-3 my-md-4 row-cols-1 row-cols-md-3 align-items-center">
+    <div class="col px-4 px-md-3 my-4 my-md-0">
+        <div class="markered5-outline rounded-lg p-4 text-center">
+            <!-- <h4 class="mb-0">Minor Programmeren</h4> -->
+            <h2 class="mb-1 display-4">MinProg<sub>Flex</sub></h2>
+            <h5 class="mb-3">6&ndash;30 punten in 1 of 2 semesters</h5>
+            <p class="display-6">
+                Wil je de tijd nemen om te leren programmeren of dit combineren 
+                met andere vakken? Dan kun je 
+                de parttime-minor kiezen.
+                Toch kost het programmeren je rustig nog 20 uur per week,
+                want veel oefenen is cruciaal. 
+                Er is wel veel flexibiliteit in de roosters.
+            </p>
+            <p>&star;</p>
+            <p class="small">
+                Er is één verplichte werkgroep per week. De keuze voor werkgroep
+                kan in de week voor de start van de minor gedaan worden. Er zijn altijd diverse opties.
+                Daarnaast kun je op verschillende momenten op het Science Park komen
+                werken en je kunt vrijwel elke doordeweekse middag assistentie krijgen bij het
+                programmeren.
+            </p>
+        </div>
     </div>
     <div class="col">
-        <img class="img-fluid rounded" src="{{ site.baseurl }}/assets/home/bots.jpeg">
+        <div class="markered2 rounded-lg p-4 text-white text-center">
+            <!-- <h4 class="mb-0 display-5">Minor Programmeren</h4> -->
+            <h2 class="mb-1 display-4">MinProg</h2>
+            <h5 class="mb-3">30 punten in 1 semester</h5>
+            <p class="display-6">
+                Heb je geen of bescheiden programmeerervaring of ben je op zoek naar meer oefening? 
+                Dan ga je voor de fulltime-minor. Je bent 5 dagen per week 
+                de hele dag aanwezig. Een perfecte manier om in een sociale omgeving te leren programmeren met veel toegang tot begeleiding en hulp. Deze optie
+                wordt vaak gekozen door studenten die eerder maximaal één programmeervak hebben gedaan.
+                 Andere vakken
+                volgen is absoluut niet mogelijk.
+            </p>
+            <p>&star;</p>
+            <p class="small">
+                Aanwezigheid is hier verplicht van 9 tot 17 uur en wordt goed bijgehouden.
+                Er zijn alleen incidentele uitzonderingen mogelijk voor bruiloften en dergelijke,
+                maar nooit om een ander vak te kunnen volgen.
+            </p>
+        </div>
+    </div>
+    <div class="col">
+        <div class="markered5-outline rounded-lg p-4 text-center">
+            <!-- <h4 class="mb-0">Minor Programmeren</h4> -->
+            <h2 class="mb-1 display-4">MinProg<sub>XP</sub></h2>
+            <h5 class="mb-3">30 punten in 1 semester</h5>
+            <p class="display-6">
+                Heb je al programmeerervaring in Python, Java of C, en ben je behoorlijk comfy 
+                met het schrijven van code? Dan kun je deze versie van de minor
+                doen. De opdrachten zijn uitdagender dan bij de fulltime-minor.
+                Je bent 20 uur per week verplicht aanwezig met andere studenten van de MinProg<sup>XP</sup>.
+            </p>
+            <p>&star;</p>
+            <p class="small">De planning van je aanwezigheid zal bij de start worden vastgelegd en is enigszins flexibel. Mis je bij dit programma een deadline, dan moet je switchen naar de standaardminor met verplichte aanwezigheid. Dat kan betekenen dat je andere vakken moet laten vallen of een bijbaantje opzeggen. Kies deze optie dus nooit als je niet zeker weet of je goed genoeg kan programmeren.</p>
+        </div>
     </div>
 </div>
 
+<p class="display-6 text-center mt-5">
+    Als je twijfelt tussen de MinProg en de MinProg<sup>XP</sup>, dan kun je het beste met de normale minor starten!<br> Je kunt dan geen andere vakken volgen. Stuur gerust een mail voor overleg.
+</p>
 
-<div class="panel panel-padded  rounded text-center bg-light mb-0" style="">
+</div>
+
+
+<div class="panel panel-padded  rounded-lg text-center bg-light mb-0" style="">
     
-    <h2 class="display-4 markered mb-5">Vakken</h2>
+    <h2 class="display-3 markered px-4 mb-5 pt-3 pb-0">Vakken</h2>
     
     <p class="display-6 w-50 mx-auto">Dit zijn de vakken die je volgt tijdens de Minor Programmeren. Elk vak is 6 studiepunten, dus kost je ongeveer 160 uur aan gefocust studeren.
         De meeste studenten vinden onze vakken veel zwaarder dan die van hun eigen opleiding (maar ook leuker!).</p>
@@ -144,7 +200,7 @@ title: Minor Programmeren
 
 
 <div class="panel-bg panel-padded panel-content-50">
-    <h2 class="display-4 mb-4 markered text-center w-auto mx-auto">Toelating</h2>
+    <h2 class="display-3 markered px-4 mb-5 pt-3 pb-0">Toelating</h2>
     <p class="display-6">
         De minor Programmeren is toegankelijk voor studenten uit het derde jaar of hoger van universiteit en hbo (we checken het aantal EC dat je gehaald hebt). Studenten uit het vakgebied van de ICT kunnen niet meedoen met deze minor. Kom je van het hbo, kijk dan ook eens bij <a href="https://www.kiesopmaat.nl/modules/31fr/-/141551/">deze minor</a> met vergelijkbare inhoud, maar specifiek op hbo-niveau.
     </p>
@@ -168,9 +224,9 @@ title: Minor Programmeren
 </div>
 
 
-<div class=" rounded py-5 min-vh-75 v-center text-center markered3">
+<div class="rounded-lg py-5 min-vh-75 v-center text-center markered3">
     <div class="px-4">
-        <h2 class="display-3 text-center mb-4 text-light">Aanmelden</h2>
+        <h2 class="display-2 text-center mb-4 text-light">Aanmelden</h2>
         <p class="w-50 mx-auto mb-5" style="font-size:1.2rem;">
             Om je aanmelding voor de minor Programmeren te starten vul je eerst je persoonlijke gegevens in. Daarna helpen we je verder met alle stappen van je aanmelding. Er is nog voldoende ruimte!
         </p>

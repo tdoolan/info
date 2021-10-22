@@ -1,3 +1,7 @@
+---
+---
+
+
 p
 {
     hyphens: auto;
@@ -181,7 +185,7 @@ div.gallery.small img
 .markered3
 {
     background-color: #A9C9FF;
-    background-image: linear-gradient(180deg, #A9C9FF 0%, #FFBBEC 100%);
+    background-image: linear-gradient(180deg, #84BFFF 0%, #FFA4E5 100%);
 
 }
 
@@ -190,8 +194,20 @@ div.gallery.small img
     padding:0.5rem;
     background-color: #0093E9;
     background: linear-gradient(160deg, rgba(3,36,56,1) 0%, rgba(21,38,36,1) 100%);
+}
 
+.markered5
+{
+    padding:0.5rem;
+    background-color: #0093E9;
+    background: linear-gradient(160deg, #FFF04A 0%, #22A3E7 100%);
+}
 
+.markered5-outline
+{
+    padding:0.5rem;
+    border: 1px solid #0093E9;
+//    background: linear-gradient(160deg, #FFF04A 0%, #22A3E7 100%);
 }
 
 .bg-warning
@@ -206,3 +222,95 @@ div.gallery.small img
     background-color:transparent!important;
     background: linear-gradient(45deg, rgba(244,244,221,0.15) 0%, rgba(244,221,221,0.25) 100%);
 }
+
+.rounded-lg
+{
+    border-radius:1.5rem !important;
+}
+
+.minprog .btn-warning
+{
+    border-color: #887FFF;
+    background-color: #FFF;
+}
+
+.minprog .display-1
+{
+	font-family: "Ostrich Sans";
+	font-weight: 900;
+	line-height:1.0;
+    transform: rotate(-1deg);
+	text-shadow: 10px 10px 0 #333;
+	
+	color:#FFF269;
+}
+
+.minprog .display-3
+{
+	font-family: "Ostrich Sans";
+	font-weight: 900;
+	
+}
+
+.minprog .display-2, .minprog .display-4, .minprog .display-5
+{
+    font-family: "Ostrich Sans";
+	font-weight:bold !important;
+//	font-weight:500 !important;
+}
+
+
+
+
+
+
+
+
+//@import url('https://fonts.googleapis.com/css?family=Montserrat');
+//body {
+//	background-color: #111;
+//}
+
+//.title {
+//	font-family: "Montserrat";
+//	text-align: center;
+//	color: #FFF;
+//	display: flex;
+//	flex-direction: column;
+//	align-items: center;
+//	justify-content: center;
+//	height: 100vh;
+//	letter-spacing: 1px;
+//}
+//
+//h1 {
+//	background-image: url(https://media.giphy.com/media/26BROrSHlmyzzHf3i/giphy.gif);
+//	background-size: cover;
+//	color: transparent;
+//	-moz-background-clip: text;
+//	-webkit-background-clip: text;
+//	text-transform: uppercase;
+//	font-size: 120px;
+////	line-height: .75;
+//	margin: 10px 0;
+//}
+///* styling my button */
+//
+//.white-mode {
+//	text-decoration: none;
+//	padding: 7px 10px;
+//	background-color: #122;
+//	border-radius: 3px;
+//	color: #FFF;
+//	transition: .35s ease-in-out;
+//	position: absolute;
+//	left: 15px;
+//	bottom: 15px;
+//	font-family: "Montserrat";
+//}
+//
+//.white-mode:hover {
+//	background-color: #FFF;
+//	color: #122;
+//}
+//
