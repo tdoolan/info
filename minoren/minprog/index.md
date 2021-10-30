@@ -147,10 +147,10 @@ title: Minor Programmeren
                 Heb je al programmeerervaring in Python, Java of C, en ben je vrij comfy 
                 met het schrijven van code? Dan kun je deze versie van de minor
                 doen. De opdrachten zijn wat uitdagender dan bij de fulltime-minor.
-                Je bent 20 uur per week verplicht aanwezig met andere studenten van de MinProg<sup>XP</sup>.
+                Je bent 3 dagen per week 4 uur verplicht aanwezig met andere studenten van de MinProg<sup>XP</sup>.
             </p>
             <p>&star;</p>
-            <p class="small">De planning van je aanwezigheid zal bij de start worden vastgelegd en is enigszins flexibel. Mis je bij dit programma een deadline, dan moet je switchen naar de standaardminor met verplichte aanwezigheid. Had je andere vakken of een bijbaantje, dan moet je dat afzeggen om de minor binnen het semester af te maken. Kies deze optie dus nooit als je weinig ervaring hebt.</p>
+            <p class="small">Je kunt vooraf kiezen uit twee opties voor de aanwezigheid. Mis je bij deze versie een deadline, dan moet je switchen naar de standaardminor met verplichte aanwezigheid. Had je andere vakken of een bijbaantje, dan moet je dat afzeggen om de minor binnen het semester af te maken. Kies deze optie dus nooit als je weinig ervaring hebt.</p>
         </div>
     </div>
 </div>
