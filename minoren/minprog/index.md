@@ -150,13 +150,14 @@ title: Minor Programmeren
                 Je bent 3 dagen per week 4 uur verplicht aanwezig met andere studenten van de MinProg<sup>XP</sup>.
             </p>
             <p>&star;</p>
-            <p class="small">Je kunt vooraf kiezen uit twee opties voor de aanwezigheid. Mis je bij deze versie een deadline, dan moet je switchen naar de standaardminor met verplichte aanwezigheid. Had je andere vakken of een bijbaantje, dan moet je dat afzeggen om de minor binnen het semester af te maken. Kies deze optie dus nooit als je weinig ervaring hebt.</p>
+            <p class="small">Je kunt vooraf kiezen uit twee opties voor de aanwezigheid. Mis je bij deze versie een deadline, dan moet je switchen naar de standaardminor met verplichte aanwezigheid. Op dat moment moet je andere vakken of een bijbaantje alsnog laten vallen. Kies deze optie dus niet als je weinig ervaring hebt. Je kunt ook vooraf met ons overleggen, stuur dan een mail!</p>
         </div>
     </div>
 </div>
 
 <p class="display-6 text-center mt-5">
-    Als je twijfelt tussen de MinProg en de MinProg<sup>XP</sup>, dan kun je het beste met de normale minor starten!<br> Je kunt dan geen andere vakken volgen. Stuur gerust een mail voor overleg.
+    Als je twijfelt tussen de MinProg en de MinProg<sup>XP</sup>, dan kun je het beste met de normale minor starten.<br> Je kunt dan geen andere vakken volgen. Stuur gerust een 
+    <a href="mailto:help@mprog.nl">mail</a> voor overleg.
 </p>
 
 </div>
