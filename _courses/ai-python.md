@@ -3,7 +3,7 @@ name: Python voor Data Processing
 curriculum: Minor KI
 order: 1
 image: sp1.png
-periode: september-oktober
+periode: 1 (sep-okt) of 4 (feb-mrt)
 info:
     -
         speed: parttime
