@@ -113,7 +113,7 @@ title: Minor Programmeren
                 kan in de week voor de start van de minor gedaan worden. Er zijn altijd diverse opties.
                 Daarnaast kun je op verschillende momenten op het Science Park komen
                 werken en je kunt vrijwel elke doordeweekse middag assistentie krijgen bij het
-                programmeren.
+                programmeren. Let op dat het afsluitende vak altijd fulltime is, maar je hoeft niet alle vakken te volgen.
             </p>
         </div>
     </div>
@@ -126,7 +126,7 @@ title: Minor Programmeren
                 Heb je geen of bescheiden programmeerervaring of ben je op zoek naar meer oefening? 
                 Dan ga je voor de fulltime-minor. Je bent 5 dagen per week 
                 de hele dag aanwezig. Een perfecte manier om in een sociale omgeving te leren programmeren met veel toegang tot begeleiding en hulp. Deze optie
-                wordt vaak gekozen door studenten die eerder maximaal één programmeervak hebben gedaan.
+                wordt vaak gekozen door studenten die nog nooit geprogrammeerd hebben.
                  Andere vakken
                 volgen is absoluut niet mogelijk.
             </p>
@@ -156,7 +156,7 @@ title: Minor Programmeren
 </div>
 
 <p class="display-6 text-center mt-5">
-    Als je twijfelt tussen de MinProg en de MinProg<sup>XP</sup>, dan kun je het beste met de normale minor starten.<br> Je kunt dan geen andere vakken volgen. Stuur gerust een 
+    Als je twijfelt tussen de MinProg en de MinProg<sup>XP</sup>, dan kun je het beste met de normale minor starten.<br> Je kunt dan geen andere vakken volgen, maar dat is ook de leukste manier om de minor te doen als je weinig ervaring hebt. Stuur gerust een 
     <a href="mailto:help@mprog.nl">mail</a> voor overleg.
 </p>
 
