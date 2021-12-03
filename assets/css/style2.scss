@@ -236,13 +236,14 @@ div.gallery.small img
 
 .minprog .display-1
 {
+    font-size: 5rem;
 	font-family: "Ostrich Sans";
 	font-weight: 900;
 	line-height:1.0;
-    transform: rotate(-1deg);
-	text-shadow: 10px 10px 0 #333;
+    transform: rotate(0.01deg);
+//    text-shadow: 10px 10px 0 #333;
 	
-	color:#FFF269;
+//    color:#FFF269;
 }
 
 .minprog .display-3

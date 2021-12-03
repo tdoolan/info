@@ -3,17 +3,19 @@ layout: minprog
 title: Minor Programmeren
 ---
 
-<div class="rounded-lg border-0 position-relative text-center d-flex flex-column justify-content-center markered3 p-3 mt-3"
+<div class="rounded-lg border-0"
         style="min-height:calc(100vh - 112px - 3rem);">
-    <!--div class="my-5">
-        <img class="img-fluid" style="max-width:30vw" src="{{ site.baseurl }}/assets/logos/programmeren.svg">
-    </div-->
-    <div class="p-3 position-relative">
+    <div class="cosl-md text-center">
+        <img class="img-fluid" style="stransform: translateX(50px) perspective(500px) rotateY(5deg);" src="{{ site.baseurl }}/assets/minprog/ide.png">
+    </div>
+    <div class="d-none d-md-block col-md">
+    </div>
+    <div class="p-3 position-relative text-center w-100 mt-5">
         <h1 class="display-1 d-inline position-abssolute d-block">
-            Minor<br> Program&#8203;meren
+            Minor Program&#8203;meren
         </h1>
-        <p class="mt-5" style="font-size:1.2rem;">Leer in vijf maanden programmeren en maak kennis met de basis van informatica en software engineering.</p>
-        <p class="mt-5" style="font-size:1.2rem;">Let op: er zijn nu <strong>drie versies</strong> van de minor. Zie hieronder voor meer informatie.</p>
+        <p class="mt-2" style="font-size:1.2rem;">Leer in vijf maanden programmeren en maak kennis met de basis van informatica en software engineering.</p>
+        <p class="mt-1" style="font-size:1.2rem;">Let op: er zijn nu <strong>drie versies</strong> van de minor. Zie hieronder voor meer informatie.</p>
     </div>
 </div>
 
