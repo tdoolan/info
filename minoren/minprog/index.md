@@ -167,7 +167,7 @@ title: Minor Programmeren
 
 <div class="panel panel-padded  rounded-lg text-center bg-light mb-0" style="">
     
-    <h2 class="display-3 markered px-4 mb-5 pt-3 pb-0">Vakken</h2>
+    <h2 class="display-3 markesred px-4 mb-5 pt-3 pb-0">Vakken</h2>
     
     <p class="display-6 w-50 mx-auto">Dit zijn de vakken die je volgt tijdens de Minor Programmeren. Elk vak is 6 studiepunten, dus kost je ongeveer 160 uur aan gefocust studeren.
         De meeste studenten vinden onze vakken veel zwaarder dan die van hun eigen opleiding (maar ook leuker!).</p>
@@ -204,7 +204,7 @@ title: Minor Programmeren
 
 
 <div class="panel-bg panel-padded panel-content-50">
-    <h2 class="display-3 markered px-4 mb-5 pt-3 pb-0">Toelating</h2>
+    <h2 class="display-3 marksered px-4 mb-5 pt-3 pb-0">Toelating</h2>
     <p class="display-6">
         De minor Programmeren is toegankelijk voor studenten uit het derde jaar of hoger van universiteit en hbo (we checken het aantal EC dat je gehaald hebt). Studenten uit het vakgebied van de ICT kunnen niet meedoen met deze minor. Kom je van het hbo, kijk dan ook eens bij <a href="https://www.kiesopmaat.nl/modules/31fr/-/141551/">deze minor</a> met vergelijkbare inhoud, maar specifiek op hbo-niveau.
     </p>
@@ -230,7 +230,7 @@ title: Minor Programmeren
 
 <div class="rounded-lg py-5 min-vh-75 v-center text-center markered3">
     <div class="px-4">
-        <h2 class="display-2 text-center mb-4 text-light">Aanmelden</h2>
+        <h2 class="display-2 text-center mb-4 text-lisght">Aanmelden</h2>
         <p class="w-50 mx-auto mb-5" style="font-size:1.2rem;">
             Om je aanmelding voor de minor Programmeren te starten vul je eerst je persoonlijke gegevens in. Daarna helpen we je verder met alle stappen van je aanmelding. Er is nog voldoende ruimte!
         </p>
