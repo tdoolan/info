@@ -132,7 +132,7 @@ title: Minor Programmeren
     </p>
     <h3 class="mt-4 mb-3">Toelatingseisen</h3>
     <p class="display-6">
-        De minor Programmeren is toegankelijk voor studenten uit het derde jaar of hoger van universiteit en hbo (we checken het aantal EC dat je gehaald hebt). Studenten uit het vakgebied van de ICT kunnen niet meedoen met deze minor. Kom je van het hbo, kijk dan ook eens bij <a href="https://www.kiesopmaat.nl/modules/31fr/-/141551/">deze minor</a> met vergelijkbare inhoud, maar specifiek op hbo-niveau.
+        De minor Programmeren is toegankelijk voor studenten uit het derde jaar of hoger van universiteit en hbo (we checken het aantal EC dat je gehaald hebt; mocht je studiepunten missen, mail dan even voor overleg). Studenten uit het vakgebied van de ICT kunnen niet meedoen met deze minor. Kom je van het hbo, kijk dan ook eens bij <a href="https://www.kiesopmaat.nl/modules/31fr/-/141551/">deze minor</a> met vergelijkbare inhoud, maar specifiek op hbo-niveau.
     </p>
     <h3 class="mt-4 mb-3">Beschikbare plekken</h3>
     <p class="display-6">
