@@ -28,6 +28,9 @@ title: Minor Programmeren
             Om mee te doen heb je <u>geen enkele voorkennis</u> van programmeren nodig, alleen de 
             motivatie en de tijd om vijf maanden heel hard te werken!
         </p>
+        <p class="display-6">Er is ook een mogelijkheid om de vakken zelf in te plannen 
+            verspreid over meerdere semesters. 
+        </p>
     </div>
 </div>
 
