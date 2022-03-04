@@ -10,19 +10,6 @@ title: Minor Programmeren
     </div>
     <div class="d-none d-md-block col-md">
     </div>
-    <div class="p-3 position-relative text-center w-100 mt-5">
-        <h1 class="display-1 d-inline position-abssolute d-block">
-            Minor Program&#8203;meren
-        </h1>
-        <p class="mt-2" style="font-size:1.2rem;">Leer in vijf maanden programmeren en maak kennis met de basis van informatica en software engineering.</p>
-        <p class="mt-1" style="font-size:1.2rem;">Let op: er zijn nu <strong>drie versies</strong> van de minor. Zie hieronder voor meer informatie.</p>
-    </div>
-</div>
-
-<div class="panel p-5 rounded bg-light text-center">
-    <p class="w-75 mx-auto font-weight-bold">
-    De Minor Programmeren wordt voor het studiejaar 2022&mdash;2023 helemaal vernieuwd! We blijven een fulltime- en een parttimeprogramma aanbieden. De volle aanwezigheidsplicht wordt iets minder, maar de ambitie blijft hoog: elke student zonder ervaring kan bij ons leren programmeren!
-    </p>
 </div>
 
 <div class="row mt-3 my-md-5 row-cols-1 row-cols-md-2" style="">
@@ -38,7 +25,7 @@ title: Minor Programmeren
             We gebruiken de tijd om je heel veel zelf te laten programmeren, maar ook om je kennis te laten maken met de manier van werken en de taal van het vakgebied, zodat je niet alleen zelf programma's kunt schrijven, maar ook op een effectieve manier kunt samenwerken met andere programmeurs. 
         </p>
         <p class="display-6">
-            Om mee te doen heb je geen enkele voorkennis van programmeren nodig, alleen de 
+            Om mee te doen heb je <u>geen enkele voorkennis</u> van programmeren nodig, alleen de 
             motivatie en de tijd om vijf maanden heel hard te werken!
         </p>
     </div>
@@ -76,94 +63,17 @@ title: Minor Programmeren
             iedereen goed leert zelf problemen oplossen.
         </p>
         <p class="display-6">
-            Je wordt daarnaast ingedeeld in een team, waarmee je elke dag lief en
+            Je wordt daarbij ingedeeld in een team, waarmee je elke dag lief en
             leed kunt delen. Want programmeren kan, zeker in dit hoge tempo, flink frustrerend 
             zijn! Je team zal je niet alleen steunen, maar jullie denken ook met
             elkaar na over de aanpak. En je kunt elke dag terecht voor hulp bij &eacute;&eacute;n
             van de studentassistenten.
         </p>
         <p class="display-6">
-            Het onderwijs vindt op locatie plaats als de omstandigheden dat toelaten.
+            Het onderwijs vindt in normale omstandigheden op locatie in Amsterdam plaats en wordt niet online aangeboden.
         </p>
     </div>
 </div>
-
-
-
-<div class="panel panel-padded mb-0" style="">
-
-<h2 class="display-3 text-center mt-5">Versies</h2>
-
-
-<div class="row my-3 my-md-4 row-cols-1 row-cols-md-3 align-items-center">
-    <div class="col px-4 px-md-3 my-4 my-md-0">
-        <div class="markered5-outline rounded-lg p-4 text-center">
-            <!-- <h4 class="mb-0">Minor Programmeren</h4> -->
-            <h2 class="mb-1 display-4">MinProg<sub>Flex</sub></h2>
-            <h5 class="mb-3">6&ndash;30 punten in 1 of 2 semesters</h5>
-            <p class="display-6">
-                Wil je de tijd nemen om te leren programmeren of dit combineren 
-                met andere vakken? Dan kun je 
-                de parttime-minor kiezen.
-                Toch kost het programmeren je rustig nog 20 uur per week,
-                want veel oefenen is cruciaal. 
-                Er is wel veel flexibiliteit in de roosters.
-            </p>
-            <p>&star;</p>
-            <p class="small">
-                Er is één verplichte werkgroep per week. De keuze voor werkgroep
-                kan in de week voor de start van de minor gedaan worden. Er zijn altijd diverse opties.
-                Daarnaast kun je op verschillende momenten op het Science Park komen
-                werken en je kunt vrijwel elke doordeweekse middag assistentie krijgen bij het
-                programmeren. Let op dat het afsluitende vak altijd fulltime is, maar je hoeft niet alle vakken te volgen.
-            </p>
-        </div>
-    </div>
-    <div class="col">
-        <div class="markered2 rounded-lg p-4 text-white text-center">
-            <!-- <h4 class="mb-0 display-5">Minor Programmeren</h4> -->
-            <h2 class="mb-1 display-4">MinProg</h2>
-            <h5 class="mb-3">30 punten in 1 semester</h5>
-            <p class="display-6">
-                Heb je geen of bescheiden programmeerervaring of ben je op zoek naar meer oefening? 
-                Dan ga je voor de fulltime-minor. Je bent 5 dagen per week 
-                de hele dag aanwezig. Een perfecte manier om in een sociale omgeving te leren programmeren met veel toegang tot begeleiding en hulp. Deze optie
-                wordt vaak gekozen door studenten die nog nooit geprogrammeerd hebben.
-                 Andere vakken
-                volgen is absoluut niet mogelijk.
-            </p>
-            <p>&star;</p>
-            <p class="small">
-                Aanwezigheid is hier verplicht van 9 tot 17 uur en wordt goed bijgehouden.
-                Er zijn alleen incidentele uitzonderingen mogelijk voor bruiloften en dergelijke,
-                maar nooit om een ander vak te kunnen volgen.
-            </p>
-        </div>
-    </div>
-    <div class="col">
-        <div class="markered5-outline rounded-lg p-4 text-center">
-            <!-- <h4 class="mb-0">Minor Programmeren</h4> -->
-            <h2 class="mb-1 display-4">MinProg<sub>XP</sub></h2>
-            <h5 class="mb-3">30 punten in 1 semester</h5>
-            <p class="display-6">
-                Heb je al programmeerervaring in Python, Java of C, en ben je vrij comfy 
-                met het schrijven van code? Dan kun je deze versie van de minor
-                doen. De opdrachten zijn wat uitdagender dan bij de fulltime-minor.
-                Je bent 3 dagen per week 4 uur verplicht aanwezig met andere studenten van de MinProg<sup>XP</sup>.
-            </p>
-            <p>&star;</p>
-            <p class="small">Je kunt vooraf kiezen uit twee opties voor de aanwezigheid. Mis je bij deze versie een deadline, dan moet je switchen naar de standaardminor met verplichte aanwezigheid. Op dat moment moet je andere vakken of een bijbaantje alsnog laten vallen. Kies deze optie dus niet als je weinig ervaring hebt. Je kunt ook vooraf met ons overleggen, stuur dan een mail!</p>
-        </div>
-    </div>
-</div>
-
-<p class="display-6 text-center mt-5">
-    Als je twijfelt tussen de MinProg en de MinProg<sup>XP</sup>, dan kun je het beste met de normale minor starten.<br> Je kunt dan geen andere vakken volgen, maar dat is ook de leukste manier om de minor te doen als je weinig ervaring hebt. Stuur gerust een 
-    <a href="mailto:help@mprog.nl">mail</a> voor overleg.
-</p>
-
-</div>
-
 
 <div class="panel panel-padded  rounded-lg text-center bg-light mb-0" style="">
     
@@ -181,13 +91,14 @@ title: Minor Programmeren
             <div class="card mb-3 bg-transparent border-0 h-100" style="smax-width: 540px;">
                 <div class="card-body">
                     <h5 class="card-title mb-0">{{ course.name }}</h5>
-                    <p class="text-muted">Niveau: {{ course.niveau }}</p>
+                    <p class="text-muted small">{{ course.periode }}</p>
                     <p class="card-text mt-3">{{ course.content | markdownify }}</p>
                     {% for speed in course.info %}
                     <!--p class="card-text mb-1">
                         <a href="{{ speed.studiegids }}">Studiegids {{ speed.speed | capitalize }} &rarr;</a>
                     </p-->
                     {% endfor %}
+                    <p class="text-muted">Niveau: {{ course.niveau }}</p>
                 </div>
             </div>
         </div>  
@@ -196,34 +107,58 @@ title: Minor Programmeren
         </div>
     </div>
 
-    <p class="display-6 w-50 mx-auto">De vakken zijn enigszins flexibel in te plannen: elk
-        vak wordt twee keer per jaar gegeven in zowel de fulltime- als parttime-variant. Doe je de fulltime-minor in één semester? Dan volg je gewoon de genoemde vakken achter elkaar. De exacte planning kun je bekijken via de aanmeldingswebsite, zodra deze geopend is.</p>
+    <p class="display-6 w-50 mx-auto">Als je de hele minor in één semester wil doen, dan kun je je gewoon voor alle vakken inschrijven. Wil je parttime doen, dan volg je eerst Programmeren 1 en 2, en in het volgende semester de overige vakken. Let op: het laatste vak (Algoritmen en Heuristieken) is in alle gevallen een fulltimevak waarbij je overdags geen andere vakken of werk kunt plannen.</p>
 
 
 </div>
 
 
 <div class="panel-bg panel-padded panel-content-50">
-    <h2 class="display-3 marksered px-4 mb-5 pt-3 pb-0">Toelating</h2>
+    <h2 class="display-3 marksered px-4 mb-5 pt-3 pb-0">Regels en Toelating</h2>
+    <h3 class="mt-4 mb-3">Aanwezigheid Fulltime</h3>
+    <p class="display-6">
+        Als je de hele minor in &eacute;&eacute;n semester wil doen dan moet je rekening houden
+        met een verplichte dagelijkse aanwezigheid en werkgroepen. Gezien de werkdruk is het niet mogelijk om
+        andere vakken te volgen die overdags geroosterd zijn. Je krijgt dus ook geen uitzondering
+        voor het bijwonen van andere colleges en wij houden hiermee geen rekening in de groepsindeling.
+    </p>
+    <h3 class="mt-4 mb-3">Aanwezigheid Parttime</h3>
+    <p class="display-6">
+    Doe je de minor verspreid over meerdere semesters,
+        dan zul je enkele verplichte werkgroepen per week hebben. Hiervoor worden bij de start
+        verschillende opties aangeboden zodat je het om je andere vakken heen kunt plannen.
+        Het laatste vak, Algoritmen en Heuristieken, is 
+        altijd een fulltime-vak, dus daar kun je geen andere vakken naast volgen.
+    </p>
+    <h3 class="mt-4 mb-3">Toelatingseisen</h3>
     <p class="display-6">
         De minor Programmeren is toegankelijk voor studenten uit het derde jaar of hoger van universiteit en hbo (we checken het aantal EC dat je gehaald hebt). Studenten uit het vakgebied van de ICT kunnen niet meedoen met deze minor. Kom je van het hbo, kijk dan ook eens bij <a href="https://www.kiesopmaat.nl/modules/31fr/-/141551/">deze minor</a> met vergelijkbare inhoud, maar specifiek op hbo-niveau.
+    </p>
+    <h3 class="mt-4 mb-3">Beschikbare plekken</h3>
+    <p class="display-6">
+        In principe is er op dit moment onbeperkt plek. Door omstandigheden (zoals Corona) kan het
+        toch zijn dat we een limiet stellen. In dat geval zal de aanmelding worden gesloten
+        en zullen we per mail uitleggen hoe we de plekken verdelen. Het is daarom altijd belangrijk om een plan B te hebben, zelfs al wil je gewoon héél graag deze minor doen. Het is niet mogelijk een plek te reserveren.
     </p>
     <h3 class="mt-4 mb-3">Bijvak</h3>
     <p class="display-6">
         Studeer je nog niet aan de UvA? Dan kun je meestal bijvakker worden zonder extra collegegeld te betalen. Let op dat je voor inschrijving als bijvakker wel een vwo-diploma met wiskunde moet hebben, of een hbo-propedeuse. Na je aanmelding helpen we je door alle benodigde stappen heen.
-        De toelatingsprocedure voor niet-UvA-studenten kan meer dan een maand in beslag nemen (het is niet mogelijk deze te starten vóórdat de aanmelding op deze website opent).
+        De toelatingsprocedure voor niet-UvA-studenten kan meer dan een maand in beslag nemen dus 
+        je dan uiterlijk 2 maanden van tevoren je aanmelding starten.
     </p>
-    
     <h3 class="mt-4 mb-3">Benodigdheden</h3>
     <p class="display-6">
         Om mee te doen aan deze minor heb je een eigen laptop nodig. Dit hoeft geen
         gloednieuw exemplaar te zijn. Mac, Windows of Linux zijn allemaal prima. Een goedwerkende
-        wifi-verbinding is wel heel belangrijk.
+        wifi-verbinding is wel heel belangrijk. Aanwezigheid is verplicht dus alleen thuis
+        een computer hebben is niet voldoende. Mocht je budget-problemen hebben (of acuut een
+         kapotte laptop), neem dan contact met ons op en leg gerust je situatie uit. Waarschijnlijk
+        kunnen we wel een oplossing bedenken.
     </p>
 
     <h3 class="mt-4 mb-3">Jaarindeling en startdata</h3>
     <p class="display-6">
-        Het eerste semester loopt van 6 september t/m 4 februari, en het tweede semester loopt van 7 februari t/m 1 juli. Als je een complete minor doet, dan duurt deze altijd van de eerste tot en met de laatste dag van het semester. Let op dat in het eerste semester geen herfstvakantie is ingeroosterd, zoals bij sommige andere opleidingen. Een complete kalender van het academisch jaar 2021-2022 <a href="https://www.uva.nl/onderwijs/bachelor/praktische-zaken/academische-kalender/academische-kalender.html">vind je hier</a>.
+        Het eerste semester loopt van 5 september t/m 3 februari, en het tweede semester loopt van 6 februari t/m 30 juni. Als je een complete minor doet, dan duurt deze altijd van de eerste tot en met de laatste dag van het semester. Let op dat in het eerste semester <u>geen</u> herfstvakantie is ingeroosterd, zoals bij sommige andere opleidingen. Een complete kalender van het academisch jaar 2022-2023 <a href="https://www.uva.nl/onderwijs/bachelor/praktische-zaken/academische-kalender/academische-kalender.html">vind je hier</a>.
     </p>
 </div>
 
@@ -235,7 +170,7 @@ title: Minor Programmeren
             Om je aanmelding voor de minor Programmeren te starten vul je eerst je persoonlijke gegevens in. Daarna helpen we je verder met alle stappen van je aanmelding. Er is nog voldoende ruimte!
         </p>
         <p class="mb-5">
-            <a href="https://register.mprog.nl/" class="btn btn-outline-dark btn-lg">Aanmelden voor Semester 2</a>
+            <a class="btn btn-outline-dark btn-lg">Aanmelden kan binnenkort weer</a>
         </p>
         <!--p class="mb-0 w-75 mx-auto">
             Aanmelden voor het eerste semester van studiejaar 2021/2022 kan vanaf 1 mei. Inschrijving voor de vakken kan vervolgens vanaf 11 juni, tijdens de normale vakinschrijving van de UvA.

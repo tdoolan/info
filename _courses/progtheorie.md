@@ -1,10 +1,10 @@
 ---
-name: Programmeertheorie
+name: Algoritmen en Heuristieken
 curriculum: Minor Programmeren
 order: 5
 #keuzevak: true
 doelgroep: Onder andere voor studenten informatica en iedereen die flink wat programmeervakken heeft gevolgd
-periode: Fulltime, naar keuze in januari of juni
+periode: Fulltime, januari (semester 1) of juni (semester 2)
 niveau: derdejaars
 info:
     -

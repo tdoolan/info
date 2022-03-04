@@ -1,11 +1,11 @@
 ---
 name: Programmeerplatform<br><span class="badge badge-secondary">volledig vernieuwd!</span>
-curriculum: Minor Programmeren
+#curriculum: Minor Programmeren
 order: 3
 image: apps.svg
 #keuzevak: true
 doelgroep: Onder andere voor studenten Informatiekunde
-periode: Parttime, naar keuze in september-oktober of februari-maart
+periode: Parttime, september-oktober (semester 1) of februari-maart (semester 2)
 niveau: derdejaars
 info:
     -

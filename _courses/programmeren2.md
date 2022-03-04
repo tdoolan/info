@@ -1,10 +1,10 @@
 ---
-name: Programmeren 2
+name: Programmeren 2<br><span class="badge badge-secondary">volledig vernieuwd!</span>
 curriculum: Minor Programmeren
 order: 2
 keuzevak: true
 niveau: tweedejaars
-periode: Parttime, naar keuze in november-december of april-mei
+periode: Parttime, november-december (semester 1) of april-mei (semester 2)
 info:
     -
         speed: fulltime
