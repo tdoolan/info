@@ -179,15 +179,40 @@ title: Minor Programmeren
 <div class="rounded-lg py-5 min-vh-75 v-center text-center markered3">
     <div class="px-4">
         <h2 class="display-2 text-center mb-4 text-lisght">Aanmelden</h2>
-        <p class="w-50 mx-auto mb-5" style="font-size:1.2rem;">
-            Om je aanmelding voor de minor Programmeren te starten vul je eerst je persoonlijke gegevens in. Daarna helpen we je verder met alle stappen van je aanmelding. Er is nog voldoende ruimte!
-        </p>
-        <p class="mb-5">
-            <a class="btn btn-outline-dark btn-lg">Aanmelden kan binnenkort weer</a>
-        </p>
-        <!--p class="mb-0 w-75 mx-auto">
-            Aanmelden voor het eerste semester van studiejaar 2021/2022 kan vanaf 1 mei. Inschrijving voor de vakken kan vervolgens vanaf 11 juni, tijdens de normale vakinschrijving van de UvA.
-        </p-->
+        <ol class="w-50 mx-auto text-left">
+            <li>
+                <p class="" style="font-size:1.2rem;">
+                    Om je aan te melden voor de Minor Programmeren in studiejaar 2022-2023 vul je eerst een vrijblijvende vooraanmelding in. 
+                </p>
+                <p class="mb-5">
+                    <a class="btn btn-outline-dark btn-lg" href="https://forms.office.com/Pages/ResponsePage.aspx?id=zcrxoIxhA0S5RXb7PWh05StZDK23dCxCgrv7HMsauLFUQlFXMkhDRUdFNlpSMTdLS1VSMFlYSVU1Ny4u" target="_blank">Start vooraanmelding</a>
+                </p>
+            </li>
+            <li>
+                <p style="font-size:1.2rem;">
+                    Ben je nog geen UvA-student, maar wel bij een andere instelling voor hoger
+                    onderwijs? Dan kun je je direct gaan aanmelden als bijvakker bij 
+                    de UvA. Je kiest voor de aanmelding de opleiding <strong>Informatiekunde (bijvak/electives)</strong>.
+                </p>
+                <p class="mb-5">
+                    <a class="btn btn-outline-dark btn-lg" href="https://www.uva.nl/onderwijs/overig-onderwijs/bijvakken/bijvakken.html" target="_blank">Schrijf je in als bijvakker</a>
+                </p>
+            </li>
+            <li>
+                <p class="mb-5" style="font-size:1.2rem;">
+                    Ben je geen reguliere student dan kun je contractstudent worden. Dit kost
+                    1200 euro per vak van 6 studiepunten. Wil je dit doen, dan kun je een 
+                    <a href="mailto:help@mprog.nl">mail sturen</a> en we helpen je verder.
+                </p>
+            </li>
+            <li>
+                <p style="font-size:1.2rem;">
+                    Tot slot kun je je definitief inschrijven voor de minorvakken.
+                    Dit kan tijdens de normale vakinschrijving van de UvA vanaf 11 juni. Tegen die tijd vind je op deze plek een link. Inschrijven voor semester 2 van
+                    het volgende studiejaar kan pas in de periode november/december.
+                </p>
+            </li>
+        </ol>
     </div>
 </div>
 
