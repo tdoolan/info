@@ -110,8 +110,18 @@ title: Minor Programmeren
         </div>
     </div>
 
-    <p class="display-6 w-50 mx-auto">Als je de hele minor in één semester wil doen, dan kun je je gewoon voor alle vakken inschrijven. Wil je parttime doen, dan volg je eerst Programmeren 1 en 2, en in het volgende semester de overige vakken. Let op: het laatste vak (Algoritmen en Heuristieken) is in alle gevallen een fulltimevak waarbij je overdags geen andere vakken of werk kunt plannen.</p>
+    <h3 class="display-4 markesred px-4 mb-5 pt-3 pb-0">Planning</h3>
+    
+    <p class="display-6 w-50 mx-auto">
+        Alle vakken worden zowel in semester 1 als in semester 2 aangeboden.
+        Als je de hele minor in één semester wil doen, dan kun je je gewoon voor alle vakken inschrijven. Wil je parttime doen, dan schrijf je je eerst in voor de vakken Programmeren 1 en 2, en in het volgende semester voor de overige vakken.
+    </p>
 
+    <p class="my-5"><img src="{{ site.baseurl }}/assets/minprog/vakken@2x.png" style="width:100%"></p>
+
+    <p class="display-6 w-50 mx-auto">
+         Let op: het laatste vak (Algoritmen en Heuristieken) is in alle gevallen een fulltimevak waarbij je overdags geen andere vakken of werk kunt plannen. Dit geldt dus ook als je de vakken verspreidt over meerdere semesters.
+    </p>
 
 </div>
 

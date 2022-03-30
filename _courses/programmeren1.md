@@ -4,7 +4,7 @@ curriculum: Minor Programmeren
 order: 1
 keuzevak: true
 niveau: eerstejaars
-periode: Parttime, september-oktober (semester 1) of februari-maart (semester 2)
+periode: Parttime, 20 uur per week
 fulltime: september
 parttime: september-oktober
 info:

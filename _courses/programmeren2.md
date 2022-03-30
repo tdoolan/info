@@ -4,7 +4,7 @@ curriculum: Minor Programmeren
 order: 2
 keuzevak: true
 niveau: tweedejaars
-periode: Parttime, november-december (semester 1) of april-mei (semester 2)
+periode: Parttime, 20 uur per week
 info:
     -
         speed: fulltime

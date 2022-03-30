@@ -5,7 +5,7 @@ order: 3
 image: apps.svg
 keuzevak: true
 #doelgroep: Onder andere voor studenten Informatiekunde
-periode: Parttime, september-oktober (semester 1) of februari-maart (semester 2)
+periode: Parttime, 20 uur per week
 niveau: tweedejaars
 info:
     -

@@ -5,7 +5,7 @@ order: 4
 image: apps.svg
 #keuzevak: true
 doelgroep: Onder andere voor studenten Informatiekunde
-periode: Parttime, november-december (semester 1) of april-mei (semester 2)
+periode: Parttime, 20 uur per week
 niveau: derdejaars
 info:
     -
