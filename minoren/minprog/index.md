@@ -3,20 +3,20 @@ layout: minprog
 title: Minor Programmeren
 ---
 
-<div class="rounded-lg border-0"
+<div class="rounded-lg border-0 d-none d-md-block"
         style="smin-height:calc(100vh - 112px - 3rem);">
-    <div class="cosl-md text-center">
-        <img class="img-fluid" style="stransform: translateX(50px) perspective(500px) rotateY(5deg);" src="{{ site.baseurl }}/assets/minprog/coding.jpeg">
-    </div>
-    <div class="d-none d-md-block col-md">
-    </div>
+    <!-- <div class="cosl-md text-center"> -->
+        <img class="img-fluid roundeds-lg" style="stransform: translateX(50px) perspective(500px) rotateY(5deg);" src="{{ site.baseurl }}/assets/minprog/coding.jpeg">
+    <!-- </div> -->
+    <!-- <div class="d-none d-md-block col-md">
+    </div> -->
 </div>
 
-<div class="row mt-3 my-md-5 row-cols-1 row-cols-md-2" style="">
+<div class="row mt-md-3 my-md-5 row-cols-1 row-cols-md-2" style="">
     <div class="col">
         <img class="img-fluid rounded-lg" src="{{ site.baseurl }}/assets/minprog/eatingandcoding.jpeg">
     </div>
-    <div class="col px-4 px-md-3 py-4 py-md-0">
+    <div class="col px-3 py-4 py-md-0">
         <h2 class="mb-3">Inhoud</h2>
         <p class="display-6">
             De minor Programmeren is 30 studiepunten en volg je standaard in een halfjaar. Je leert eerst uitgebreid de basis van programmeren (en meteen hoe een computer werkt), en daarna ga je je verdiepen in technieken die je nodig hebt om programmeren toe te passen in allerlei situaties.
@@ -41,6 +41,7 @@ title: Minor Programmeren
         <p class="display-6">
             Voor al onze cursussen selecteren we het beste online lesmateriaal 
             om mee te leren programmeren, speciaal voor studenten zonder voorkennis.
+            Het programma start met CS50, van Harvard.
 
         </p>
     </div>
@@ -52,11 +53,11 @@ title: Minor Programmeren
 </div>
 
 
-<div class="row my-3 my-md-5 row-cols-1 row-cols-md-2 mb-5">
+<div class="row my-3 my-md-5 row-cols-1 row-cols-md-2 mb-0 mb-md-5">
     <div class="col">
         <img class="img-fluid rounded-lg" src="{{ site.baseurl }}/assets/minprog/college.jpeg">
     </div>
-    <div class="col px-4 px-md-3 my-4 my-md-0">
+    <div class="col px-3 my-3 my-md-0">
         <h2 class="mb-3">Werkwijze</h2>
         <p class="display-6">
             Jouw dag bestaat uit heel veel programmeren en puzzelen, afgewisseld met
@@ -75,6 +76,20 @@ title: Minor Programmeren
         <p class="display-6">
             Het onderwijs vindt in normale omstandigheden op locatie in Amsterdam plaats en wordt niet online aangeboden.
         </p>
+    </div>
+</div>
+
+<div class="rounded-lg panel-bg panel-padded text-light markered4 pdb p-4">
+    <div class="row align-items-center">
+        <div class="col-md-3">
+            <img class="" src="{{ site.baseurl }}/assets/minprog/mayla-kersten.jpg" style="  object-fit: cover; height: 200px; width:200px">
+        </div>
+        <div class="col-md-9">
+            <blockquote class="lead mt-4 mt-md-0">"Gelukkig heb ik me niet laten afschrikken, want ik vond het zó interessant. Zeker, de werkdruk is best pittig, maar je leert uitgebreid de basis van het programmeren."</blockquote>
+            <p>
+                <a href="https://inspiratie.uva.nl/minor-kiezen/mayla-kersten.html" class="text-light " style="text-decoration: underline">Is de minor Programmeren iets voor jou? Lees het verhaal van Mayla.</a>
+            </p>
+        </div>
     </div>
 </div>
 
