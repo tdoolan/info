@@ -4,9 +4,9 @@ title: Minor Programmeren
 ---
 
 <div class="rounded-lg border-0"
-        style="min-height:calc(100vh - 112px - 3rem);">
+        style="smin-height:calc(100vh - 112px - 3rem);">
     <div class="cosl-md text-center">
-        <img class="img-fluid" style="stransform: translateX(50px) perspective(500px) rotateY(5deg);" src="{{ site.baseurl }}/assets/minprog/ide.png">
+        <img class="img-fluid" style="stransform: translateX(50px) perspective(500px) rotateY(5deg);" src="{{ site.baseurl }}/assets/minprog/coding.jpeg">
     </div>
     <div class="d-none d-md-block col-md">
     </div>
@@ -14,7 +14,7 @@ title: Minor Programmeren
 
 <div class="row mt-3 my-md-5 row-cols-1 row-cols-md-2" style="">
     <div class="col">
-        <img class="img-fluid rounded-lg" src="{{ site.baseurl }}/assets/minprog/bots.jpeg">
+        <img class="img-fluid rounded-lg" src="{{ site.baseurl }}/assets/minprog/eatingandcoding.jpeg">
     </div>
     <div class="col px-4 px-md-3 py-4 py-md-0">
         <h2 class="mb-3">Inhoud</h2>
