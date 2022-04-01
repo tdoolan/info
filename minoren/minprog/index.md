@@ -215,7 +215,7 @@ title: Minor Programmeren
             </li>
             <li>
                 <p class="mb-5" style="font-size:1.2rem;">
-                    Ben je geen reguliere student dan kun je contractstudent worden. Dit kost
+                    Ben je geen student dan kun je contractstudent worden. Dit kost
                     1200 euro per vak van 6 studiepunten. Wil je dit doen, dan kun je een 
                     <a href="mailto:help@mprog.nl">mail sturen</a> en we helpen je verder.
                 </p>
