@@ -1,5 +1,5 @@
 ---
-name: Data Pipelines
+name: Data Processing and Representations<span class="badge badge-secondary">nieuw!</span>
 curriculum: Minor KI
 order: 4
 image: sp1.png
@@ -11,4 +11,4 @@ info:
         studiegids: https://studiegids.uva.nl/xmlpages/page/2020-2021/zoek-vak/vak/82346
 ---
 
-In dit vak leer je om je eigen pipeline te maken voor het verwerken van data. Een data pipeline is een sequentie van verwerkingstappen om van een ruwe data bron uiteindelijk tot bruikbare informatie te komen. We zullen veelvoorkomende stappen in een pipeline, zoals het vergaren, inlezen, transformeren, analyseren, en visualiseren van data, behandelen. Daarnaast zullen we specifiek kijken naar hoe machine learning algoritmen kunnen worden toegepast om deze stappen uit te breiden. We sluiten het vak af met een project waarbij je je eigen data pipeline ontwerpt en implementeert.
+In dit vak zullen we ons verder verdiepen in de specifieke tools en libraries die in Python beschikbaar zijn voor data verwerking. We zullen hierbij kijken naar alle aspecten van data verwerking, beginnend bij het verzamelen van data uit verschillende soorten bronnen, deze transformeren naar bruikbare formaten of gegevens, en uiteindelijk het toepassen van deze data in een visualisatie, een analyse, of als data voor een machine learning algoritme.

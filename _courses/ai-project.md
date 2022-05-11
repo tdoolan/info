@@ -1,5 +1,5 @@
 ---
-name: Machine Learning Project
+name: Algoritmen en Heuristieken<br><span class="badge badge-secondary">nieuw!</span>
 curriculum: Minor KI
 order: 5
 image: sp1.png
@@ -11,4 +11,4 @@ info:
         studiegids: https://studiegids.uva.nl/xmlpages/page/2020-2021/zoek-vak/vak/82348
 ---
 
-In dit vak zul je alle geleerde vaardigheden voor programmeren en data verwerking, en alle kennis van machine learning modellen en de toepassing daarvan, in een eindproject gaan implementeren. Voor dit project zul je met een team van studenten een maand lang aan een machine learning case werken, waarbij jullie itereren over alle aspecten van de case; van probleem analyse en data cleaning, tot het benchmarken van verschillende modellen tegen elkaar. Uiteindelijk beschrijf je de gehele oplossing, van initieel probleem tot eindproduct, in een verslag.
+Heuristieken zijn een klassiek onderwerp uit de AI, waarmee je problemen kunt oplossen die je met de hand, maar ook met een computer niet volledig kan doorrekenen. Door op een slimme manier het probleem te bestuderen, kun je sneller tot een hele goede oplossing komen. Geduderend het project bouw je samen met twee andere studenten aan verschillende algoritmen voor de case die jullie samen oplosssen.
