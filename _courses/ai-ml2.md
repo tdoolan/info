@@ -3,6 +3,7 @@ name: Introduction to Machine Learning 2
 curriculum: Minor KI
 order: 3
 image: sp1.png
+periode: 2 (nov-dec) of 5 (apr-mei)
 info:
     -
         speed: parttime

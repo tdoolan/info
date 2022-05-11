@@ -16,8 +16,8 @@ layout: scientific
 
 <div class="mb-4 panel-padded panel-content-75 v-center bg-warning px-3">
     <h2>
-        What this is about
-    </h1>
+        What is Scientific Programming about?
+    </h2>
     <p class="display-6">
         Scientists use computation to simulate real-world scenarios, to mine data obtained in
         large-scale studies, and to gain insights that might otherwise stay hidden. A bit of 
@@ -27,16 +27,28 @@ layout: scientific
         that you can use in your own projects. Whether you're a student or a seasoned researcher,
         you're welcome to learn with us!
     </p>
-    <h2>
+    <h3 class="mt-3 mb-3">
         How we teach
-    </h1>
+    </h3>
     <p class="display-6">
         Teaching is online for this track. The courses are self-contained and allow you to progress
         by studying programming theory and... writing many programs!
         All problems are small versions of real scientific computing challenges. Later, you'll
-        progress towards defining, designing and implementing larger projects. Upon registration, you get access to a forum where
-        students post questions and answers. In case you get stuck, there's also an option to book
+        progress towards defining, designing and implementing larger projects. Upon registration, 
+        you get access to a forum where
+        students may post questions and answers. And in case you get stuck, there's also an option to book
         a one-on-one appointment with one of the staff. 
+    </p>
+    <h3 class="mt-3 mb-3">
+        Taking for credits
+    </h3>
+    <p class="display-6">
+        Our courses are available to take online for free by following the links to the course websites, below.
+        If you would like to have access to tutoring opportunities or take the courses for credit,
+        you may officially register as a student as 
+        described below. If you register and then hand in all assignments and take the relevant exams,
+        you can earn course credit (ects). If you'd like to use this credit as part of your diploma,
+        please ask your program's study adviser for help in transferring credits.
     </p>
 </div>
 
@@ -45,8 +57,8 @@ layout: scientific
     <h1 class="display-3 text-center mb-4">Courses</h1>
     <p class="mb-5 display-6 w-50-centered">
         Follow the links below to have a look at any of the courses. You can immediately 
-        start practicing if you'd like! And if you're a UvA
-        staff or student, you might consider registering to earn credit or a certificate as well.
+        start practicing if you'd like! You might also consider registering to earn 
+        credit or a certificate.
     </p>
     
     <div class="row row-cols-1 row-cols-md-2">    
@@ -54,15 +66,16 @@ layout: scientific
         {% if course.curriculum=='scientific' %}
         <div class="col mb-4">
             <div class="card mb-3 bg-light border-0 h-100" style="min-height:20vw;">
-                <!-- <div class="card-body">
-                    {% if course.image %}
-                    <img src="{{ site.baseurl }}/assets/courses/{{ course.image }}" class="img" style=" max-width:200px;" alt="...">
-                    {% endif %}
-                    </div>
-                    -->
                 <div class="card-body flex-fill">
                     <h4 class="card-title">{{ course.name }}</h4>
+                    <p class="text-muted small">
+                        Workload: {{ course.info[0].workload }} /
+                        Course code: {{ course.info[0].code }}<br>
+                        Price: {{ course.info[0].price }} (applies to contract students)
+                    </p>
                     <p class="card-text">{{ course.content | markdownify }}</p>
+                    <p class="text-muted small">
+                    </p>
                 </div>
                 <div class="card-footer border-0">
                     <a href="{{ course.online }}" class="card-link">
@@ -84,22 +97,66 @@ layout: scientific
     <div class="px-4">
         <h1 class="display-3 text-center mb-4">Registration</h1>
         <p class="w-50 mx-auto mb-5" style="font-size:1.2rem;">
-            You can earn a certificate or course credit if you're among UvA students or staff
-             (generally for free!). Enrolling officially also connects you to the community 
+            You can earn a certificate or course credit by 
+            registering one or more of the courses. Enrolling officially also connects you to the community 
              of students and teachers for our courses. Generally, you can plan to do any of our
-             courses between September–December and February–May.
-            To enrol, enter your information on our registration website, and
-            we'll guide you through the process.
+             courses between September–December (must finish by December 15th) and 
+             February–May (must finish by May 15th).
         </p>
-        <p class="mb-0">
+        <ul class="w-50 mx-auto text-left">
+            <li>
+                Are you a regular UvA bachelor's or master's student? You can self-register through 
+                <a href="https://m.sis.uva.nl/vakaanmelden">SIS</a>.
+                You can do this even after courses start. Make sure to register for the 
+                right semester! Registration for the next semester starts during the 
+                usual course registration periods.
+            </li>
+            <li>
+                Are you a UvA employee? In many cases the university will pay for your
+                course registration. Go to <a href="http://datanose.nl/#contract">Datanose</a>
+                to register and choose the appropriate options. You do not have to check
+                with your supervisor to register, because funds are personal. However, do not
+                take the work load lightly!
+            </li>
+            <li>
+                Are you a Dutch student registered for a bachelor's programme at a Dutch
+                university and do you have a regular vwo diploma? You can register as an
+                 <a href="https://www.uva.nl/en/education/other-programmes/electives/electives.html">"electives"</a>
+                student at the UvA (choose Informatiekunde as your bachelor),
+                and when that's completely done, register for courses through
+                 <a href="https://m.sis.uva.nl/vakaanmelden">SIS</a>.
+            </li>
+            <li>
+                Are you a student at a Dutch master's programme? In that case you
+                cannot register as an "electives" student because Scientific Programming
+                are bachelor's
+                level courses. You might consider registering as a contract student.
+            </li>
+            <li>
+                In all other cases you may consider to do our courses by registering
+                as a contract student&mdash;see the course descriptions above for the costs. If you'd like to do that, please
+                <a href="mailto:scientific@mprog.nl">send an e-mail</a> so we can help you out.
+            </li>
+        </ul>
+        <p class="w-50 mx-auto mt-5" style="font-size:1.2rem;">
+            Always take the course workload and the course periods into account when registering! 
+            When starting a course you must finish during the same semester. Exams
+            are only offered twice per semester&mdash;check the dates on the course websites.
+        </p>
+        <p class="w-50 mx-auto mt-3" style="font-size:1.2rem;">
+            <small class="pt-3">Course websites are updated with new dates, content<br> and regulations a few
+                weeks before semester's start.</small>
+        </p>
+        <!-- <p class="">(Note that registration for the next academic year will be opened on 1 May!) -->
+        <!--p class="mb-0">
             <a class="btn btn-outline-dark btn-lg" href="https://register.mprog.nl/">Register now</a>
-        </p>
+        </p-->
     </div>
 </div>
 
 <div class="panel-bg panel-padded panel-content-50">
     <h1 class="display-4">Questions</h1>
     <p class="display-6">
-        Have questions? Send us an e-mail at <a href="mailto:help@mprog.nl">help@mprog.nl</a>. One of the teachers or assistants will help you out.
+        Have questions? Send us an e-mail at <a href="mailto:scientific@mprog.nl">scientific@mprog.nl</a>. One of the teachers or assistants will help you out.
     </p>
 </div>

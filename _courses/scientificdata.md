@@ -5,9 +5,11 @@ info:
     -
         speed: parttime
         code: 5062DAPR6Y
+        workload: 160 hours
+        price: €1200
         studiegids: https://studiegids.uva.nl/xmlpages/page/2020-2021/zoek-vak/vak/79534
 online: https://data.mprog.nl/
 sources: https://github.com/spcourse/data
 ---
 
-In this course you'll build your own toolkit of useful programs with which you can read, transform and analyse data that you might find in various scientific areas. Before starting this course, you need a thorough understanding of Python! (Workload: about 160 hours)
+In this course you'll build your own toolkit of useful programs with which you can read, transform and analyse data that you might find in various scientific areas. Before starting this course, you need a thorough understanding of Python!

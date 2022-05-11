@@ -6,9 +6,11 @@ info:
     -
         speed: parttime
         code: 50622SCP3Y
+        workload: 80 hours
+        price: €600
         studiegids: https://studiegids.uva.nl/xmlpages/page/2020-2021/zoek-vak/vak/80138
 online: https://sp2.mprog.nl/
 sources: https://github.com/spcourse/sp2
 ---
 
-This course continues the problem solving curriculum from Scientific Programming 1. You'll work on larger programs and get to know Python a lot better, so you get ready to learn more programming techniques on your own. (Workload: about 80 hours)
+This course continues the problem solving curriculum from Scientific Programming 1. You'll work on larger programs and get to know Python a lot better, so you get ready to learn more programming techniques on your own.
