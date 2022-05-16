@@ -197,7 +197,9 @@ title: Minor Programmeren
         <ol class="w-50 mx-auto text-left">
             <li>
                 <p class="" style="font-size:1.2rem;">
-                    Om je aan te melden voor de Minor Programmeren in studiejaar 2022-2023 vul je eerst een vrijblijvende vooraanmelding in. 
+                    Om je aan te melden voor de Minor Programmeren in studiejaar 2022-2023 vul je eerst een vrijblijvende vooraanmelding in. Voor deze minor is er geen selectie
+                    dus je krijgt geen reactie. Je mag er in normale omstandigheden van uit gaan 
+                    dat je direct geplaatst bent.
                 </p>
                 <p class="mb-5">
                     <a class="btn btn-outline-dark btn-lg" href="https://forms.office.com/Pages/ResponsePage.aspx?id=zcrxoIxhA0S5RXb7PWh05StZDK23dCxCgrv7HMsauLFUQlFXMkhDRUdFNlpSMTdLS1VSMFlYSVU1Ny4u" target="_blank">Start vooraanmelding</a>
