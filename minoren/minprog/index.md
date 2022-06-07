@@ -225,7 +225,8 @@ title: Minor Programmeren
             <li>
                 <p style="font-size:1.2rem;">
                     Tot slot kun je je definitief inschrijven voor de minorvakken.
-                    Dit kan tijdens de normale vakinschrijving van de UvA vanaf maandag 13 juni. Voor de meeste studenten gaat dit via [SIS](http://m.sis.uva.nl/vakaanmelden/). Let op dat in het zoekscherm studiejaar 2022-2023 staat en gebruik de vakcodes hierboven om te registreren. Vergeet ook niet om je inschrijving niet alleen toe te voegen aan de "Planner" maar daarna ook voor alle vakken semester 1 te kiezen en nog een keer de knop "Aanmelden" te kiezen. Pas als de vakken in je Overzicht Aanmeldingen staan is het gelukt. Inschrijven voor semester 2 van
+                    Dit kan tijdens de normale vakinschrijving van de UvA vanaf maandag 13 juni. Voor de meeste studenten gaat dit via 
+                    <a href="http://m.sis.uva.nl/vakaanmelden/">SIS</a>. Let op dat in het zoekscherm studiejaar 2022-2023 staat en gebruik de vakcodes hierboven om te registreren. Vergeet ook niet om je inschrijving niet alleen toe te voegen aan de "Planner" maar daarna ook voor alle vakken semester 1 te kiezen en nog een keer de knop "Aanmelden" te kiezen. Pas als de vakken in je Overzicht Aanmeldingen staan is het gelukt. Inschrijven voor semester 2 van
                     het volgende studiejaar kan pas in de periode november/december.
                 </p>
             </li>
