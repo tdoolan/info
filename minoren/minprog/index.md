@@ -160,7 +160,7 @@ title: Minor Programmeren
     </p>
     <h3 class="mt-4 mb-3">Toelatingseisen</h3>
     <p class="display-6">
-        De minor Programmeren is toegankelijk voor studenten uit het derde jaar of hoger van universiteit en hbo (we checken het aantal EC dat je gehaald hebt; mocht je studiepunten missen, mail dan even voor overleg). Studenten uit het vakgebied van de ICT kunnen niet meedoen met deze minor. Kom je van het hbo, kijk dan ook eens bij <a href="https://www.kiesopmaat.nl/modules/31fr/-/141551/">deze minor</a> met vergelijkbare inhoud, maar specifiek op hbo-niveau.
+        De minor Programmeren is toegankelijk voor studenten uit het derde jaar of hoger van universiteit en hbo (we checken het aantal EC dat je gehaald hebt; mocht je studiepunten missen, mail dan even voor overleg). Studenten uit het vakgebied van de ICT kunnen niet meedoen met deze minor. Kom je van het hbo, kijk dan ook eens bij <a href="https://cpnits.com/">deze minor</a> met vergelijkbare inhoud, maar specifiek op hbo-niveau.
     </p>
     <h3 class="mt-4 mb-3">Beschikbare plekken</h3>
     <p class="display-6">
@@ -217,7 +217,7 @@ title: Minor Programmeren
             </li>
             <li>
                 <p class="mb-5" style="font-size:1.2rem;">
-                    Ben je geen student dan kun je contractstudent worden. Dit kost
+                    Ben je nog geen student bij een opleiding in het hoger onderwijs dan kun je contractstudent worden. Dit kost
                     1200 euro per vak van 6 studiepunten. Wil je dit doen, dan kun je een 
                     <a href="mailto:help@mprog.nl">mail sturen</a> en we helpen je verder.
                 </p>
@@ -226,8 +226,18 @@ title: Minor Programmeren
                 <p style="font-size:1.2rem;">
                     Tot slot kun je je definitief inschrijven voor de minorvakken.
                     Dit kan tijdens de normale vakinschrijving van de UvA vanaf maandag 13 juni. Voor de meeste studenten gaat dit via 
-                    <a href="http://m.sis.uva.nl/vakaanmelden/">SIS</a>. Let op dat in het zoekscherm studiejaar 2022-2023 staat en gebruik de vakcodes hierboven om te registreren. Vergeet ook niet om je inschrijving niet alleen toe te voegen aan de "Planner" maar daarna ook voor alle vakken semester 1 te kiezen en nog een keer de knop "Aanmelden" te kiezen. Pas als de vakken in je Overzicht Aanmeldingen staan is het gelukt. Inschrijven voor semester 2 van
-                    het volgende studiejaar kan pas in de periode november/december.
+                    <a href="http://m.sis.uva.nl/vakaanmelden/">SIS</a>. Let op dat in het zoekscherm studiejaar 2022-2023 staat en gebruik de vakcodes hierboven om te registreren. Vergeet ook niet om je inschrijving niet alleen toe te voegen aan de "Planner" maar daarna ook voor alle vakken semester 1 te kiezen en nog een keer de knop "Aanmelden" te kiezen. Pas als de vakken in je Overzicht Aanmeldingen staan is het gelukt. Inschrijven voor semester 2 
+                     kan pas vanaf eind november.
+                </p>
+                <p class="mb-5">
+                    <a class="btn btn-outline-dark btn-lg" href="http://m.sis.uva.nl/vakaanmelden/" target="_blank">Ga naar de vakaanmelding</a>
+                </p>
+            </li>
+            <li>
+                <p style="font-size:1.2rem;">
+                    Begin juli ontvang je meer (praktische) informatie over de start van de
+                    minor en de eerste vakken. Dit geldt ook voor de roosters. Voor die tijd 
+                    kunnen we geen verdere informatie geven.
                 </p>
             </li>
         </ol>
