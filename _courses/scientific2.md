@@ -9,7 +9,7 @@ info:
         workload: 80 hours
         price: €600
         studiegids: https://studiegids.uva.nl/xmlpages/page/2020-2021/zoek-vak/vak/80138
-online: https://sp2.mprog.nl/
+online: https://sp2.proglab.nl/
 sources: https://github.com/spcourse/sp2
 ---
 
