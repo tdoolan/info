@@ -6,7 +6,7 @@ info:
         speed: parttime
         code: 5062DAPR6Y
         workload: 160 hours
-        price: €1200
+        price: TBD
         studiegids: https://studiegids.uva.nl/xmlpages/page/2020-2021/zoek-vak/vak/79534
 online: https://data.proglab.nl/
 sources: https://github.com/spcourse/data
