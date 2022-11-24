@@ -227,8 +227,27 @@ title: Minor Programmeren
             <li>
                 <p style="font-size:1.2rem;">
                     Tot slot kun je je definitief inschrijven voor de minorvakken.
-                    Dit kan tijdens de normale vakinschrijving van de UvA **vanaf 5 december**.
-                    Op deze plek vind je straks meer informatie over hoe je dat doet.
+                    Dit kan tijdens de normale vakinschrijving van de UvA <strong>vanaf 5 december</strong>.
+                </p>
+                <p style="font-size:1.2rem;">
+                    Gebruik de volgende links om de vakken toe te voegen aan de vakinschrijving. Dit werkt ook pas goed vanaf 5 december.
+                    <ul style="list-style-type:none; padding-left:0">
+                        <li><a class="btn btn-outline-dark btn-lg mb-3" href="https://glass.uva.nl/planning-board/add?id=50621PRP6Y">
+                            Aanmelden Programmeren 1
+                        </a></li>
+                        <li><a class="btn btn-outline-dark btn-lg mb-3" href="https://glass.uva.nl/planning-board/add?id=50622PRP6Y">
+                            Aanmelden Programmeren 2
+                        </a></li>
+                        <li><a class="btn btn-outline-dark btn-lg mb-3" href="https://glass.uva.nl/planning-board/add?id=5062DATT6Y">
+                            Aanmelden Datarepresentaties
+                        </a></li>
+                        <li><a class="btn btn-outline-dark btn-lg mb-3" href="https://glass.uva.nl/planning-board/add?id=5062PRPR6Y">
+                            Aanmelden Programmeerproject
+                        </a></li>
+                        <li><a class="btn btn-outline-dark btn-lg mb-3" href="https://glass.uva.nl/planning-board/add?id=5062ALHE6Y">
+                            Aanmelden Algoritmen en Heuristieken
+                        </a></li>
+                    </ul>
                     <!--
                     Je doet 
                     dit via
@@ -236,7 +255,7 @@ title: Minor Programmeren
                      kan pas vanaf eind november.-->
                 </p>
                 <p class="mb-5">
-                    <a class="btn btn-outline-dark btn-lg" href="http://m.sis.uva.nl/vakaanmelden/" target="_blank">Ga naar de vakaanmelding</a>
+                    <a class="btn btn-outline-dark btn-lg" href="https://glass.uva.nl/" target="_blank">Ga naar GLASS om je inschrijvingen te beheren</a>
                 </p>
             </li>
             <li>
