@@ -220,14 +220,20 @@ title: Minor Programmeren
                     Ben je nog geen student bij een opleiding in het hoger onderwijs dan kun je contractstudent worden. Dit kost
                     1200 euro per vak van 6 studiepunten. Wil je dit doen, dan kun je een 
                     <a href="mailto:help@mprog.nl">mail sturen</a> en we helpen je verder.
+                    Normaal ingeschreven studenten uit het hoger onderwijs betalen niets
+                    extra voor een bijvakinschrijving.
                 </p>
             </li>
             <li>
                 <p style="font-size:1.2rem;">
                     Tot slot kun je je definitief inschrijven voor de minorvakken.
-                    Dit kan tijdens de normale vakinschrijving van de UvA vanaf maandag 13 juni. Voor de meeste studenten gaat dit via 
-                    <a href="http://m.sis.uva.nl/vakaanmelden/">SIS</a>. Let op dat in het zoekscherm studiejaar 2022-2023 staat en gebruik de vakcodes hierboven om te registreren. Vergeet ook niet om je inschrijving niet alleen toe te voegen aan de "Planner" maar daarna ook voor alle vakken semester 1 te kiezen en nog een keer de knop "Aanmelden" te kiezen. Pas als de vakken in je Overzicht Aanmeldingen staan is het gelukt. Inschrijven voor semester 2 
-                     kan pas vanaf eind november.
+                    Dit kan tijdens de normale vakinschrijving van de UvA **vanaf 5 december**.
+                    Op deze plek vind je straks meer informatie over hoe je dat doet.
+                    <!--
+                    Je doet 
+                    dit via
+                    <a href="http://glass.uva.nl/">GLASS</a>. Let op dat in het zoekscherm studiejaar 2022-2023 staat en gebruik de vakcodes hierboven om te registreren. Vergeet ook niet om je inschrijving niet alleen toe te voegen aan de "Planner" maar daarna ook voor alle vakken semester 1 te kiezen en nog een keer de knop "Aanmelden" te kiezen. Pas als de vakken in je Overzicht Aanmeldingen staan is het gelukt. Inschrijven voor semester 2 
+                     kan pas vanaf eind november.-->
                 </p>
                 <p class="mb-5">
                     <a class="btn btn-outline-dark btn-lg" href="http://m.sis.uva.nl/vakaanmelden/" target="_blank">Ga naar de vakaanmelding</a>
@@ -235,9 +241,9 @@ title: Minor Programmeren
             </li>
             <li>
                 <p style="font-size:1.2rem;">
-                    Begin juli ontvang je meer (praktische) informatie over de start van de
-                    minor en de eerste vakken. Dit geldt ook voor de roosters. Voor die tijd 
-                    kunnen we geen verdere informatie geven.
+                    Na inschrijving ontvang je in januari meer (praktische) informatie over de start van de
+                    minor en de eerste vakken. Dit geldt ook voor de roosters, die niet eerder
+                    bekend gemaakt kunnen worden. Voor fulltime geldt sowieso: elke dag aanwezig.
                 </p>
             </li>
         </ol>
