@@ -1,15 +1,11 @@
 ---
-name: Programmeren 2<br><span class="badge badge-secondary">volledig vernieuwd!</span>
+name: Programmeren 2
 curriculum: Minor Programmeren
 order: 2
 keuzevak: true
 niveau: tweedejaars
-periode: Parttime, 20 uur per week
+periode: 20 uur per week
 info:
-    -
-        speed: fulltime
-        code: 50622FUP6Y
-        studiegids: https://studiegids.uva.nl/xmlpages/page/2020-2021/zoek-vak/vak/79750
     -
         speed: parttime
         code: 50622PRP6Y

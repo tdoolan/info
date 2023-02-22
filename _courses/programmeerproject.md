@@ -5,13 +5,9 @@ order: 4
 image: apps.svg
 #keuzevak: true
 doelgroep: Onder andere voor studenten Informatiekunde
-periode: Parttime, 20 uur per week
+periode: 20 uur per week
 niveau: derdejaars
 info:
-    -
-        speed: fulltime
-        code: 5062FUPR6Y
-        studiegids: https://studiegids.uva.nl/xmlpages/page/2020-2021/zoek-vak/vak/80267
     -
         speed: parttime
         code: 5062PRPR6Y

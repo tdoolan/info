@@ -2,7 +2,7 @@
 name: Collectieve Intelligentie
 keuzevak: true
 doelgroep: Voor studenten met een goede kennis van Python
-periode: Parttime, in april-mei
+periode: 20 uur per week, in april-mei
 info:
     -
         speed: parttime

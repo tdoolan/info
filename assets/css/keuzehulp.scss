@@ -26,13 +26,13 @@
             margin-left: 0.75rem;
         }
         
-        a
+        .card-link
         {
             margin-top: 8px;
             padding-bottom: 10px;
         }
         
-        a:after
+        .card-link:after
         {
             content:" \2192";
         }
@@ -115,11 +115,6 @@
         text-align: center;
     }
 
-
-    #programmeren, #computational, #informationsystems, #AI, #scientific {
-        height: 450px;
-    }
-
     #programmeren hr {
         border: 1px solid firebrick;
         background: firebrick;
@@ -145,15 +140,19 @@
         background: orange;
     }
 
-    #informationsystems hr {
+    #creativeprogramming hr {
         border: 1px solid navy;
         background: navy;
     }
 
-    #KI hr, #datascience hr {
-        margin: 2% 0px 3% 0px;
+    #datascience hr {
         background: gold;
         border: 1px solid gold;
+    }
+
+    #informatica hr {
+        background: #396;
+        border: 1px solid #396;
     }
 
     .col {

@@ -3,69 +3,307 @@ layout: default
 title: Minoren
 ---
 
-<style>
-    #minoren a
-    {
-        color:#123B4A;
-    }
-    #minoren a:hover
-    {
-        text-decoration:none;
-    }
-    
-    @media (max-width: 767.98px)
-    {
-        #minoren .display-4
-        {
-            font-size:1.4rem!important;
-        }
-    }
-    
-    #minoren .display-4
-    {
-        font-size:2.5rem;
-    }
-    
-    #minoren .logo
-    {
-        width: 50%;
-    }
+<div class="keuzehulp">
 
-    @media (min-width: 768px)
-    {
-        #minoren
-        {
-            height:calc(100vh - 56px)
-        }
-    
-        #minoren .logo
-        {
-            width: 75%;
-        }
-    }
-</style>
 
-<div class="container pt-3 pt-md-0">
-<div id="minoren" class="d-flex flex-column">
-    <div class="d-flex flex-column flex-lg-row flex-fill pt-md-5">
-        <div class="text-center p-3 mr-md-3 mb-3" style="flex: 50%;">
-            <div class="position-relative d-flex flex-column justify-content-around align-items-center w-100 h-100">
-                <img class="logo my-4" src="{{ site.baseurl }}/assets/logos/programmeren.svg">
-                <a href="{{ site.baseurl }}/minoren/minprog/" class="stretched-link display-4">Minor Programmeren</a>
+    <div class="nav pb-4">
+        <div class="container py-4 py-md-5">
+            <h1 class="display-3 mb-5" style="line-height:0.8">Minoren</h1>
+            <p class="display-5 w-md-75">
+                In het Programming Lab bieden we diverse minoren aan. Daarnaast verwijzen we graag naar alternatieve minoren die niet door ons worden georganiseerd.
+            </p>
+        </div>
+    </div>
+
+
+    <div class="container mt-n5 pb-4">
+        <div class="row">
+            <div class="wrapper">
+
+
+                <div class="col">
+                    <div class="card" id="programmeren">
+                        <a href="/minoren/minprog" class="text-center">
+                            <img class="card-img-top" src="{{ site.baseurl }}/assets/logos/programmeren.svg" alt="Card image cap">
+                        </a>
+                        <div class="card-body minor-title">
+                            <h5 class="card-title">Minor</h5>
+                            <h5 class="card-title">Programmeren</h5>
+                            <h5 class="card-title-responsive">Minor Programmeren</h5>
+                            <hr>
+                            <div class="minor-description">
+                                <p>Schrijf programma's, maak data inzichtelijk en bouw je eigen websites.</p>
+                            </div>
+                        </div>
+                        <ul class="list-group list-group-flush">
+                            <li class="list-group-item">
+                                <h6>30 EC</h6>
+                            </li>
+                            <li class="list-group-item">
+                                <p>&bull; Voor alle studenten</p>
+                                <p>&bull; Geen voorkennis nodig</p>
+                                <p>&bull; Semester 1 of 2</p>
+                                <p>&bull; Kan ook verspreid over een jaar</p>
+                                <p>&bull; Nederlandstalig</p>
+                            </li>
+                        </ul>
+                        <div class="card-footer border-0">
+                            <a href="/minoren/minprog/" class="card-link">Website</a>
+                            <a class="card-link" href="https://studiegids.uva.nl/xmlpages/page/2022-2023/zoek-minor/opleiding/7157">Studiegids</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col">
+                    <div class="card" id="AI">
+                        <a href="/minoren/minai" class="text-center">
+                            <img class="card-img-top" src="{{ site.baseurl }}/assets/logos/ai.svg" alt="Card image cap">
+                        </a>
+                        <div class="card-body">
+                            <div class="minor-title">
+                                <h5 class="card-title">Minor</h5>
+                                <h5 class="card-title">AI</h5>
+                                <h5 class="card-title-responsive">Minor AI</h5>
+                            </div>
+                            <hr>
+                            <div class="minor-description">
+                                <!-- <button type="button" class="btn btn-light" name="button" onclick="showinfo('ai')">Programma</button> -->
+                                <p>Ontwerp en implementeer toepassingen van machine learning in Python.</p>
+                            </div>
+
+                        </div>
+                        <ul class="list-group list-group-flush">
+                            <li class="list-group-item">
+                                <h6>30 EC</h6>
+                            </li>
+                            <li class="list-group-item">
+                                <p>&bull; Voor alle studenten</p>
+                                <p>&bull; Geen voorkennis nodig</p>
+                                <p>&bull; Semester 1 of 2</p>
+                                <p>&bull; Kan ook verspreid over een jaar</p>
+                                <p>&bull; Nederlandstalig</p>
+                            </li>
+                        </ul>
+                        <div class="card-footer border-0">
+                            <a href="/minoren/minai" class="card-link">Website</a>
+                            <a class="card-link" href="https://studiegids.uva.nl/xmlpages/page/2022-2023/zoek-minor/opleiding/7235">Studiegids</a>
+                        </div>
+                    </div>
+                </div>
+
+                <!--
+                <div class="col">
+                    <div class="card" id="computational">
+                        <img class="card-img-top" src="{{ site.baseurl }}/assets/logos/computational.png" alt="Card image cap" onclick="showinfo('cls')">
+                        <div class="card-body">
+                            <div class="minor-title">
+                                <h5 class="card-title">Minor</h5>
+                                <h5 class="card-title">Software Engineering</h5>
+                                <h5 class="card-title-responsive">Minor Software Engineering</h5>
+                            </div>
+                            <hr>
+                            <div class="minor-description">
+                                <p>Maak modellen en simulaties van complexe systemen met hulp van wiskunde en programmeren.</p>
+                            </div>
+                        </div>
+                        <ul class="list-group list-group-flush">
+                            <li class="list-group-item">
+                                <h6>30 EC</h6>
+                            </li>
+                            <li class="list-group-item">
+                                <p>&bull; Vooral voor bètastudenten</p>
+                                <p>&bull; Fulltime</p>
+                                <p>&bull; Geen ervaring nodig</p>
+                                <p>&bull; Semester 1</p>
+                                <p>&bull; Nederlandstalig</p>
+                            </li>
+                        </ul>
+                        <div class="card-footer border-0">
+                            <a target="_blank" href="https://minor.computationalscience.nl" class="card-link">Website</a>
+                            <a target="_blank" href="https://studiegids.uva.nl/xmlpages/page/2021-2022/zoek-minor/opleiding/6285" class="card-link">Studiegids</a>
+                        </div>
+                    </div>
+                </div>
+                -->
+
+
+
+                <div class="col">
+                    <div class="card" id="scientific">
+                        <a href="/scientific" class="text-center">
+                            <img class="card-img-top" src="{{ site.baseurl }}/assets/logos/scientific.svg" alt="Card image cap">
+                        </a>
+                        <div class="card-body">
+                            <div class="minor-title">
+                                <h5 class="card-title">Keuzevakken</h5>
+                                <h5 class="card-title">Scientific Programming</h5>
+                                <h5 class="card-title-responsive">Minor Scientific Programming</h5>
+                                <hr>
+                            </div>
+                            <div class="minor-description">
+                                <p>Programmeren en dataverwerking in Python, voor wetenschappelijke toepassing.</p>
+                            </div>
+                        </div>
+                        <ul class="list-group list-group-flush">
+                            <li class="list-group-item">
+                                <h6>12 EC (g&eacute;&eacute;n minor)</h6>
+                            </li>
+                            <li class="list-group-item">
+                                <p>&bull; Voor alle studenten</p>
+                                <p>&bull; Geen ervaring nodig</p>
+                                <p>&bull; Parttime</p>
+                                <p>&bull; Semester 1 of 2</p>
+                                <p>&bull; Engelstalig</p>
+                            </li>
+                        </ul>
+                        <div class="card-footer border-0">
+                            <a class="card-link" href="/scientific">Website</a>
+                            <a class="card-link" href="https://studiegids.uva.nl/xmlpages/page/2022-2023/zoek-minor/opleiding/7163">Studiegids</a>
+                        </div>
+                    </div>
+                </div>
+
             </div>
         </div>
-        <div class="text-center p-3 ml-md-3 mb-3" style="flex: 50%;">
-            <a href="{{ site.baseurl }}/minoren/minai/" class="d-flex flex-column justify-content-around align-items-center w-100 h-100">
-                <img class="logo my-4" src="{{ site.baseurl }}/assets/logos/ai.svg">
-                <h1 class="display-4">Minor AI</h1>
-            </a>
+
+        <h3 class="mt-5 pt-4 mb-4 text-center">Minoren buiten het Programming Lab</h3>
+
+        <div class="row mt-5 mb-5">
+            <div class="wrapper">
+
+                <div class="col">
+                    <div class="card" id="computational">
+                        <!-- <img class="card-img-top" src="{{ site.baseurl }}/assets/logos/computational.png" alt="Card image cap" onclick="showinfo('cls')"> -->
+                        <div class="card-body">
+                            <div class="minor-title">
+                                <h5 class="card-title">Computational Science</h5>
+                                <h5 class="card-title"> (UvA)</h5>
+                                <h5 class="card-title-responsive">Minor Computational Science (UvA)</h5>
+                            </div>
+                            <hr>
+                            <div class="minor-description">
+                                <p>Maak modellen en simulaties van complexe systemen met hulp van wiskunde en programmeren.</p>
+                            </div>
+                        </div>
+                        <ul class="list-group list-group-flush">
+                            <li class="list-group-item">
+                                <h6>30 EC</h6>
+                            </li>
+                            <li class="list-group-item">
+                                <p>&bull; Vooral voor bètastudenten</p>
+                                <p>&bull; Fulltime</p>
+                                <p>&bull; Geen ervaring nodig</p>
+                                <p>&bull; Semester 1</p>
+                                <p>&bull; Nederlandstalig</p>
+                            </li>
+                        </ul>
+                        <div class="card-footer border-0">
+                            <a target="_blank" href="https://minor.computationalscience.nl" class="card-link">Website</a>
+                            <a target="_blank" href="https://studiegids.uva.nl/xmlpages/page/2022-2023/zoek-minor/opleiding/7159" class="card-link">Studiegids</a>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="col">
+                    <div class="card" id="creativeprogramming">
+                        <!-- <img class="card-img-top" src="{{ site.baseurl }}/assets/logos/computational.png" alt="Card image cap"> -->
+                        <div class="card-body">
+                            <div class="minor-title">
+                                <h5 class="card-title">Creative Programming</h5>
+                                <h5 class="card-title"> (NHL Stenden)</h5>
+                                <h5 class="card-title-responsive">Minor Creative Programming (NHL Stenden)</h5>
+                            </div>
+                            <hr>
+                            <div class="minor-description">
+                                <p>Alleen voor hbo-studenten: Creative Programming for Non-IT Students. De basis van programmeren met de docenten aan je zijde.</p>
+                            </div>
+                        </div>
+                        <ul class="list-group list-group-flush">
+                            <li class="list-group-item">
+                                <h6>15/30 EC</h6>
+                            </li>
+                            <li class="list-group-item">
+                                <p>&bull; Alleen voor hbo</p>
+                                <p>&bull; Fulltime</p>
+                                <p>&bull; Geen ervaring nodig</p>
+                                <p>&bull; Semester 1 of 2</p>
+                                <p>&bull; Engelstalig</p>
+                            </li>
+                        </ul>
+                        <div class="card-footer border-0">
+                            <a target="_blank" href="https://cpnits.com/en/" class="card-link">Website</a>
+                            <a target="_blank" href="https://www.kiesopmaat.nl/modules/31fr/-/142685/" class="card-link">Kies op maat</a>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="col">
+                    <div class="card" id="datascience">
+                        <!-- <img class="card-img-top" src="{{ site.baseurl }}/assets/logos/computational.png" alt="Card image cap"> -->
+                        <div class="card-body">
+                            <div class="minor-title">
+                                <h5 class="card-title">Data Science</h5>
+                                <h5 class="card-title"> (UvA Economie)</h5>
+                                <h5 class="card-title-responsive">Minor Data Science (UvA Economie)</h5>
+                            </div>
+                            <hr>
+                            <div class="minor-description">
+                                <p>Maak kennis met technieken uit data science en kunstmatige intelligentie.</p>
+                            </div>
+                        </div>
+                        <ul class="list-group list-group-flush">
+                            <li class="list-group-item">
+                                <h6>30 EC</h6>
+                            </li>
+                            <li class="list-group-item">
+                                <p>&bull; Programmeerervaring vereist</p>
+                                <p>&bull; Goed bekend met statistiek</p>
+                                <p>&bull; Fulltime</p>
+                                <p>&bull; Semester 1</p>
+                                <p>&bull; Engelstalig</p>
+                            </li>
+                        </ul>
+                        <div class="card-footer border-0">
+                            <a class="card-link" href="https://studiegids.uva.nl/xmlpages/page/2022-2023/zoek-minor/opleiding/7115">Studiegids</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col">
+                    <div class="card" id="informatica">
+                        <!-- <img class="card-img-top" src="{{ site.baseurl }}/assets/logos/computational.png" alt="Card image cap"> -->
+                        <div class="card-body">
+                            <div class="minor-title">
+                                <h5 class="card-title">Informatica</h5>
+                                <h5 class="card-title"> (UvA)</h5>
+                                <h5 class="card-title-responsive">Minor Informatica (UvA Economie)</h5>
+                            </div>
+                            <hr>
+                            <div class="minor-description">
+                                <p>Ga de diepte in op basis van je programmeerervaring.</p>
+                            </div>
+                        </div>
+                        <ul class="list-group list-group-flush">
+                            <li class="list-group-item">
+                                <h6>30 EC</h6>
+                            </li>
+                            <li class="list-group-item">
+                                <p>&bull; Programmeerervaring vereist</p>
+                                <p>&bull; Goed bekend met statistiek</p>
+                                <p>&bull; Fulltime</p>
+                                <p>&bull; Semester 1</p>
+                                <p>&bull; Nederlandstalig</p>
+                            </li>
+                        </ul>
+                        <div class="card-footer border-0">
+                            <a class="card-link" href="https://studiegids.uva.nl/xmlpages/page/2022-2023/zoek-minor/opleiding/7158">Studiegids</a>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
         </div>
     </div>
-    <div class="text-center" class="m-3">
-        <a href="{{ site.baseurl }}/keuzehulp/" class="d-block py-4 p-md-5 w-100 h-100">
-        Wil je vergelijken met meer minoren uit het vakgebied van de informatica? 
-        Ga naar de keuzehulp&nbsp;&rarr;
-        </a>
-    </div>
-</div>
 </div>

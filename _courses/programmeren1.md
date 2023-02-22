@@ -4,14 +4,10 @@ curriculum: Minor Programmeren
 order: 1
 keuzevak: true
 niveau: eerstejaars
-periode: Parttime, 20 uur per week
+periode: 20 uur per week
 fulltime: september
 parttime: september-oktober
 info:
-    -
-        speed: fulltime
-        code: 50621FUP6Y
-        studiegids: https://studiegids.uva.nl/xmlpages/page/2020-2021/zoek-vak/vak/79749
     -
         speed: parttime
         code: 50621PRP6Y
