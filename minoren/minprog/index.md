@@ -259,7 +259,7 @@ title: Minor Programmeren
             </li>
             <li>
                 <p style="font-size:1.2rem;">
-                    Na inschrijving ontvang je in januari meer (praktische) informatie over de start van de
+                    Na inschrijving ontvang je in juni meer (praktische) informatie over de start van de
                     minor en de eerste vakken. Dit geldt ook voor de roosters, die niet eerder
                     bekend gemaakt kunnen worden. Voor fulltime geldt sowieso: elke dag aanwezig.
                 </p>
