@@ -275,3 +275,4 @@ title: Minor Programmeren
         Heb je nog vragen? Stuur een e-mail naar <a href="mailto:help@mprog.nl">help@mprog.nl</a>. E&eacute;n van de docenten of assistenten zal je te woord staan.
     </p>
 </div>
+
