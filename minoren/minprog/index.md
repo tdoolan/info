@@ -160,7 +160,7 @@ title: Minor Programmeren
     </p>
     <h3 class="mt-4 mb-3">Toelatingseisen</h3>
     <p class="display-6">
-        De minor Programmeren is toegankelijk voor studenten uit het derde jaar of hoger van universiteit en hbo (we checken het aantal EC dat je gehaald hebt; mocht je studiepunten missen, mail dan even voor overleg). Studenten uit het vakgebied van de ICT kunnen niet meedoen met deze minor.
+        De minor Programmeren is toegankelijk voor studenten van universiteit en hbo; mocht je nog geen derdejaars-student zijn bij de start van de minor, mail dan even voor overleg. Studenten uit het vakgebied van de ICT (met veel programmeren in het curriculum) kunnen niet meedoen met deze minor.
     </p>
     <h3 class="mt-4 mb-3">Beschikbare plekken</h3>
     <p class="display-6">
@@ -226,7 +226,7 @@ title: Minor Programmeren
             <li>
                 <p style="font-size:1.2rem;">
                     Tot slot kun je je definitief inschrijven voor de minorvakken.
-                    Dit kan tijdens de normale vakinschrijving van de UvA <strong>vanaf juni</strong>.
+                    Dit kan tijdens de normale vakinschrijving van de UvA <strong>tussen 19 juni en 26 juni 13:00</strong>.
                 </p>
                 <p style="font-size:1.2rem;">
                     Gebruik de volgende links om de vakken toe te voegen aan de vakinschrijving. Dit werkt ook pas goed vanaf de genoemde datum.
