@@ -226,7 +226,7 @@ title: Minor Programmeren
             <li>
                 <p style="font-size:1.2rem;">
                     Tot slot kun je je definitief inschrijven voor de minorvakken.
-                    Dit kan tijdens de normale vakinschrijving van de UvA <strong>tussen 19 juni en 26 juni 13:00</strong>.
+                    Dit kan tijdens de normale vakinschrijving van de UvA <strong>tussen 19 juni en 26 juni 13:00</strong>. Ook na deze periode kun je je nog inschrijven, tot de start van het vak.
                 </p>
                 <p style="font-size:1.2rem;">
                     Gebruik de volgende links om de vakken toe te voegen aan de vakinschrijving. Dit werkt ook pas goed vanaf de genoemde datum.
