@@ -9,7 +9,7 @@ info:
         workload: 80 hours
         price: TBD
         studiegids: https://studiegids.uva.nl/xmlpages/page/2020-2021/zoek-vak/vak/80138
-online: https://sp2.proglab.nl/
+online: https://sp.proglab.nl/
 sources: https://github.com/spcourse/sp2
 ---
 
