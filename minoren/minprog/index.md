@@ -185,7 +185,13 @@ title: Minor Programmeren
 
     <h3 class="mt-4 mb-3">Jaarindeling en startdata 2023&mdash;2024</h3>
     <p class="display-6">
-        Het eerste semester loopt van 4 september t/m 2 februari, en het tweede semester loopt van 5 februari t/m 28 juni. Als je een complete minor doet, dan duurt deze altijd van de eerste tot en met de laatste dag van het semester. Let op dat in het eerste semester <u>geen</u> herfstvakantie is ingeroosterd, zoals bij sommige andere opleidingen.
+        Het eerste semester loopt van 4 september t/m 2 februari, en het tweede semester loopt van 5 februari t/m 28 juni.
+        <ul>
+            <li>Als je een complete minor doet, dan duurt deze altijd van de eerste tot en met de laatste dag van het semester.</li>
+            <li>Let op dat in het eerste semester <u>geen</u> herfstvakantie is ingeroosterd, zoals bij sommige andere opleidingen.</li>
+            <li>In het tweede semester is de meivakantie van 27 april t/m 4 mei. Alle andere weken zijn lesweken.</li>
+            <li>Vraag vooraf advies als je om bijzondere redenen afwezig gaat zijn. We kunnen dan een schatting maken of dit werkbaar is en hoeveel punten je gaat missen.</li>
+        </ul>
     </p>
 </div>
 
@@ -216,17 +222,17 @@ title: Minor Programmeren
             </li>
             <li>
                 <p class="mb-5" style="font-size:1.2rem;">
-                    Ben je nog helemaal geen student bij een opleiding in het hoger onderwijs dan kun je contractstudent worden. Dit kost
+                    Ben je nog helemaal geen student bij een opleiding in het hoger onderwijs dan kun je contractstudent worden. Dit kost vaak
                     1200 euro per vak van 6 studiepunten. Wil je dit doen, dan kun je een 
                     <a href="mailto:help@mprog.nl">mail sturen</a> en we helpen je verder.
                     Wie al een bachelor volgt in het hoger onderwijs betaalt echter niets
-                    extra voor een bijvakinschrijving.
+                    extra voor een bijvakinschrijving zoals genoemd bij het vorige punt.
                 </p>
             </li>
             <li>
                 <p style="font-size:1.2rem;">
                     Tot slot kun je je definitief inschrijven voor de minorvakken.
-                    Dit kan tijdens de normale vakinschrijving van de UvA <strong>tussen 19 juni en 26 juni 13:00</strong>. Ook na deze periode kun je je nog inschrijven, tot de start van het vak.
+                    Dit kan tijdens de normale vakinschrijving van de UvA <strong>tussen 4 december en 11 december 13:00</strong>. Ook na deze periode kun je je nog inschrijven, tot de start van het vak.
                 </p>
                 <p style="font-size:1.2rem;">
                     Gebruik de volgende links om de vakken toe te voegen aan de vakinschrijving. Dit werkt ook pas goed vanaf de genoemde datum.
@@ -247,11 +253,6 @@ title: Minor Programmeren
                             Aanmelden Algoritmen en Heuristieken
                         </a></li>
                     </ul>
-                    <!--
-                    Je doet 
-                    dit via
-                    <a href="http://glass.uva.nl/">GLASS</a>. Let op dat in het zoekscherm studiejaar 2022-2023 staat en gebruik de vakcodes hierboven om te registreren. Vergeet ook niet om je inschrijving niet alleen toe te voegen aan de "Planner" maar daarna ook voor alle vakken semester 1 te kiezen en nog een keer de knop "Aanmelden" te kiezen. Pas als de vakken in je Overzicht Aanmeldingen staan is het gelukt. Inschrijven voor semester 2 
-                     kan pas vanaf eind november.-->
                 </p>
                 <p class="mb-5">
                     <a class="btn btn-outline-dark btn-lg" href="https://glass.uva.nl/" target="_blank">Ga naar GLASS om je inschrijvingen te beheren</a>
@@ -259,7 +260,7 @@ title: Minor Programmeren
             </li>
             <li>
                 <p style="font-size:1.2rem;">
-                    Na inschrijving ontvang je in juni meer (praktische) informatie over de start van de
+                    Na inschrijving ontvang je begin januari meer (praktische) informatie over de start van de
                     minor en de eerste vakken. Dit geldt ook voor de roosters, die niet eerder
                     bekend gemaakt kunnen worden. Voor fulltime geldt sowieso: elke dag aanwezig.
                 </p>
