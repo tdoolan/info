@@ -2,3 +2,5 @@ title: UvA Programming Lab
 markdown: kramdown
 collections:
     - courses
+plugins:
+    - jekyll-redirect-from

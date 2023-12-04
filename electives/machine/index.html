@@ -1,0 +1,198 @@
+---
+title: Electives Machine Learning
+layout: machine
+---
+
+<div class="position-relative text-center d-flex flex-column justify-content-center py-5">
+    <div>
+        <h1 class="display-4 d-inline" style="font-size:5.5rem;">Machine Learning</h1>
+        <h1 class="mt-3" style="font-size:1.5rem;">
+            <small>Understand and apply machine learning techniques in Python</small>
+        </h1>
+    </div>
+</div>
+
+<div class="mb-4 panel-padded panel-content-75 v-center bg-warning px-3">
+    <h2>
+        What are these courses about?
+    </h2>
+    <p class="display-6">
+
+        Our core courses are Introduction to <strong>Machine Learning 1 and 2</strong>. These
+        courses are intended to provide a comprehensive introduction to the current field of
+        machine learning. Both courses are built around programming and experimentation as the
+        primary means of understanding machine learning algorithms. You will progress from
+        implementing basic learning algorithms to creating more advanced neural networks. In
+        addition, you will dive into the math behind these algorithms, and we will discuss the
+        societal impact of applying such methods in practice.
+
+    </p>
+    
+    <p class="display-6">
+
+        To complement the Machine Learning courses, you will need to at least take
+        <strong>Scientific Programming 2</strong> as well. This course covers some more advanced
+        Python topics that are not part of most introductory Python courses, like: designing larger
+        programs, writing more efficient code, using the Numpy and Pandas libraries to write
+        vectorized code, and designing your own classes. If your do not yet have a good grasp of
+        writing Python code from scratch, you should take more of our programming courses, as
+        described below.
+
+    </p>
+    
+    <h3 class="mt-3 mb-3">
+        How we teach
+    </h3>
+    <p class="display-6">
+
+        The machine learning courses consist of programming notebooks, theory videos, and written
+        assignments. Programming notebooks will be the main component of each module, where you'll
+        build and experiment with the ML algorithm covered that week. The office hours for the
+        courses mainly consist of laptop practicals in our lab, where you can come and ask any
+        questions you have about the theory or specifics of the programming assignments. Machine
+        Learning 1 and 2 conclude with a written final exam. Programming
+        courses generally have code-writing exams.
+
+    </p>
+
+    <h3 class="mt-3 mb-3">
+        Prerequisites
+    </h3>
+    <p class="display-6">
+
+        These courses are primarily aimed at students who have already taken Python programming
+        courses, as well as good introductions to Calculus, Linear Algebra, and Statistics. Note
+        that none of these courses are hard entry requirements, but you should expect to spend more
+        time if you still need to study some of these topics on your own. For the maths topics we
+        provide self-study modules, and there are several programming courses that you can take in
+        parallel, as listed below.
+
+    </p>
+    
+    <p class="display-6">
+        
+        If you intend to follow ML1 and ML2 without prior Python programming experience, or you
+        still feel a bit uncomfortable programming, we would recommend that you register for the <a
+        href="/programs/minai">minor AI</a> instead. The minor will cover most of the same material
+        as our electives, but we can offer more support and supervision for students learning both
+        programming and machine learning at the same time. However, it does require full-time
+        attendance and it's Dutch-only.
+
+    </p>
+    
+    <h3 class="mt-3 mb-3">
+        What it is not
+    </h3>
+    <p class="display-6">
+    
+        The elective courses below do not add up to 30EC, and cannot be considered an official
+        minor program. But you may be able to combine them with other courses as electives in your
+        bachelor. Ask your 
+        study adviser to help you get permission to put them on your diploma.
+        Also realise that our courses cannot be used as part of the entry requirement 
+        to the Master AI at the UvA. See the
+        <a href="https://www.uva.nl/shared-content/programmas/en/masters/artificial-intelligence/application-and-admission/dutch-prior-education/dutch-prior-education-foldout-menu.html#2-Check-entry-requirements">
+        entry requirements
+        </a>
+        for more details. 
+
+</div>
+
+<div class="panel-padded">
+    
+    <h1 class="display-3 text-center mb-4">Courses</h1>
+    <p class="mb-5 display-6 w-50-centered">
+        Below are the courses offered as Machine Learning electives. In most circumstances 
+        you will not need permission from your own program to take any of these courses; however, if
+        you would like to use the courses for your diploma, please contact your own program's
+        study adviser to plan ahead.
+    </p>
+    
+    <div class="row row-cols-1 row-cols-md-2">
+        {% assign courses = site.courses | where: 'curriculum', 'MLE' %}
+        {% for course in courses %}
+        <div class="col mb-4">
+            <div class="card mb-3 bg-light border-0 h-100" style="min-height:20vw;">
+                <div class="card-body flex-fill">
+                    <h4 class="card-title">{{ course.name }} ({{ course.credits }})</h4>
+                    <p class="text-muted small">
+                        Workload: {{ course.info[0].workload }} total makes {{ course.info[0].workload | floor | divided_by: 8 }} per week /
+                        Course code: {{ course.info[0].code }}
+                    </p>
+                    <p class="card-text">{{ course.content | markdownify }}</p>
+                    <p class="text-muted small">
+                    </p>
+                </div>
+                <div class="card-footer border-0">
+                    <a href="{{ course.info[0].studiegids }}" class="card-link">
+                        Course info &rarr;
+                    </a>
+                </div>
+            </div>
+        </div>  
+        {% endfor %}
+    </div>
+
+</div>
+
+<div class="min-vh-75 v-center text-center bg-warning py-5">
+    <div class="px-4">
+        <h1 class="display-3 text-center mb-4">Registration</h1>
+        <p class="w-50 mx-auto mb-5" style="font-size:1.2rem;">
+            You can earn a certificate or course credit by 
+            registering for one or more of the courses. Make note of the entry requirements
+            for each course and feel free to e-mail us for advice on compiling a good course package.
+        </p>
+        <p class="w-50 mx-auto mb-5" style="font-size:1.2rem;">
+            After considering your options below, before continuing, fill in the
+            <a href="https://forms.office.com/e/vNML6e36mK">registration form</a>.
+        </p>
+        <ul class="w-50 mx-auto text-left">
+            <li>
+                Are you a regular UvA bachelor's or master's student? You can self-register through 
+                <a href="http://glass.uva.nl">GLASS</a>.
+                You can do this even after courses start. Make sure to register for the 
+                right semester! Registration for the next semester starts during the 
+                usual course registration periods.
+            </li>
+            <li>
+                Are you a UvA employee, including PhD students? In many cases the university 
+                will pay for your course registration. Do keep in mind the workload. If you'd
+                like to register, or if you have questions, please
+                <a href="mailto:scientific@proglab.nl">send an e-mail</a> so we can help you out!
+            </li>
+            <li>
+                Are you a Dutch student registered for a bachelor's programme at a Dutch
+                university and do you have a regular vwo diploma? You can register as an
+                 <a href="https://www.uva.nl/en/education/other-programmes/electives/electives.html">"electives"</a>
+                student at the UvA (choose Informatiekunde as your bachelor),
+                and when that's completely done, register for courses through
+                 <a href="http://glass.uva.nl">GLASS</a>.
+            </li>
+            <li>
+                Are you a student at a Dutch master's programme? In that case you
+                cannot register as an "electives" student because these
+                are bachelor's
+                level courses. You might consider registering by paying course fees directly, 
+                so check the next option for that.
+            </li>
+            <li>
+                If there's no option for you to register as a regular student, 
+                you may consider to do our courses by paying course fees directly.
+                If you'd like to do that, or if you have questions, please
+                <a href="mailto:scientific@proglab.nl">send an e-mail</a> so we can help you out!
+            </li>
+        </ul>
+        <p class="w-50 mx-auto mt-5" style="font-size:1.2rem;">
+            Always take the course workload and the course periods into account when registering! 
+            When starting a course you must finish during the same semester to get credit.
+        </p>
+    </div>
+</div>
+
+<div class="panel-bg panel-padded panel-content-50">
+    <h1 class="display-4">Questions</h1>
+    <p class="display-6">
+        Have questions? Send us an e-mail at <a href="mailto:help@proglab.nl">help@proglab.nl</a>. One of the teachers or assistants will help you out.
+    </p>
+</div>

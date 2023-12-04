@@ -1,6 +1,8 @@
 ---
 layout: minprog
 title: Minor Programmeren
+redirect_from:
+  - /minoren/minprog/
 ---
 
 <div class="rounded-lg border-0 d-none d-md-block"
@@ -97,8 +99,12 @@ title: Minor Programmeren
     
     <h2 class="display-3 markesred px-4 mb-5 pt-3 pb-0">Vakken</h2>
     
-    <p class="display-6 w-50 mx-auto">Dit zijn de vakken die je volgt tijdens de Minor Programmeren. Elk vak is 6 studiepunten, dus kost je ongeveer 160 uur aan gefocust studeren.
-        De meeste studenten vinden onze vakken zwaarder dan die van hun eigen opleiding (maar ook leuker!).</p>
+    <p class="display-6 w-50 mx-auto">
+        Dit zijn de vakken die je volgt tijdens de Minor Programmeren.
+        Doe je de hele minor in één semester, dan ben je 5 maanden lang zo'n 40 
+        uur per week bezig met onze vakken. De meeste studenten ontdekken in die
+        tijd dat ze hier erg veel motivatie voor kunnen vinden!
+    </p>
 
     <div class="w-75-centered mt-5 text-left ">
         <div class="row row-cols-1 row-cols-md-2">
@@ -186,13 +192,14 @@ title: Minor Programmeren
     <h3 class="mt-4 mb-3">Jaarindeling en startdata 2023&mdash;2024</h3>
     <p class="display-6">
         Het eerste semester loopt van 4 september t/m 2 februari, en het tweede semester loopt van 5 februari t/m 28 juni.
-        <ul>
+    </p>
+
+        <ul class="text-left">
             <li>Als je een complete minor doet, dan duurt deze altijd van de eerste tot en met de laatste dag van het semester.</li>
             <li>Let op dat in het eerste semester <u>geen</u> herfstvakantie is ingeroosterd, zoals bij sommige andere opleidingen.</li>
             <li>In het tweede semester is de meivakantie van 27 april t/m 4 mei. Alle andere weken zijn lesweken.</li>
             <li>Vraag vooraf advies als je om bijzondere redenen afwezig gaat zijn. We kunnen dan een schatting maken of dit werkbaar is en hoeveel punten je gaat missen.</li>
         </ul>
-    </p>
 </div>
 
 

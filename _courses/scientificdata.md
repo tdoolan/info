@@ -1,6 +1,10 @@
 ---
 name: Data Processing
-curriculum: scientific
+credits: 6EC
+curriculum:
+    - scientific
+    - MLE
+keuzevak: true
 info:
     -
         speed: parttime

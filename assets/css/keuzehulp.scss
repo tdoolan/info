@@ -4,6 +4,16 @@
 .keuzehulp  {
 
     color: grey;
+    
+    .minor-title
+    {
+        padding-top: 1rem;
+        
+        h5
+        {
+            font-size: 1.25rem;
+        }
+    }
 
     .card img {
         padding: 10px 4px 4px 4px;
@@ -17,7 +27,7 @@
         opacity: 1;
         transition: all 0.5s;
         border: none;
-        box-shadow: 0 1rem 2rem rgba(0,0,0,.175);
+        box-shadow: 0 0rem 2rem rgba(0,0,0,.175);
         
         font-size: 0.75rem;
 
@@ -256,5 +266,20 @@
             height: auto;
         }
 
+    }
+}
+
+.panel-bg .keuzehulp
+{
+    color: black;
+    
+    .card-link:after
+    {
+        content: "";
+    }
+    
+    .list-group-item
+    {
+        background-color: transparent;
     }
 }

@@ -1,0 +1,90 @@
+---
+title: Keuzevakken
+layout: page
+redirect_from:
+  - /keuzevakken
+---
+
+<div class="">
+    <div class="py-4 py-md-5">
+        <h1 class="display-3 mb-5" style="line-height:0.8">Keuzevakken / Electives</h1>
+        <p class="display-6 w-75">
+            We offer many of our courses as electives. You might be interested to take
+            these if you've already done some programming courses and are looking to deepen
+            your skills. Do make note of entry requirements listed in the course catalogue.
+            Course registration is done via GLASS.
+        </p>
+        <p class="display-6 w-75">
+            Sommige van onze vakken kun je doen buiten een minor om. Bijvoorbeeld als je al
+            enkele programmeervakken hebt gevolgd en verdieping zoekt. Let wel op de ingangseisen
+            in de studiegids. Inschrijven doe je via GLASS.
+        </p>
+    </div>
+</div>
+
+<div class="row row-cols-1 row-cols-md-3">
+
+    <div class="col mb-4">
+        <div class="card mb-3 bg-warning border-0 h-100" style="min-height:30vw;">
+            <div class="card-body">
+                <h4 class="card-title">
+                    Electives package:<br>
+                    Scientific Programming<br>
+                    <small>(3-12ec)</small>
+                </h4>
+                <p class="card-text">
+                    Would you like to learn to program in order to support your thesis project?
+                    Are you thinking to do data analysis, visualisation or other computational
+                    techniques during your master's? Take our Scientific Programming courses
+                    to learn to do Scientific Programming in Python.
+                </p>
+            </div>
+            <div class="card-footer border-0">
+                    <a href="{{ site.baseurl }}/electives/scientific/" class="card-link stretched-link">More information &rarr;</a>
+            </div>
+        </div>
+    </div>
+
+    <div class="col mb-4">
+        <div class="card mb-3 bg-warning border-0 h-100" style="min-height:30vw;">
+            <div class="card-body">
+                <h4 class="card-title">
+                    Electives package:<br>
+                    Machine Learning<br>
+                    <small>(15-24ec)</small>
+                </h4>
+                <p class="card-text">
+                    Did you take a couple of Python programming courses in your bachelor's?
+                    Would you like to extend your programming skills with AI knowledge and
+                    get hands-on experience using ML tools?
+                    Take our Machine Learning courses and apply in your own research or build ....
+                </p>
+            </div>
+            <div class="card-footer border-0">
+                    <a href="{{ site.baseurl }}/electives/machine/" class="card-link stretched-link">More information &rarr;</a>
+            </div>
+        </div>
+    </div>
+
+    {% for course in site.courses %}
+    {% if course.keuzevak %}
+    <div class="col mb-4">
+        <div class="card mb-3 bg-light border-0 h-100" style="min-height:30vw;">
+            <div class="card-body">
+                <h4 class="card-title">{{ course.name }}</h4>
+                {% if course.doelgroep or course.taal %}
+                <p class="text-muted">{{ course.doelgroep }} ({{ course.taal }})</p>
+                {% endif %}
+                <p class="card-text">{{ course.content | markdownify }}</p>
+                {% if course.periode %}
+                <p><small class="text-muted">{{ course.periode }}</small></p>
+                {% endif %}
+            </div>
+            <div class="card-footer border-0">
+                <a href="{{ course.info[0].studiegids }}" class="card-link stretched-link">Course catalogue &rarr;</a>
+            </div>
+        </div>
+    </div>
+    {% endif %}
+    {% endfor %}
+</div>
