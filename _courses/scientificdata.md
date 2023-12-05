@@ -11,7 +11,7 @@ info:
         code: 5062DAPR6Y
         workload: 160 hours
         price: TBD
-        studiegids: https://studiegids.uva.nl/xmlpages/page/2020-2021/zoek-vak/vak/79534
+        studiegids: https://studiegids.uva.nl/xmlpages/page/2023-2024/zoek-vak/vak/109510
 online: https://sp.proglab.nl/
 sources: https://github.com/spcourse/data
 ---

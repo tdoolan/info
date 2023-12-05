@@ -12,8 +12,8 @@ info:
     -
         speed: parttime
         workload: 160 hours
-        code: 50621SCP3Y
-        studiegids: https://studiegids.uva.nl/xmlpages/page/2022-2023/zoek-vak/vak/99708
+        code: 50822ITM6Y
+        studiegids: https://studiegids.uva.nl/xmlpages/page/2023-2024/zoek-vak/vak/110086
 nl: >
     In dit vak gaan we verder met het behandelen van modellen en algoritmen uit machine learning.
     Waar in Introduction to Machine Learning 1 de focus lag op het zelf programmeren van basale

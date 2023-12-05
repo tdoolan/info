@@ -12,8 +12,8 @@ info:
     -
         speed: parttime
         workload: 160 hours
-        code: 50621SCP3Y
-        studiegids: https://studiegids.uva.nl/xmlpages/page/2022-2023/zoek-vak/vak/99707
+        code: 50821ITM6Y
+        studiegids: https://studiegids.uva.nl/xmlpages/page/2023-2024/zoek-vak/vak/110085
 nl: >
     In dit vak zal je bekend raken met kunstmatige intelligentie en machine learning. Gedurende dit
     vak zullen we een aantal fundamentele machine learning algoritmen behandelen en deze vervolgens

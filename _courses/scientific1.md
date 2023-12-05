@@ -12,7 +12,7 @@ info:
         code: 50621SCP3Y
         workload: 80 hours
         price: TBD
-        studiegids: https://studiegids.uva.nl/xmlpages/page/2020-2021/zoek-vak/vak/80137
+        studiegids: https://studiegids.uva.nl/xmlpages/page/2023-2024/zoek-vak/vak/109960
 online: https://sp.proglab.nl/
 sources: https://github.com/spcourse/sp1
 ---
