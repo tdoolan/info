@@ -231,7 +231,7 @@ redirect_from:
                 <p class="mb-5" style="font-size:1.2rem;">
                     Ben je nog helemaal geen student bij een opleiding in het hoger onderwijs dan kun je contractstudent worden. Dit kost vaak
                     1200 euro per vak van 6 studiepunten. Wil je dit doen, dan kun je een 
-                    <a href="mailto:help@mprog.nl">mail sturen</a> en we helpen je verder.
+                    <a href="mailto:help@proglab.nl">mail sturen</a> en we helpen je verder.
                     Wie al een bachelor volgt in het hoger onderwijs betaalt echter niets
                     extra voor een bijvakinschrijving zoals genoemd bij het vorige punt.
                 </p>
@@ -280,7 +280,7 @@ redirect_from:
 <div class="panel-bg panel-padded panel-content-50">
     <h2 class="display-4">Vragen</h2>
     <p class="display-6">
-        Heb je nog vragen? Stuur een e-mail naar <a href="mailto:help@mprog.nl">help@mprog.nl</a>. E&eacute;n van de docenten of assistenten zal je te woord staan.
+        Heb je nog vragen? Stuur een e-mail naar <a href="mailto:help@proglab.nl">help@proglab.nl</a>. E&eacute;n van de docenten of assistenten zal je te woord staan.
     </p>
 </div>
 
