@@ -3,7 +3,6 @@ name: Data Processing
 credits: 6EC
 curriculum:
     - scientific
-    - MLE
 keuzevak: true
 info:
     -

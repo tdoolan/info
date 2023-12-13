@@ -42,7 +42,7 @@
             padding-bottom: 10px;
         }
         
-        .card-link:after
+        .card-link:not(.stretched-link):after
         {
             content:" \2192";
         }

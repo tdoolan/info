@@ -3,7 +3,6 @@ name: Scientific Programming 1
 credits: 3EC
 curriculum:
     - scientific
-    - MLE
 keuzevak: true
 image: sp1.png
 info:
