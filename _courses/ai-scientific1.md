@@ -15,4 +15,4 @@ online: https://sp.proglab.nl/
 sources: https://github.com/spcourse/sp1
 ---
 
-This course is a basic introduction to Python. Assuming you have prior Python experience, this course will not cover new material. On the other hand, if you intend to follow ML1 and ML2 without prior programming experience, we would recommend you register for the minor AI instead (Dutch only). This minor will cover most of the same material, but offer more support and supervision for students learning both programming and machine learning at the same time.
+This course is a basic introduction to Python. Assuming you have prior Python experience, this course will not cover new material. If you intend to follow ML1 and ML2 without prior programming experience, we would recommend you register for the minor AI instead (Dutch only), which offers both programming and machine learning simultaneously. Students without prior programming experience following an elective track can also register for SP1 and SP2 separately, and then register for the ML electives the semester after. See the SP electives for more details.

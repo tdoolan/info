@@ -24,4 +24,4 @@ nl: >
 
 ---
 
-In this course you will become familiar with the fundamentals of artificial intelligence and machine learning. We will cover a number of basic machine learning algorithms, and you will implement these yourself using Python. This is a broad introductory course, which means that we will also discuss the mathematics, mainly calculus and statistics, that is the driving force behind these algorithms. We will also discuss the philosophical and social consequences of learning systems.
+In this course you will become familiar with the fundamentals of artificial intelligence and machine learning. We will cover a number of basic machine learning algorithms, and you will implement these yourself using Python. This is a broad introductory course, which means that we will also discuss the mathematics, mainly calculus and statistics, that are the driving force behind these algorithms. We will also discuss the philosophical and societal consequences of applying these learning systems.
