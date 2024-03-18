@@ -189,15 +189,15 @@ redirect_from:
          kapotte laptop), neem dan contact met ons op en leg gerust je situatie uit. We helpen je dan verder.
     </p>
 
-    <h3 class="mt-4 mb-3">Jaarindeling en startdata 2023&mdash;2024</h3>
+    <h3 class="mt-4 mb-3">Jaarindeling en startdata 2024&mdash;2025</h3>
     <p class="display-6">
-        Het eerste semester loopt van 4 september t/m 2 februari, en het tweede semester loopt van 5 februari t/m 28 juni.
+        Het eerste semester loopt van 2 september t/m 31 januari, en het tweede semester loopt van 3 februari t/m vrijdag 27 juni.
     </p>
 
         <ul class="text-left">
             <li>Als je een complete minor doet, dan duurt deze altijd van de eerste tot en met de laatste dag van het semester.</li>
             <li>Let op dat in het eerste semester <u>geen</u> herfstvakantie is ingeroosterd, zoals bij sommige andere opleidingen.</li>
-            <li>In het tweede semester is de meivakantie van 27 april t/m 4 mei. Alle andere weken zijn lesweken.</li>
+            <li>In het tweede semester is de meivakantie van 26 april t/m 4 mei. Alle andere weken zijn lesweken.</li>
             <li>Vraag vooraf advies als je om bijzondere redenen afwezig gaat zijn. We kunnen dan een schatting maken of dit werkbaar is en hoeveel punten je gaat missen.</li>
         </ul>
 </div>
@@ -209,8 +209,11 @@ redirect_from:
         <ol class="w-50 mx-auto text-left">
             <li>
                 <p class="" style="font-size:1.2rem;">
-                    Om je aan te melden voor de Minor Programmeren in studiejaar <b>2023-2024</b> vul je eerst een vrijblijvende vooraanmelding in. Voor deze minor is er geen selectie
-                    dus je krijgt geen reactie. Je mag er in normale omstandigheden van uit gaan 
+                    Om je aan te melden voor de Minor Programmeren in
+                    studiejaar <b>2024-2025</b> vul je eerst een vrijblijvende
+                    vooraanmelding in. In verband met beperkte plekken voor het
+                    volledige programma kan er selectie plaatsvinden. Je mag er
+                    in normale omstandigheden van uit gaan
                     dat je direct geplaatst bent.
                 </p>
                 <p class="mb-5">
@@ -239,7 +242,7 @@ redirect_from:
             <li>
                 <p style="font-size:1.2rem;">
                     Tot slot kun je je definitief inschrijven voor de minorvakken.
-                    Dit kan tijdens de normale vakinschrijving van de UvA <strong>tussen 4 december en 11 december 13:00</strong>. Ook na deze periode kun je je nog inschrijven, tot de start van het vak.
+                    Dit kan tijdens de normale vakinschrijving van de UvA <strong>tussen XX mei en XX juni 13:00</strong>. Ook na deze periode kun je je nog inschrijven, tot de start van het vak.
                 </p>
                 <p style="font-size:1.2rem;">
                     Gebruik de volgende links om de vakken toe te voegen aan de vakinschrijving. Dit werkt ook pas goed vanaf de genoemde datum.
