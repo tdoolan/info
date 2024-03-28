@@ -219,7 +219,7 @@ redirect_from:
                     dat je direct geplaatst bent.
                 </p>
                 <p class="mb-5">
-                    <a class="btn btn-outline-dark btn-lg" href="https://forms.office.com/Pages/ResponsePage.aspx?id=zcrxoIxhA0S5RXb7PWh05StZDK23dCxCgrv7HMsauLFUQlFXMkhDRUdFNlpSMTdLS1VSMFlYSVU1Ny4u" target="_blank">Start vooraanmelding</a>
+                    <a class="btn btn-outline-dark btn-lg" href="https://forms.office.com/e/C5TUutVGMW" target="_blank">Start vooraanmelding</a>
                 </p>
             </li>
             <li>
