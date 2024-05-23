@@ -13,7 +13,7 @@ redirect_from:
     <!-- <div class="d-none d-md-block col-md">
     </div> -->
         
-        <div class="position-absolute bg-white p-3" style="bottom:1rem; right:1rem;">Kom naar de <a href="/fair">informatiemarkt</a> op 15 mei!</div>
+        <div class="position-absolute bg-white p-3" style="bottom:1rem; right:1rem;">Kom naar de <a href="/fair">informatiemarkt</a> op 23 mei!</div>
 </div>
 
 <div class="row mt-md-3 my-md-5 row-cols-1 row-cols-md-2" style="">
