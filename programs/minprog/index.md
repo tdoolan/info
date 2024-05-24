@@ -5,15 +5,10 @@ redirect_from:
   - /minoren/minprog/
 ---
 
-<div class="rounded-lg border-0 d-none d-md-block position-relative" 
-        style="smin-height:calc(100vh - 112px - 3rem);">
-    <!-- <div class="cosl-md text-center"> -->
-        <img class="img-fluid roundeds-lg" style="stransform: translateX(50px) perspective(500px) rotateY(5deg);" src="{{ site.baseurl }}/assets/minprog/coding.jpeg">
-    <!-- </div> -->
-    <!-- <div class="d-none d-md-block col-md">
-    </div> -->
-        
-        <div class="position-absolute bg-white p-3" style="bottom:1rem; right:1rem;">Kom naar de <a href="/fair">informatiemarkt</a> op 23 mei!</div>
+<div class="rounded-lg border-0 d-none d-md-block position-relative">
+    <img class="img-fluid"
+         src="{{ site.baseurl }}/assets/minprog/coding.jpeg">
+    <!-- <div class="position-absolute bg-white p-3" style="bottom:1rem; right:1rem;">Kom naar de <a href="/fair">informatiemarkt</a> op 23 mei!</div> -->
 </div>
 
 <div class="row mt-md-3 my-md-5 row-cols-1 row-cols-md-2" style="">
