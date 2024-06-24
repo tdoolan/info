@@ -1,8 +1,8 @@
 ---
-name: Inleiding Machine Learning 1
+name: Introduction to Machine Learning 1
 credits: 6EC
 curriculum:
-    - Minor KI
+    - MLE
 keuzevak: true
 order: 2
 image: sp1.png
@@ -12,7 +12,7 @@ info:
         speed: parttime
         workload: 160 hours
         code: 50821ITM6Y
-        studiegids: https://studiegids.uva.nl/xmlpages/page/2024-2025/zoek-vak/vak/119613
+        studiegids: https://studiegids.uva.nl/xmlpages/page/2024-2025-en/search-course/course/120098
 nl: >
     In dit vak zal je bekend raken met kunstmatige intelligentie en machine learning. Gedurende dit
     vak zullen we een aantal fundamentele machine learning algoritmen behandelen en deze vervolgens
