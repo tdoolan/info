@@ -224,7 +224,7 @@ redirect_from:
                     de UvA. Je kiest voor de aanmelding de opleiding <strong>Informatiekunde (bijvak/electives)</strong>.
                 </p>
                 <p class="mb-5">
-                    <a class="btn btn-outline-dark btn-lg" href="https://www.uva.nl/onderwijs/bachelor/minors/minors.html" target="_blank">Schrijf je in als bijvakker</a>
+                    <a class="btn btn-outline-dark btn-lg" href="https://www.uva.nl/onderwijs/overig-onderwijs/bijvakken/bijvakken.html" target="_blank">Schrijf je in als bijvakker</a>
                 </p>
             </li>
             <li>
