@@ -239,7 +239,7 @@ redirect_from:
             <li>
                 <p style="font-size:1.2rem;">
                     Tot slot kun je je definitief inschrijven voor de minorvakken.
-                    Dit kan tijdens de normale vakinschrijving van de UvA <strong>vanaf 10 juni tot 17 juni 13:00</strong>. Ook na deze periode kun je je nog inschrijven, tot de start van het vak.
+                    Dit kan tijdens de normale vakinschrijving van de UvA <strong>vanaf 2 tot 9 december 13:00</strong>. Ook na deze periode kun je je nog inschrijven, tot de start van het vak.
                 </p>
                 <p style="font-size:1.2rem;">
                     Gebruik de volgende links om de vakken toe te voegen aan de vakinschrijving. Dit werkt ook pas goed vanaf de genoemde datum.
@@ -267,7 +267,7 @@ redirect_from:
             </li>
             <li>
                 <p style="font-size:1.2rem;">
-                    Na inschrijving ontvang je in juli meer (praktische) informatie over de start van de
+                    Na inschrijving ontvang je in januari meer (praktische) informatie over de start van de
                     minor en de eerste vakken. Dit geldt ook voor de roosters, die niet eerder
                     bekend gemaakt kunnen worden. Voor fulltime geldt sowieso: elke dag aanwezig.
                 </p>
