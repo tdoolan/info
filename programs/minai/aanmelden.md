@@ -134,7 +134,7 @@ title: Aanmelden Minor AI
 <div class="panel-bg panel-padded panel-content-50">
     <h2 class="display-4">Vragen</h2>
     <p class="display-6">
-        Heb je nog vragen? Stuur een e-mail naar <a href="mailto:help@proglab.nl">help@proglab.nl</a>. E&eacute;n van de docenten of assistenten zal je te woord staan.
+        Heb je nog vragen? Stuur een e-mail naar <a href="mailto:ai@proglab.nl">ai@proglab.nl</a>. E&eacute;n van de docenten of assistenten zal je te woord staan.
     </p>
 </div>
 
