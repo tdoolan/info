@@ -46,7 +46,7 @@ title: Aanmelden Minor Programmeren
             <li class="mt-3">
                 <p class="" style="font-size:1.2rem;">
                     Meld je tussen <b>1 april en 13 mei 2025</b> aan voor &eacute;&eacute;n 
-                    of meer minoren via het aanmeldingsformulier. In verband met beperkte plekken voor het volledige programma vindt er selectie plaats op basis van voorkennis (niet al te veel), interesse en toewijding.
+                    of meer minoren via het aanmeldingsformulier. In verband met het beperkte aantal plekken vindt er selectie plaats op basis van voorkennis (niet al te veel), interesse en toewijding.
                 </p>
                 <p class="">
                     <a class="btn btn-outline-dark btn-lg" href="#" target="_blank">Keuzeformulier Minoren (nog niet actief)</a>
