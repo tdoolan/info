@@ -61,7 +61,7 @@ title: Aanmelden Minor Programmeren
                 </p>
                 <p class="">
 
-                    <a class="btn btn-outline-dark btn-lg" href="#" target="_blank"> Aanmelding Minor Programmeren</a>
+                    <a class="btn btn-outline-dark btn-lg" href="https://forms.office.com/e/XhFDqzUj3n" target="_blank"> Aanmelding Minor Programmeren</a>
                 </p>
             </li>
             <li class="mt-3 mb-5">
