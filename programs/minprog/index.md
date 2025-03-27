@@ -223,7 +223,7 @@ redirect_from:
                     enkele dagen een account, ook als je de inschrijving nog niet volledig afrondt. Je kiest voor de aanmelding de opleiding <strong>Informatiekunde (bijvak/electives)</strong>.
                 </p>
                 <p class="">
-                    <a class="btn btn-outline-dark btn-lg" href="https://www.uva.nl/onderwijs/overig-onderwijs/bijvakken/bijvakken.html" target="_blank">Schrijf je in als bijvakker</a>
+                    <a class="btn btn-outline-dark btn-lg" href="https://www.studielink.nl/" target="_blank">Schrijf je in via Studielink</a>
                 </p>
             </li>
             <li class="mt-3">
@@ -240,7 +240,7 @@ redirect_from:
             <li class="mt-3">
                 <p class="" style="font-size:1.2rem;">
                     Meld je tussen <b>1 april en 13 mei 2025</b> aan voor &eacute;&eacute;n 
-                    of meer minoren via het aanmeldingsformulier. In verband met beperkte plekken voor het volledige programma vindt er selectie plaats.
+                    of meer minoren via het aanmeldingsformulier. In verband met beperkte plekken voor het volledige programma vindt er selectie plaats op basis van voorkennis (niet al te veel), interesse en toewijding.
                 </p>
                 <p class="">
                     <a class="btn btn-outline-dark btn-lg" href="#" target="_blank">Keuzeformulier Minoren (nog niet actief)</a>
@@ -269,18 +269,18 @@ redirect_from:
             <h3>Later regelen</h3>
             <li class="mt-3">
                 <p style="font-size:1.2rem;">
-                    Na 13 mei krijg je de uitslag van jouw aanmelding voor minoren bij de UvA.
+                    Enige tijd na 13 mei krijg je de uitslag van jouw aanmelding voor minoren bij de UvA.
                     Als je bent geselecteerd voor de Minor Programmeren kun je verder met de 
                     volgende stappen.
                 </p>
             </li>
             <li class="mt-3">
                 <p style="font-size:1.2rem;">
-                    Tot slot kun je je definitief inschrijven voor de minorvakken.
-                    Dit kan tijdens de normale vakinschrijving van de UvA <strong>vanaf 10 tot 16 juni 13:00</strong>. Ook na deze periode kun je je nog inschrijven, tot de start van het vak.
+                    Je kunt je definitief inschrijven voor de minorvakken.
+                    Dit kan tijdens de normale vakinschrijving van de UvA <strong>vanaf 10 tot 16 juni 13:00</strong>. Dit gaat via het systeem GLASS.
                 </p>
-                <p style="font-size:1.2rem;">
-                    Gebruik de volgende links om de vakken toe te voegen aan de vakinschrijving. Dit werkt ook pas goed vanaf de genoemde datum.
+                <!-- <p style="font-size:1.2rem;">
+                    Gebruik de volgende links om de vakken toe te voegen aan de vakinschrijving. Dit werkt ook pas goed vanaf de genoemde datum. -->
                     <!-- <ul style="list-style-type:none; padding-left:0">
                         <li><a class="btn btn-outline-dark btn-lg mb-3" href="https://glass.uva.nl/planning-board/add?id=50621PRP6Y">
                             Aanmelden Programmeren 1
@@ -298,16 +298,26 @@ redirect_from:
                             Aanmelden Algoritmen en Heuristieken
                         </a></li>
                     </ul> -->
-                </p>
-                <p class="mb-5">
+                <!-- </p> -->
+                <p class="">
                     <a class="btn btn-outline-dark btn-lg" href="https://glass.uva.nl/" target="_blank">Ga naar GLASS om je inschrijvingen te beheren</a>
                 </p>
             </li>
-            <li>
+            <li class="mt-3">
                 <p style="font-size:1.2rem;">
                     Na inschrijving ontvang je in januari meer (praktische) informatie over de start van de
                     minor en de eerste vakken. Dit geldt ook voor de roosters, die niet eerder
                     bekend gemaakt kunnen worden. Voor fulltime geldt sowieso: elke dag aanwezig.
+                </p>
+            </li>
+            
+            <h3 class="mt-5">Te laat?</h3>
+            <li class="mt-3">
+                <p style="font-size:1.2rem;">
+                    Als je je niet hebt aangemeld voor de selectie of je bent te laat geweest
+                    met het geven van aanvullende informatie, dan ben je niet automatisch
+                    toegelaten tot de minor. Het kan wel zijn dat er nog plek is. 
+                    Na 13 mei verschijnt hier informatie over eventuele verlate aanmelding.
                 </p>
             </li>
         </ol>
