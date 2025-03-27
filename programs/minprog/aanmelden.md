@@ -1,6 +1,6 @@
 ---
 layout: minprog
-title: Aanmelden Minor AI
+title: Aanmelden Minor Programmeren
 ---
 
 
@@ -8,7 +8,7 @@ title: Aanmelden Minor AI
 
 <div class="rounded-lg py-5 min-vh-75 v-center text-center markered3">
     <div class="px-4">
-        <h2 class="display-2 text-center mb-4 text-lisght">Aanmelden</h2>
+        <h2 class="display-2 text-center mb-4 text-lisght">Aanmelden MinProg</h2>
         <ol class="w-50 mx-auto text-left">
             <h3>Voorbereiding</h3>
             <li class="mt-3">
