@@ -1,5 +1,5 @@
 ---
-layout: minprog
+layout: minai
 title: Aanmelden Minor Programmeren
 ---
 
