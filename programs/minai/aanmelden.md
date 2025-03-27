@@ -111,9 +111,9 @@ title: Aanmelden Minor AI
             </li>
             <li class="mt-3">
                 <p style="font-size:1.2rem;">
-                    Na inschrijving ontvang je in januari meer (praktische) informatie over de start van de
+                    Na inschrijving ontvang je in juni/juni meer (praktische) informatie over de start van de
                     minor en de eerste vakken. Dit geldt ook voor de roosters, die niet eerder
-                    bekend gemaakt kunnen worden. Voor fulltime geldt sowieso: elke dag aanwezig.
+                    bekend gemaakt kunnen worden. Voor fulltime-studenten geldt sowieso: elke dag aanwezig.
                 </p>
             </li>
             
