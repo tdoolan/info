@@ -67,7 +67,7 @@
             <li class="mt-3">
                 <p style="font-size:1.2rem;">
                     Na 27 mei krijg je de uitslag van jouw aanmelding voor minoren bij de UvA.
-                    Als je bent geselecteerd voor de Minor Programmeren kun je verder met de 
+                    Als je bent geselecteerd voor de Minor AI kun je verder met de 
                     volgende stappen.
                 </p>
             </li>
