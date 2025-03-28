@@ -1,14 +1,6 @@
----
-layout: minprog
-title: Aanmelden Minor Programmeren
----
-
-
-
-
 <div class="rounded-lg py-5 min-vh-75 v-center text-center markered3">
     <div class="px-4">
-        <h2 class="display-2 text-center mb-4 text-lisght">Aanmelden MinProg</h2>
+        <h2 class="display-3 text-center mb-4">Aanmelden Minor Programmeren</h2>
         <ol class="w-50 mx-auto text-left">
             <h3>Voorbereiding</h3>
             <li class="mt-3">
@@ -57,7 +49,7 @@ title: Aanmelden Minor Programmeren
                     Naast aanmelding voor de selectie hebben we meer informatie
                     van je nodig om je te begeleiden bij de aanmelding. Vul dit formulier
                     <b>direct</b> in zodra je klaar bent met het keuzeformulier. Let op dat je 
-                    aanmelding wordt geweigerd als je dit formulier niet op tijd invult.
+                    niet meedoet met de eerste selectie als je dit formulier niet op tijd invult.
                 </p>
                 <p class="">
 
@@ -75,7 +67,7 @@ title: Aanmelden Minor Programmeren
             <h3>Later regelen</h3>
             <li class="mt-3">
                 <p style="font-size:1.2rem;">
-                    Enige tijd na 13 mei krijg je de uitslag van jouw aanmelding voor minoren bij de UvA.
+                    Na 27 mei krijg je de uitslag van jouw aanmelding voor minoren bij de UvA.
                     Als je bent geselecteerd voor de Minor Programmeren kun je verder met de 
                     volgende stappen.
                 </p>
@@ -85,33 +77,13 @@ title: Aanmelden Minor Programmeren
                     Je kunt je definitief inschrijven voor de minorvakken.
                     Dit kan tijdens de normale vakinschrijving van de UvA <strong>vanaf 10 tot 16 juni 13:00</strong>. Dit gaat via het systeem GLASS.
                 </p>
-                <!-- <p style="font-size:1.2rem;">
-                    Gebruik de volgende links om de vakken toe te voegen aan de vakinschrijving. Dit werkt ook pas goed vanaf de genoemde datum. -->
-                    <!-- <ul style="list-style-type:none; padding-left:0">
-                        <li><a class="btn btn-outline-dark btn-lg mb-3" href="https://glass.uva.nl/planning-board/add?id=50621PRP6Y">
-                            Aanmelden Programmeren 1
-                        </a></li>
-                        <li><a class="btn btn-outline-dark btn-lg mb-3" href="https://glass.uva.nl/planning-board/add?id=50622PRP6Y">
-                            Aanmelden Programmeren 2
-                        </a></li>
-                        <li><a class="btn btn-outline-dark btn-lg mb-3" href="https://glass.uva.nl/planning-board/add?id=5062DATT6Y">
-                            Aanmelden Datarepresentaties
-                        </a></li>
-                        <li><a class="btn btn-outline-dark btn-lg mb-3" href="https://glass.uva.nl/planning-board/add?id=5062PRPR6Y">
-                            Aanmelden Programmeerproject
-                        </a></li>
-                        <li><a class="btn btn-outline-dark btn-lg mb-3" href="https://glass.uva.nl/planning-board/add?id=5062ALHE6Y">
-                            Aanmelden Algoritmen en Heuristieken
-                        </a></li>
-                    </ul> -->
-                <!-- </p> -->
                 <p class="">
                     <a class="btn btn-outline-dark btn-lg" href="https://glass.uva.nl/" target="_blank">Ga naar GLASS om je inschrijvingen te beheren</a>
                 </p>
             </li>
             <li class="mt-3">
                 <p style="font-size:1.2rem;">
-                    Na inschrijving ontvang je in juni/juni meer (praktische) informatie over de start van de
+                    Na inschrijving ontvang je in juni/juli meer (praktische) informatie over de start van de
                     minor en de eerste vakken. Dit geldt ook voor de roosters, die niet eerder
                     bekend gemaakt kunnen worden. Voor fulltime-studenten geldt sowieso: elke dag aanwezig.
                 </p>
