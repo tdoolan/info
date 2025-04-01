@@ -186,15 +186,15 @@ redirect_from:
          kapotte laptop), neem dan contact met ons op en leg gerust je situatie uit. We helpen je dan verder.
     </p>
 
-    <h3 class="mt-4 mb-3">Jaarindeling en startdata 2024&mdash;2025</h3>
+    <h3 class="mt-4 mb-3">Jaarindeling en startdata 2025&mdash;2026</h3>
     <p class="display-6">
-        Het eerste semester loopt van 2 september t/m 31 januari, en het tweede semester loopt van 3 februari t/m vrijdag 27 juni.
+        Het eerste semester loopt van 1 september t/m 30 januari, en het tweede semester loopt van 2 februari t/m vrijdag 26 juni.
     </p>
 
         <ul class="text-left">
             <li>Als je een complete minor doet, dan duurt deze altijd van de eerste tot en met de laatste dag van het semester.</li>
             <li>Let op dat in het eerste semester <u>geen</u> herfstvakantie is ingeroosterd, zoals bij sommige andere opleidingen.</li>
-            <li>In het tweede semester is de meivakantie van 26 april t/m 4 mei. Alle andere weken zijn lesweken.</li>
+            <li>In het tweede semester is de meivakantie van 25 april t/m 5 mei. Alle andere weken zijn normale lesweken!</li>
             <li>Vraag vooraf advies als je om bijzondere redenen afwezig gaat zijn. We kunnen dan een schatting maken of dit werkbaar is en hoeveel punten je gaat missen.</li>
         </ul>
 </div>
