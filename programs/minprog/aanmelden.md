@@ -41,7 +41,7 @@
                     of meer minoren via het aanmeldingsformulier. In verband met het beperkte aantal plekken vindt er selectie plaats op basis van voorkennis (niet al te veel), interesse en toewijding.
                 </p>
                 <p class="">
-                    <a class="btn btn-outline-dark btn-lg" href="https://apps.powerapps.com/play/e/cc402cb1-9f42-e71b-b455-89d4251b4256/a/800e15e6-b81a-439c-9fd6-129fd1e3a744?tenantId=a0f1cacd-618c-4403-b945-76fb3d6874e5&hint=3963c1a6-6ec3-43c0-92a7-4faf357c6b31&hidenavbar=true" target="_blank">Keuzeformulier Minoren</a>
+                    <a class="btn btn-outline-dark btn-lg" href="https://apps.powerapps.com/play/e/cc402cb1-9f42-e71b-b455-89d4251b4256/a/800e15e6-b81a-439c-9fd6-129fd1e3a744?tenantId=a0f1cacd-618c-4403-b945-76fb3d6874e5&hint=3963c1a6-6ec3-43c0-92a7-4faf357c6b31&hidenavbar=true" target="_blank">Aanmeldformulier Minoren</a>
                 </p>
             </li>
             <li class="mt-3">
@@ -53,7 +53,7 @@
                 </p>
                 <p class="">
 
-                    <a class="btn btn-outline-dark btn-lg" href="https://forms.office.com/e/XhFDqzUj3n" target="_blank"> Aanmelding Minor Programmeren</a>
+                    <a class="btn btn-outline-dark btn-lg" href="https://forms.office.com/e/XhFDqzUj3n" target="_blank"> Selectieformulier Minor Programmeren</a>
                 </p>
             </li>
             <li class="mt-3 mb-5">
