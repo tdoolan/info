@@ -167,9 +167,7 @@ redirect_from:
     </p>
     <h3 class="mt-4 mb-3">Beschikbare plekken</h3>
     <p class="display-6">
-        We hebben nog nooit eerder studenten hoeven weigeren. Door omstandigheden (zoals Corona) kan het
-        toch zijn dat we een limiet stellen. In dat geval zal de aanmelding worden gesloten
-        en zullen we per mail uitleggen hoe we de plekken verdelen. Het is daarom altijd belangrijk om een plan B te hebben, zelfs al wil je gewoon héél graag deze minor doen.
+        We hebben nog niet eerder studenten hoeven weigeren. We stellen wel een limiet van 80 plaatsen voor mensen die de minor in één semester volgen. Kom je losse vakken doen dan is er geen limiet, maar dan kun je de minor niet in één semester doen. Zorg dus dat je wel een plan B hebt indien nodig.
     </p>
     <h3 class="mt-4 mb-3">Bijvak</h3>
     <p class="display-6">
