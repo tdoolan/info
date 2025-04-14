@@ -9,7 +9,7 @@
                     examencommissie van je eigen opleiding. Anders kan het zijn 
                     dat je de minorvakken volgt maar niet kunt gebruiken 
                     voor je diploma. Binnen de UvA gaat een deel automatisch: check 
-                    daarvoor de <a href="https://www.uva.nl/binaries/content/assets/uva/nl/onderwijs/bachelor/toestemmingsmatrix-2025-2026-nl-toegankelijke-versie-met-symbolen.pdf">toestemmingsmatrix (PDF)</a>. Neem anders contact
+                    daarvoor de <a href="https://www.uva.nl/binaries/content/assets/uva/nl/onderwijs/bachelor/toestemmingsmatrix-2025-2026-nl-toegankelijke-versie-met-symbolen-3-4-25.pdf">toestemmingsmatrix (PDF)</a>. Neem anders contact
                     op met je studieadviseur of onderwijsbalie om dit te regelen.
                 </p>
             </li>
