@@ -38,7 +38,7 @@
             <li class="mt-3">
                 <p class="" style="font-size:1.2rem;">
                     Meld je tussen <b>1 april en 13 mei 2025</b> aan voor &eacute;&eacute;n 
-                    of meer minoren via het aanmeldingsformulier. In verband met het beperkte aantal plekken vindt er selectie plaats op basis van voorkennis (niet al te veel), interesse en toewijding.
+                    of meer minoren via het aanmeldingsformulier. In verband met het beperkte aantal plekken vindt er selectie plaats op basis van voorkennis (niet al te veel), interesse en toewijding. Je hoeft bij dit formulier geen documenten te uploaden.
                 </p>
                 <p class="">
                     <a class="btn btn-outline-dark btn-lg" href="https://apps.powerapps.com/play/e/cc402cb1-9f42-e71b-b455-89d4251b4256/a/800e15e6-b81a-439c-9fd6-129fd1e3a744?tenantId=a0f1cacd-618c-4403-b945-76fb3d6874e5&hint=3963c1a6-6ec3-43c0-92a7-4faf357c6b31&hidenavbar=true" target="_blank">Aanmeldformulier Minoren</a>
