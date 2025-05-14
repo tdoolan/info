@@ -37,11 +37,26 @@
             <h3>Aanmelding minor</h3>
             <li class="mt-3">
                 <p class="" style="font-size:1.2rem;">
+                    De centrale minoraanmelding is inmiddels gesloten. Er is nog plek bij de Minor Programmeren. Meld je aan via het selectieformulier in de volgende stap. 
+                </p>
+            </li>
+            <li class="mt-3">
+                <p class="" style="font-size:1.2rem;">
+                    Voor het maken van een selectie en om je te begeleiden bij de aanmelding
+                    hebben we wat informatie van je nodig.
+                </p>
+                <p class="">
+
+                    <a class="btn btn-outline-dark btn-lg" href="https://forms.office.com/e/XhFDqzUj3n" target="_blank"> Selectieformulier Minor Programmeren</a>
+                </p>
+            </li>
+            <!--li class="mt-3">
+                <p class="" style="font-size:1.2rem;">
                     Meld je tussen <b>1 april en 13 mei 2025</b> aan voor &eacute;&eacute;n 
                     of meer minoren via het aanmeldingsformulier. In verband met het beperkte aantal plekken vindt er selectie plaats op basis van voorkennis (niet al te veel), interesse en toewijding. Je hoeft bij dit formulier geen documenten te uploaden.
                 </p>
                 <p class="">
-                    <a class="btn btn-outline-dark btn-lg" href="https://apps.powerapps.com/play/e/cc402cb1-9f42-e71b-b455-89d4251b4256/a/800e15e6-b81a-439c-9fd6-129fd1e3a744?tenantId=a0f1cacd-618c-4403-b945-76fb3d6874e5&hint=3963c1a6-6ec3-43c0-92a7-4faf357c6b31&hidenavbar=true" target="_blank">Aanmeldformulier Minoren</a>
+                    <a  class="btn btn-outline-dark btn-lg disabled" href="https://apps.powerapps.com/play/e/cc402cb1-9f42-e71b-b455-89d4251b4256/a/800e15e6-b81a-439c-9fd6-129fd1e3a744?tenantId=a0f1cacd-618c-4403-b945-76fb3d6874e5&hint=3963c1a6-6ec3-43c0-92a7-4faf357c6b31&hidenavbar=true" target="_blank">Aanmeldformulier Minoren (nu gesloten)</a>
                 </p>
             </li>
             <li class="mt-3">
@@ -55,26 +70,33 @@
 
                     <a class="btn btn-outline-dark btn-lg" href="https://forms.office.com/e/XhFDqzUj3n" target="_blank"> Selectieformulier Minor Programmeren</a>
                 </p>
-            </li>
+            </li-->
             <li class="mt-3 mb-5">
                 <p class="" style="font-size:1.2rem;">
                     Hou je studentenmail in de gaten voor het geval wij vragen hebben, 
-                    bijvoorbeeld over je vooropleiding. Mocht je zelf vragen hebben in deze 
-                    periode, mail dan gerust naar <a href="mailto:help@proglab.nl">help@proglab.nl</a>.
+                    bijvoorbeeld over je vooropleiding. Mocht je zelf vragen hebben tijdens de aanmelding, mail dan gerust naar <a href="mailto:help@proglab.nl">help@proglab.nl</a>.
                 </p>
             </li>
 
             <h3>Later regelen</h3>
-            <li class="mt-3">
+            <!--li class="mt-3">
                 <p style="font-size:1.2rem;">
                     Na 27 mei krijg je de uitslag van jouw aanmelding voor minoren bij de UvA.
                     Als je bent geselecteerd voor de Minor Programmeren kun je verder met de 
                     volgende stappen.
                 </p>
+            </li-->
+            <li class="mt-3">
+                <p style="font-size:1.2rem;">
+                    Als je mee hebt gedaan aan de centrale aanmelding krijg je uiterlijk op 27 mei bericht of je bent geplaatst voor de minor Programmeren.
+                </p>
+                <p style="font-size:1.2rem;">
+                    Doe je mee met de tweede ronde, dan laten we uiterlijk rond 1 juni laten we weten of je door de selectie bent.
+                </p>
             </li>
             <li class="mt-3">
                 <p style="font-size:1.2rem;">
-                    Je kunt je definitief inschrijven voor de minorvakken.
+                    Als je bent toegelaten kun je je definitief inschrijven voor de minorvakken.
                     Dit kan tijdens de normale vakinschrijving van de UvA <strong>vanaf 10 tot 16 juni 13:00</strong>. Dit gaat via het systeem GLASS.
                 </p>
                 <p class="">
@@ -94,8 +116,7 @@
                 <p style="font-size:1.2rem;">
                     Als je je niet hebt aangemeld voor de selectie of je bent te laat geweest
                     met het geven van aanvullende informatie, dan ben je niet automatisch
-                    toegelaten tot de minor. Het kan wel zijn dat er nog plek is. 
-                    Na 13 mei verschijnt hier informatie over eventuele verlate aanmelding.
+                    toegelaten tot de minor. Het kan wel zijn dat er nog plek is. Volg bovenstaande stappen om je aan te melden.
                 </p>
             </li>
         </ol>

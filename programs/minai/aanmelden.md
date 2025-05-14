@@ -35,13 +35,15 @@
             </li>
 
             <h3>Aanmelding minor</h3>
+            <p><strong>De centrale minoraanmelding is inmiddels gesloten. Vanaf 27 mei kun je je hier
+                weer aanmelden als er nog plek is.</strong></p>
             <li class="mt-3">
                 <p class="" style="font-size:1.2rem;">
                     Meld je tussen <b>1 april en 13 mei 2025</b> aan voor &eacute;&eacute;n 
                     of meer minoren via het aanmeldingsformulier. In verband met beperkte plekken voor het volledige programma vindt er selectie plaats op basis van voorkennis (niet al te veel), interesse en toewijding. Upload in dit formulier je motivatiebrief.
                 </p>
                 <p class="">
-                    <a class="btn btn-outline-dark btn-lg" href="https://apps.powerapps.com/play/e/cc402cb1-9f42-e71b-b455-89d4251b4256/a/800e15e6-b81a-439c-9fd6-129fd1e3a744?tenantId=a0f1cacd-618c-4403-b945-76fb3d6874e5&hint=3963c1a6-6ec3-43c0-92a7-4faf357c6b31&hidenavbar=true" target="_blank">Aanmeldformulier Minoren</a>
+                    <a class="btn btn-outline-dark btn-lg disabled" href="https://apps.powerapps.com/play/e/cc402cb1-9f42-e71b-b455-89d4251b4256/a/800e15e6-b81a-439c-9fd6-129fd1e3a744?tenantId=a0f1cacd-618c-4403-b945-76fb3d6874e5&hint=3963c1a6-6ec3-43c0-92a7-4faf357c6b31&hidenavbar=true" target="_blank">Aanmeldformulier Minoren (nu gesloten)</a>
                 </p>
             </li>
             <li class="mt-3">
@@ -52,7 +54,7 @@
                 </p>
                 <p class="">
 
-                    <a class="btn btn-outline-dark btn-lg" href="https://forms.office.com/e/st1P0JyHCH" target="_blank"> Selectieformulier Minor AI</a>
+                    <a class="btn btn-outline-dark btn-lg disabled" href="https://forms.office.com/e/st1P0JyHCH" target="_blank"> Selectieformulier Minor AI</a>
                 </p>
             </li>
             <li class="mt-3 mb-5">
@@ -94,7 +96,7 @@
                     Als je je niet hebt aangemeld voor de selectie of je bent te laat geweest
                     met het geven van aanvullende informatie, dan ben je automatisch niet
                     toegelaten tot de minor. Het kan wel zijn dat er nog plek is. 
-                    Na 13 mei verschijnt hier informatie over eventuele verlate aanmelding.
+                    Na 27 mei verschijnt hier informatie over eventuele verlate aanmelding.
                 </p>
             </li>
         </ol>

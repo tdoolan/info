@@ -105,9 +105,8 @@ redirect_from:
 
     <div class="w-75-centered mt-5 text-left ">
         <div class="row row-cols-1 row-cols-md-2">
-        {% assign courses = site.courses | sort: "order" %}
+        {% assign courses = site.courses | where: 'curriculum', 'Minor Programmeren' | sort: "order" %}
         {% for course in courses %}
-        {% if course.curriculum == "Minor Programmeren" %}
         <div class="col mb-4 px-0 px-md-3">
             <div class="card mb-3 bg-transparent border-0 h-100" style="smax-width: 540px;">
                 <div class="card-body">
@@ -123,7 +122,6 @@ redirect_from:
                 </div>
             </div>
         </div>  
-        {% endif %}
         {% endfor %}
         </div>
     </div>
