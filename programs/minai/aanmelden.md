@@ -33,10 +33,10 @@
                     extra voor een bijvakinschrijving zoals genoemd bij het vorige punt.
                 </p>
             </li>
-
+            
             <h3>Aanmelding minor</h3>
-            <p><strong>De centrale minoraanmelding is inmiddels gesloten. Vanaf 27 mei kun je je hier
-                weer aanmelden als er nog plek is.</strong></p>
+            <p><strong>De centrale minoraanmelding is inmiddels gesloten. We accepteren wel nog late aanmeldingen voor het eerste semester van volgend studiejaar via het onderstaande formulier.</strong></p>
+            <!--
             <li class="mt-3">
                 <p class="" style="font-size:1.2rem;">
                     Meld je tussen <b>1 april en 13 mei 2025</b> aan voor &eacute;&eacute;n 
@@ -57,6 +57,15 @@
                     <a class="btn btn-outline-dark btn-lg disabled" href="https://forms.office.com/e/st1P0JyHCH" target="_blank"> Selectieformulier Minor AI</a>
                 </p>
             </li>
+            -->
+            <li class="mt-3">
+                <p class="" style="font-size:1.2rem;">
+                    Vul het onderstaande formulier in om de selectieprocedure voor het eerste semester van volgend studiejaar te starten. Wij accepteren hier nog aanmeldingen zolang we plaatsen beschikbaar hebben.
+                </p>
+                <p class="">
+                    <a class="btn btn-outline-dark btn-lg disabled" href="https://forms.office.com/e/CKSpEWrcX3" target="_blank"> Selectieformulier Minor AI</a>
+                </p>
+            </li>
             <li class="mt-3 mb-5">
                 <p class="" style="font-size:1.2rem;">
                     Hou je studentenmail in de gaten voor het geval wij vragen hebben, 
@@ -64,13 +73,12 @@
                     periode, mail dan gerust naar <a href="mailto:help@proglab.nl">ai@proglab.nl</a>.
                 </p>
             </li>
-
+            
             <h3>Later regelen</h3>
             <li class="mt-3">
                 <p style="font-size:1.2rem;">
-                    Na 27 mei krijg je de uitslag van jouw aanmelding voor minoren bij de UvA.
-                    Als je bent geselecteerd voor de Minor AI kun je verder met de 
-                    volgende stappen.
+                    Als alle informatie voor je selectie compleet is, krijg je van ons bericht met de uitslag. Meestal is dit binnen 1 week nadat alle informatie compleet is, maar aanmeldingen die nog in de zomervakantie
+                    worden gedaan kunnen mogelijk langer duren.
                 </p>
             </li>
             <li class="mt-3">
