@@ -73,17 +73,17 @@
                     periode, mail dan gerust naar <a href="mailto:help@proglab.nl">ai@proglab.nl</a>.
                 </p>
             </li>
-            
-            <h3>Later regelen</h3>
             <li class="mt-3">
                 <p style="font-size:1.2rem;">
                     Als alle informatie voor je selectie compleet is, krijg je van ons bericht met de uitslag. Meestal is dit binnen 1 week nadat alle informatie compleet is, maar aanmeldingen die nog in de zomervakantie
                     worden gedaan kunnen mogelijk langer duren.
                 </p>
             </li>
+            
+            <h3>Later regelen</h3>
             <li class="mt-3">
                 <p style="font-size:1.2rem;">
-                    Je kunt je definitief inschrijven voor de minorvakken.
+                    Als je geselecteerd bent, kun je je definitief inschrijven voor de minorvakken.
                     Dit kan tijdens de normale vakinschrijving van de UvA <strong>vanaf 10 tot 16 juni 13:00</strong>. Dit gaat via het systeem GLASS.
                 </p>
                 <p class="">
@@ -92,12 +92,13 @@
             </li>
             <li class="mt-3">
                 <p style="font-size:1.2rem;">
-                    Na inschrijving ontvang je in juni/juli meer (praktische) informatie over de start van de
+                    Na inschrijving ontvang je in augustus meer (praktische) informatie over de start van de
                     minor en de eerste vakken. Dit geldt ook voor de roosters, die niet eerder
                     bekend gemaakt kunnen worden. Voor fulltime geldt sowieso: elke dag aanwezig.
                 </p>
             </li>
             
+            <!-- 
             <h3 class="mt-5">Te laat?</h3>
             <li class="mt-3">
                 <p style="font-size:1.2rem;">
@@ -107,6 +108,7 @@
                     Na 27 mei verschijnt hier informatie over eventuele verlate aanmelding.
                 </p>
             </li>
+            -->
         </ol>
     </div>
 </div>
