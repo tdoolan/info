@@ -63,17 +63,17 @@
                     Vul het onderstaande formulier in om de selectieprocedure voor het eerste semester van volgend studiejaar te starten. Wij accepteren hier nog aanmeldingen zolang we plaatsen beschikbaar hebben.
                 </p>
                 <p class="">
-                    <a class="btn btn-outline-dark btn-lg disabled" href="https://forms.office.com/e/CKSpEWrcX3" target="_blank"> Selectieformulier Minor AI</a>
+                    <a class="btn btn-outline-dark btn-lg" href="https://forms.office.com/e/CKSpEWrcX3" target="_blank"> Selectieformulier Minor AI</a>
                 </p>
             </li>
-            <li class="mt-3 mb-5">
+            <li class="mt-3">
                 <p class="" style="font-size:1.2rem;">
                     Hou je studentenmail in de gaten voor het geval wij vragen hebben, 
                     bijvoorbeeld over je vooropleiding. Mocht je zelf vragen hebben in deze 
                     periode, mail dan gerust naar <a href="mailto:help@proglab.nl">ai@proglab.nl</a>.
                 </p>
             </li>
-            <li class="mt-3">
+            <li class="mt-3 mb-5">
                 <p style="font-size:1.2rem;">
                     Als alle informatie voor je selectie compleet is, krijg je van ons bericht met de uitslag. N.B. Meestal is dit binnen 1 week nadat alle informatie compleet is, maar aanmeldingen die nog in de zomervakantie
                     worden gedaan kunnen mogelijk langer duren.
