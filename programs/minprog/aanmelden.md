@@ -37,17 +37,20 @@
             <h3>Aanmelding minor</h3>
             <li class="mt-3">
                 <p class="" style="font-size:1.2rem;">
-                    De centrale minoraanmelding is inmiddels gesloten. Er is nog plek bij de Minor Programmeren. Meld je aan via het selectieformulier in de volgende stap. 
+                    De centrale minoraanmelding van de UvA is inmiddels gesloten. Maar: er is nog plek bij de Minor Programmeren. Meld je aan via het selectieformulier in de volgende stap. 
                 </p>
             </li>
             <li class="mt-3">
                 <p class="" style="font-size:1.2rem;">
-                    Voor het maken van een selectie en om je te begeleiden bij de aanmelding
-                    hebben we wat informatie van je nodig.
+                    Om je te begeleiden bij de aanmelding en na de start van de minor
+                    hebben we wat informatie van je nodig. Vul hiervoor het selectieformulier in.
                 </p>
                 <p class="">
 
                     <a class="btn btn-outline-dark btn-lg" href="https://forms.office.com/e/XhFDqzUj3n" target="_blank"> Selectieformulier Minor Programmeren</a>
+                </p>
+                <p style="font-size:1.2rem;">
+                    Omdat er momenteel nog plek is word je automatisch geplaatst en krijg je geen reactie op het formulier.
                 </p>
             </li>
             <!--li class="mt-3">
@@ -91,7 +94,9 @@
                     Als je mee hebt gedaan aan de centrale aanmelding krijg je uiterlijk op 27 mei bericht of je bent geplaatst voor de minor Programmeren.
                 </p>
                 <p style="font-size:1.2rem;">
-                    Doe je mee met de tweede ronde, dan laten we uiterlijk rond 1 juni laten we weten of je door de selectie bent.
+                    Als je je na 13 mei hebt aangemeld via ons eigen formulier ben je automatisch geplaatst; dit onder voorwaarde dat je minimaal je
+                    propedeuse hebt gehaald. Als je de minor fulltime wil volgen is het ook een eis
+                    dat je daadwerkelijk aanwezig kunt zijn.
                 </p>
             </li>
             <li class="mt-3">
@@ -114,9 +119,8 @@
             <h3 class="mt-5">Te laat?</h3>
             <li class="mt-3">
                 <p style="font-size:1.2rem;">
-                    Als je je niet hebt aangemeld voor de selectie of je bent te laat geweest
-                    met het geven van aanvullende informatie, dan ben je niet automatisch
-                    toegelaten tot de minor. Het kan wel zijn dat er nog plek is. Volg bovenstaande stappen om je aan te melden.
+                    Op dit moment is er nog plek bij de Minor Programmeren. Volg bovenstaande
+                    stappen om je aan te melden.
                 </p>
             </li>
         </ol>
