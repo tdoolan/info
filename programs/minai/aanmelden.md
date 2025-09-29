@@ -51,7 +51,7 @@
             <li class="mt-3">
                 <p class="" style="font-size:1.2rem;">
                     Naast aanmelding voor de selectie hebben we meer informatie van je nodig voor de
-                    selectie, zoals je niveau van voorkennis en een motivatiebrief. Vul dit formulier
+                    selectie, zoals het niveau van je voorkennis en een motivatiebrief. Vul dit formulier
                     <b>direct</b> in zodra je klaar bent met het keuzeformulier. Let op dat je niet
                     meedoet met de eerste selectie als je dit formulier niet op tijd invult.
                 </p>
@@ -70,20 +70,12 @@
             </li>
             -->
             <li class="mt-3">
-                <p class="" style="font-size:1.2rem;">
+                <p class="mb-5" style="font-size:1.2rem;">
                     Hou je studentenmail in de gaten voor het geval wij vragen hebben, 
                     bijvoorbeeld over je vooropleiding. Mocht je zelf vragen hebben in deze 
                     periode, mail dan gerust naar <a href="mailto:help@proglab.nl">ai@proglab.nl</a>.
                 </p>
             </li>
-            <!--
-            <li class="mt-3 mb-5">
-                <p style="font-size:1.2rem;">
-                    Als alle informatie voor je selectie compleet is, krijg je van ons bericht met de uitslag. N.B. Meestal is dit binnen 1 week nadat alle informatie compleet is, maar aanmeldingen die nog in de zomervakantie
-                    worden gedaan kunnen mogelijk langer duren.
-                </p>
-            </li>
-            -->
             
             <h3>Later regelen</h3>
             <li class="mt-3">
@@ -96,24 +88,22 @@
                 </p>
             </li>
             <li class="mt-3">
-                <p style="font-size:1.2rem;">
+                <p class="mb-5" style="font-size:1.2rem;">
                     Na inschrijving ontvang je in januari meer (praktische) informatie over de start van de
                     minor en de eerste vakken. Dit geldt ook voor de roosters, die niet eerder
                     bekend gemaakt kunnen worden. Voor fulltime geldt sowieso: elke dag aanwezig.
                 </p>
             </li>
             
-            <!-- 
-            <h3 class="mt-5">Te laat?</h3>
+            <h3>Te laat?</h3>
             <li class="mt-3">
                 <p style="font-size:1.2rem;">
                     Als je je niet hebt aangemeld voor de selectie of je bent te laat geweest
                     met het geven van aanvullende informatie, dan ben je automatisch niet
                     toegelaten tot de minor. Het kan wel zijn dat er nog plek is. 
-                    Na 27 mei verschijnt hier informatie over eventuele verlate aanmelding.
+                    Na 23 november verschijnt hier informatie over eventuele verlate aanmelding.
                 </p>
             </li>
-            -->
         </ol>
     </div>
 </div>
