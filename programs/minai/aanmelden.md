@@ -18,7 +18,8 @@
                     Ben je nog geen UvA-student, maar wel bij een andere instelling voor hoger
                     onderwijs? Dan heb je een UvA-account nodig om je verder aan te melden. 
                     Vraag dus zo snel mogelijk een bijvakinschrijving aan. Je krijgt dan binnen
-                    enkele dagen een account, ook als je de inschrijving nog niet volledig afrondt. Je kiest voor de aanmelding de opleiding <strong>Informatiekunde (bijvak/electives)</strong>.
+                    enkele dagen een account, ook als je de inschrijving nog niet volledig afrondt.
+                    Je kiest voor de aanmelding de opleiding <strong>Informatiekunde (bijvak/electives)</strong>.
                 </p>
                 <p class="">
                     <a class="btn btn-outline-dark btn-lg" href="https://www.studielink.nl/" target="_blank">Schrijf je in via Studielink</a>
@@ -35,29 +36,30 @@
             </li>
             
             <h3>Aanmelding minor</h3>
-            <p><strong>De centrale minoraanmelding is inmiddels gesloten. We accepteren wel nog late aanmeldingen voor het eerste semester van volgend studiejaar via het onderstaande formulier.</strong></p>
             <!--
-            <li class="mt-3">
-                <p class="" style="font-size:1.2rem;">
-                    Meld je tussen <b>1 april en 13 mei 2025</b> aan voor &eacute;&eacute;n 
-                    of meer minoren via het aanmeldingsformulier. In verband met beperkte plekken voor het volledige programma vindt er selectie plaats op basis van voorkennis (niet al te veel), interesse en toewijding. Upload in dit formulier je motivatiebrief.
-                </p>
-                <p class="">
-                    <a class="btn btn-outline-dark btn-lg disabled" href="https://apps.powerapps.com/play/e/cc402cb1-9f42-e71b-b455-89d4251b4256/a/800e15e6-b81a-439c-9fd6-129fd1e3a744?tenantId=a0f1cacd-618c-4403-b945-76fb3d6874e5&hint=3963c1a6-6ec3-43c0-92a7-4faf357c6b31&hidenavbar=true" target="_blank">Aanmeldformulier Minoren (nu gesloten)</a>
-                </p>
-            </li>
-            <li class="mt-3">
-                <p class="" style="font-size:1.2rem;">
-                    Naast aanmelding voor de selectie hebben we meer informatie
-                    van je nodig om je te begeleiden bij de aanmelding. Vul dit formulier
-                    <b>direct</b> in zodra je klaar bent met het keuzeformulier. Let op dat je niet meedoet met de eerste selectie als je dit formulier niet op tijd invult.
-                </p>
-                <p class="">
-
-                    <a class="btn btn-outline-dark btn-lg disabled" href="https://forms.office.com/e/st1P0JyHCH" target="_blank"> Selectieformulier Minor AI</a>
-                </p>
-            </li>
+            <p><strong>De centrale minoraanmelding is inmiddels gesloten. We accepteren wel nog late aanmeldingen voor het eerste semester van volgend studiejaar via het onderstaande formulier.</strong></p>
             -->
+            <li class="mt-3">
+                <p class="" style="font-size:1.2rem;">
+                    Meld je tussen <b>13 oktober en 7 november 2025</b> aan voor &eacute;&eacute;n
+                    of meer minoren via het aanmeldingsformulier. In verband met beperkte plekken voor het volledige programma vindt er selectie plaats op basis van voorkennis (niet al te veel), interesse en toewijding.
+                </p>
+                <p class="">
+                    <a class="btn btn-outline-dark btn-lg" href="https://apps.powerapps.com/play/e/cc402cb1-9f42-e71b-b455-89d4251b4256/a/800e15e6-b81a-439c-9fd6-129fd1e3a744?tenantId=a0f1cacd-618c-4403-b945-76fb3d6874e5&hint=3963c1a6-6ec3-43c0-92a7-4faf357c6b31&hidenavbar=true" target="_blank">Aanmeldformulier Minoren</a>
+                </p>
+            </li>
+            <li class="mt-3">
+                <p class="" style="font-size:1.2rem;">
+                    Naast aanmelding voor de selectie hebben we meer informatie van je nodig voor de
+                    selectie, zoals je niveau van voorkennis en een motivatiebrief. Vul dit formulier
+                    <b>direct</b> in zodra je klaar bent met het keuzeformulier. Let op dat je niet
+                    meedoet met de eerste selectie als je dit formulier niet op tijd invult.
+                </p>
+                <p class="">
+                    <a class="btn btn-outline-dark btn-lg" href="https://forms.office.com/Pages/ResponsePage.aspx?id=zcrxoIxhA0S5RXb7PWh05ZTDc7biyulCvpu4U-tarWtUQzE4VEw4MjdDUE4wWk1VTkdKTUM4UEtDVi4u" target="_blank"> Selectieformulier Minor AI</a>
+                </p>
+            </li>
+            <!--
             <li class="mt-3">
                 <p class="" style="font-size:1.2rem;">
                     Vul het onderstaande formulier in om de selectieprocedure voor het eerste semester van volgend studiejaar te starten. Wij accepteren hier nog aanmeldingen zolang we plaatsen beschikbaar hebben.
@@ -66,6 +68,7 @@
                     <a class="btn btn-outline-dark btn-lg" href="https://forms.office.com/e/CKSpEWrcX3" target="_blank"> Selectieformulier Minor AI</a>
                 </p>
             </li>
+            -->
             <li class="mt-3">
                 <p class="" style="font-size:1.2rem;">
                     Hou je studentenmail in de gaten voor het geval wij vragen hebben, 
@@ -73,18 +76,20 @@
                     periode, mail dan gerust naar <a href="mailto:help@proglab.nl">ai@proglab.nl</a>.
                 </p>
             </li>
+            <!--
             <li class="mt-3 mb-5">
                 <p style="font-size:1.2rem;">
                     Als alle informatie voor je selectie compleet is, krijg je van ons bericht met de uitslag. N.B. Meestal is dit binnen 1 week nadat alle informatie compleet is, maar aanmeldingen die nog in de zomervakantie
                     worden gedaan kunnen mogelijk langer duren.
                 </p>
             </li>
+            -->
             
             <h3>Later regelen</h3>
             <li class="mt-3">
                 <p style="font-size:1.2rem;">
                     Als je geselecteerd bent, kun je je definitief inschrijven voor de minorvakken.
-                    Dit kan tijdens de normale vakinschrijving van de UvA <strong>vanaf 10 tot 16 juni 13:00</strong>. Dit gaat via het systeem GLASS.
+                    Dit kan tijdens de normale vakinschrijving van de UvA <strong>vanaf 1 tot 8 december 13:00</strong>. Dit gaat via het systeem GLASS.
                 </p>
                 <p class="">
                     <a class="btn btn-outline-dark btn-lg" href="https://glass.uva.nl/" target="_blank">Ga naar GLASS om je inschrijvingen te beheren</a>
@@ -92,7 +97,7 @@
             </li>
             <li class="mt-3">
                 <p style="font-size:1.2rem;">
-                    Na inschrijving ontvang je in augustus meer (praktische) informatie over de start van de
+                    Na inschrijving ontvang je in januari meer (praktische) informatie over de start van de
                     minor en de eerste vakken. Dit geldt ook voor de roosters, die niet eerder
                     bekend gemaakt kunnen worden. Voor fulltime geldt sowieso: elke dag aanwezig.
                 </p>
