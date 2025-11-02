@@ -12,9 +12,9 @@
                     daarvoor de <a href="https://www.uva.nl/binaries/content/assets/uva/nl/onderwijs/bachelor/toestemmingsmatrix-2025-2026-toegankelijk-nl.pdf">toestemmingsmatrix (PDF)</a>. Neem anders contact
                     op met je studieadviseur of onderwijsbalie om dit te regelen.
                 </p>
-                <ul>
-                    <li>Tip: als je de vakken niet op je diploma hoeft te hebben, dan heb je ook geen toestemming nodig! Je kunt dan alsnog een officiële cijferlijst krijgen waar de minorvakken op vermeld staan.</li>
-                </ul>
+                <p>
+                    Tip: als je de vakken niet op je diploma hoeft te hebben, dan heb je ook geen toestemming nodig! Je kunt dan na het volgen van de minor een officiële cijferlijst krijgen waar de minorvakken op vermeld staan.</li>
+                </p>
             </li>
             <li class="mt-3">
                 <p style="font-size:1.2rem;">
