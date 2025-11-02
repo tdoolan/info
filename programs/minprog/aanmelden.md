@@ -38,45 +38,42 @@
             </li>
 
             <h3>Aanmelding minor</h3>
+
+            <!-- INTRODUCTIE -->
             <li class="mt-3">
                 <p class="" style="font-size:1.2rem;">
-                    De centrale minoraanmelding van de UvA is inmiddels gesloten. Maar: er is nog plek bij de Minor Programmeren. Meld je aan via het selectieformulier in de volgende stap. 
+                    De Minor Programmeren staat het hele jaar open voor inschrijving.
                 </p>
             </li>
+            
+            <!-- CENTRALE AANMELDING -->
             <li class="mt-3">
                 <p class="" style="font-size:1.2rem;">
-                    Om je te begeleiden bij de aanmelding en na de start van de minor
-                    hebben we wat informatie van je nodig. Vul hiervoor het selectie/interesse-formulier in.
+                    Op sommige momenten in het jaar is er een centrale aanmelding van UvA-minoren. Je kunt hieraan meedoen als deze open staat. Met onderstaande link ga je direct naar het formulier. Je hoeft bij dit formulier geen documenten te uploaden. Er vindt geen strenge selectie plaats, in principe word je gewoon geplaatst!
                 </p>
                 <p class="">
-
-                    <a class="btn btn-outline-dark btn-lg" href="https://forms.office.com/e/XhFDqzUj3n" target="_blank"> Formulier Minor Programmeren</a>
+                    <a  class="btn btn-outline-dark btn-lg" href="https://apps.powerapps.com/play/e/cc402cb1-9f42-e71b-b455-89d4251b4256/a/800e15e6-b81a-439c-9fd6-129fd1e3a744?tenantId=a0f1cacd-618c-4403-b945-76fb3d6874e5&hint=3963c1a6-6ec3-43c0-92a7-4faf357c6b31&hidenavbar=true" target="_blank">Aanmeldformulier Minoren</a>
+                </p>
+                <p>
+                    Tip: als het formulier niet open staat kun je gewoon door naar de volgende stap.
+                </p>
+            </li>
+            
+            <!-- EIGEN AANMELDING -->
+            <li class="mt-3">
+                <p class="" style="font-size:1.2rem;">
+                    Als docenten hebben we meer informatie
+                    van je nodig om je te begeleiden bij de aanmelding. Naast de centrale 
+                    aanmelding moet je dus óók dit formulier invullen.
+                </p>
+                <p class="">
+                    <a class="btn btn-outline-dark btn-lg" href="https://forms.office.com/e/XhFDqzUj3n" target="_blank"> Selectieformulier Minor Programmeren</a>
                 </p>
                 <p style="font-size:1.2rem;">
                     Omdat er momenteel nog plek is word je automatisch geplaatst en krijg je geen reactie op het formulier.
                 </p>
             </li>
-            <!--li class="mt-3">
-                <p class="" style="font-size:1.2rem;">
-                    Meld je aan voor &eacute;&eacute;n
-                    of meer minoren via het aanmeldingsformulier. Je hoeft bij dit formulier geen documenten te uploaden. Er vindt geen strenge selectie plaats.
-                </p>
-                <p class="">
-                    <a  class="btn btn-outline-dark btn-lg disabled" href="https://apps.powerapps.com/play/e/cc402cb1-9f42-e71b-b455-89d4251b4256/a/800e15e6-b81a-439c-9fd6-129fd1e3a744?tenantId=a0f1cacd-618c-4403-b945-76fb3d6874e5&hint=3963c1a6-6ec3-43c0-92a7-4faf357c6b31&hidenavbar=true" target="_blank">Aanmeldformulier Minoren</a>
-                </p>
-            </li>
-            <li class="mt-3">
-                <p class="" style="font-size:1.2rem;">
-                    Naast aanmelding voor de selectie hebben we meer informatie
-                    van je nodig om je te begeleiden bij de aanmelding. Vul dit formulier
-                    <b>direct</b> in zodra je klaar bent met het keuzeformulier. Let op dat je 
-                    niet meedoet met de eerste selectie als je dit formulier niet op tijd invult.
-                </p>
-                <p class="">
 
-                    <a class="btn btn-outline-dark btn-lg" href="https://forms.office.com/e/XhFDqzUj3n" target="_blank"> Selectieformulier Minor Programmeren</a>
-                </p>
-            </li-->
             <li class="mt-3 mb-5">
                 <p class="" style="font-size:1.2rem;">
                     Hou je studentenmail in de gaten voor het geval wij vragen hebben, 
@@ -85,21 +82,13 @@
             </li>
 
             <h3>Later regelen</h3>
-            <!--li class="mt-3">
-                <p style="font-size:1.2rem;">
-                    Na 27 mei krijg je de uitslag van jouw aanmelding voor minoren bij de UvA.
-                    Als je bent geselecteerd voor de Minor Programmeren kun je verder met de 
-                    volgende stappen.
-                </p>
-            </li-->
             <li class="mt-3">
                 <p style="font-size:1.2rem;">
                     Als je mee hebt gedaan aan de centrale aanmelding krijg je vanzelf bericht of je bent geplaatst voor de minor Programmeren.
                 </p>
                 <p style="font-size:1.2rem;">
-                    Als je je hebt aangemeld via ons eigen formulier ben je automatisch geplaatst; dit onder voorwaarde dat je minimaal je
-                    propedeuse hebt gehaald. Als je de minor fulltime wil volgen is het ook een eis
-                    dat je daadwerkelijk aanwezig kunt zijn.
+                    Als je tussendoor hebt aangemeld, alleen via ons eigen formulier, ben je automatisch geplaatst op voorwaarde dat je je
+                    propedeuse hebt gehaald.
                 </p>
             </li>
             <li class="mt-3">
@@ -108,7 +97,7 @@
                     Dit kan tijdens de normale vakinschrijving van de UvA <strong>vanaf 10 tot 16 juni 13:00</strong>. Dit gaat via het systeem GLASS.
                 </p>-->
                 <p style="font-size:1.2rem;">
-                    Als je bent toegelaten kun je je definitief inschrijven voor de minorvakken.
+                    Schrijf je definitief in voor de minorvakken.
                     Dit kan tijdens de normale vakinschrijving van de UvA <strong>vanaf 1 tot 8 december, 13:00</strong>. Dit gaat via het systeem GLASS.
                 </p>
                 <p class="">
