@@ -102,6 +102,9 @@
                 <p class="">
                     <a class="btn btn-outline-dark btn-lg" href="https://glass.uva.nl/" target="_blank">Ga naar GLASS om je inschrijvingen te beheren</a>
                 </p>
+                <p>
+                    Tip: je kunt je ook na deze periode nog aanmelden. Maar doe dit zo snel mogelijk in verband met de beschikbaarheid van plaatsen.
+                </p>
             </li>
             <li class="mt-3">
                 <p style="font-size:1.2rem;">
