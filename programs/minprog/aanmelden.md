@@ -43,11 +43,11 @@
             <li class="mt-3">
                 <p class="" style="font-size:1.2rem;">
                     Om je te begeleiden bij de aanmelding en na de start van de minor
-                    hebben we wat informatie van je nodig. Vul hiervoor het selectieformulier in.
+                    hebben we wat informatie van je nodig. Vul hiervoor het selectie/interesse-formulier in.
                 </p>
                 <p class="">
 
-                    <a class="btn btn-outline-dark btn-lg" href="https://forms.office.com/e/XhFDqzUj3n" target="_blank"> Selectieformulier Minor Programmeren</a>
+                    <a class="btn btn-outline-dark btn-lg" href="https://forms.office.com/e/XhFDqzUj3n" target="_blank"> Formulier Minor Programmeren</a>
                 </p>
                 <p style="font-size:1.2rem;">
                     Omdat er momenteel nog plek is word je automatisch geplaatst en krijg je geen reactie op het formulier.
@@ -55,11 +55,11 @@
             </li>
             <!--li class="mt-3">
                 <p class="" style="font-size:1.2rem;">
-                    Meld je tussen <b>1 april en 13 mei 2025</b> aan voor &eacute;&eacute;n 
-                    of meer minoren via het aanmeldingsformulier. In verband met het beperkte aantal plekken vindt er selectie plaats op basis van voorkennis (niet al te veel), interesse en toewijding. Je hoeft bij dit formulier geen documenten te uploaden.
+                    Meld je aan voor &eacute;&eacute;n
+                    of meer minoren via het aanmeldingsformulier. Je hoeft bij dit formulier geen documenten te uploaden. Er vindt geen strenge selectie plaats.
                 </p>
                 <p class="">
-                    <a  class="btn btn-outline-dark btn-lg disabled" href="https://apps.powerapps.com/play/e/cc402cb1-9f42-e71b-b455-89d4251b4256/a/800e15e6-b81a-439c-9fd6-129fd1e3a744?tenantId=a0f1cacd-618c-4403-b945-76fb3d6874e5&hint=3963c1a6-6ec3-43c0-92a7-4faf357c6b31&hidenavbar=true" target="_blank">Aanmeldformulier Minoren (nu gesloten)</a>
+                    <a  class="btn btn-outline-dark btn-lg disabled" href="https://apps.powerapps.com/play/e/cc402cb1-9f42-e71b-b455-89d4251b4256/a/800e15e6-b81a-439c-9fd6-129fd1e3a744?tenantId=a0f1cacd-618c-4403-b945-76fb3d6874e5&hint=3963c1a6-6ec3-43c0-92a7-4faf357c6b31&hidenavbar=true" target="_blank">Aanmeldformulier Minoren</a>
                 </p>
             </li>
             <li class="mt-3">
@@ -91,18 +91,22 @@
             </li-->
             <li class="mt-3">
                 <p style="font-size:1.2rem;">
-                    Als je mee hebt gedaan aan de centrale aanmelding krijg je uiterlijk op 27 mei bericht of je bent geplaatst voor de minor Programmeren.
+                    Als je mee hebt gedaan aan de centrale aanmelding krijg je vanzelf bericht of je bent geplaatst voor de minor Programmeren.
                 </p>
                 <p style="font-size:1.2rem;">
-                    Als je je na 13 mei hebt aangemeld via ons eigen formulier ben je automatisch geplaatst; dit onder voorwaarde dat je minimaal je
+                    Als je je hebt aangemeld via ons eigen formulier ben je automatisch geplaatst; dit onder voorwaarde dat je minimaal je
                     propedeuse hebt gehaald. Als je de minor fulltime wil volgen is het ook een eis
                     dat je daadwerkelijk aanwezig kunt zijn.
                 </p>
             </li>
             <li class="mt-3">
-                <p style="font-size:1.2rem;">
+                <!--<p style="font-size:1.2rem;">
                     Als je bent toegelaten kun je je definitief inschrijven voor de minorvakken.
                     Dit kan tijdens de normale vakinschrijving van de UvA <strong>vanaf 10 tot 16 juni 13:00</strong>. Dit gaat via het systeem GLASS.
+                </p>-->
+                <p style="font-size:1.2rem;">
+                    Als je bent toegelaten kun je je definitief inschrijven voor de minorvakken.
+                    Dit kan tijdens de normale vakinschrijving van de UvA <strong>vanaf 1 tot 8 december, 13:00</strong>. Dit gaat via het systeem GLASS.
                 </p>
                 <p class="">
                     <a class="btn btn-outline-dark btn-lg" href="https://glass.uva.nl/" target="_blank">Ga naar GLASS om je inschrijvingen te beheren</a>
@@ -110,9 +114,9 @@
             </li>
             <li class="mt-3">
                 <p style="font-size:1.2rem;">
-                    Na inschrijving ontvang je in juni/juli meer (praktische) informatie over de start van de
+                    Ongeveer één maand voor de start ontvang meer (praktische) informatie over de start van de
                     minor en de eerste vakken. Dit geldt ook voor de roosters, die niet eerder
-                    bekend gemaakt kunnen worden. Voor fulltime-studenten geldt sowieso: elke dag aanwezig.
+                    bekend gemaakt kunnen worden. Voor fulltime-studenten geldt sowieso: elke dag aanwezig, dus plan overdags geen werk of andere vakken in zonder dit te overleggen.
                 </p>
             </li>
             
@@ -134,4 +138,3 @@
         Heb je nog vragen? Stuur een e-mail naar <a href="mailto:help@proglab.nl">help@proglab.nl</a>. E&eacute;n van de docenten of assistenten zal je te woord staan.
     </p>
 </div>
-
