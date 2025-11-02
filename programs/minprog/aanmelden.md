@@ -63,8 +63,7 @@
             <li class="mt-3">
                 <p class="" style="font-size:1.2rem;">
                     Als docenten hebben we meer informatie
-                    van je nodig om je te begeleiden bij de aanmelding. Naast de centrale 
-                    aanmelding moet je dus óók dit formulier invullen.
+                    van je nodig om je te begeleiden bij de aanmelding. Onderstaand formulier moet je dus <u>altijd</u> invullen.
                 </p>
                 <p class="">
                     <a class="btn btn-outline-dark btn-lg" href="https://forms.office.com/e/XhFDqzUj3n" target="_blank"> Selectieformulier Minor Programmeren</a>
