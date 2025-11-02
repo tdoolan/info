@@ -42,7 +42,7 @@
             <!-- INTRODUCTIE -->
             <li class="mt-3">
                 <p class="" style="font-size:1.2rem;">
-                    De Minor Programmeren staat het hele jaar open voor inschrijving.
+                    De Minor Programmeren staat het <u>hele jaar</u> open voor inschrijving.
                 </p>
             </li>
             
