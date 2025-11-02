@@ -13,7 +13,7 @@
                     op met je studieadviseur of onderwijsbalie om dit te regelen.
                 </p>
                 <p>
-                    Tip: als je de vakken niet op je diploma hoeft te hebben, dan heb je ook geen toestemming nodig! Je kunt dan na het volgen van de minor een officiële cijferlijst krijgen waar de minorvakken op vermeld staan.</li>
+                    Tip: als je de vakken niet op je diploma hoeft te hebben, dan heb je ook geen toestemming nodig! Je kunt dan na het volgen van de minor een officiële cijferlijst krijgen waar de minorvakken op vermeld staan.
                 </p>
             </li>
             <li class="mt-3">
