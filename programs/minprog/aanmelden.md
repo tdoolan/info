@@ -66,7 +66,7 @@
                     van je nodig om je te begeleiden bij de aanmelding. Onderstaand formulier moet je dus <u>altijd</u> invullen.
                 </p>
                 <p class="">
-                    <a class="btn btn-outline-dark btn-lg" href="https://forms.office.com/e/XhFDqzUj3n" target="_blank"> Selectieformulier Minor Programmeren</a>
+                    <a class="btn btn-outline-dark btn-lg" href="https://forms.office.com/e/XhFDqzUj3n" target="_blank"> Informatieformulier Minor Programmeren</a>
                 </p>
                 <p style="font-size:1.2rem;">
                     Omdat er momenteel nog plek is word je automatisch geplaatst en krijg je geen reactie op het formulier.
