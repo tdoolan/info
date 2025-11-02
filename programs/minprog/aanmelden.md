@@ -80,7 +80,7 @@
                 </p>
             </li>
 
-            <h3>Later regelen</h3>
+            <h3>Later nog zelf regelen</h3>
             <li class="mt-3">
                 <p style="font-size:1.2rem;">
                     Als je mee hebt gedaan aan de centrale aanmelding krijg je vanzelf bericht of je bent geplaatst voor de minor Programmeren.
