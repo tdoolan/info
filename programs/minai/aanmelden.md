@@ -36,9 +36,8 @@
             </li>
             
             <h3>Aanmelding minor</h3>
+            <p><strong>De centrale minoraanmelding is inmiddels gesloten. We accepteren wel nog late aanmeldingen voor het tweede semester van dit studiejaar via het onderstaande formulier.</strong></p>
             <!--
-            <p><strong>De centrale minoraanmelding is inmiddels gesloten. We accepteren wel nog late aanmeldingen voor het eerste semester van volgend studiejaar via het onderstaande formulier.</strong></p>
-            -->
             <li class="mt-3">
                 <p class="" style="font-size:1.2rem;">
                     Meld je tussen <b>13 oktober en 7 november 2025</b> aan voor &eacute;&eacute;n
@@ -59,16 +58,15 @@
                     <a class="btn btn-outline-dark btn-lg" href="https://forms.office.com/Pages/ResponsePage.aspx?id=zcrxoIxhA0S5RXb7PWh05ZTDc7biyulCvpu4U-tarWtUQzE4VEw4MjdDUE4wWk1VTkdKTUM4UEtDVi4u" target="_blank"> Selectieformulier Minor AI</a>
                 </p>
             </li>
-            <!--
+            -->
             <li class="mt-3">
                 <p class="" style="font-size:1.2rem;">
-                    Vul het onderstaande formulier in om de selectieprocedure voor het eerste semester van volgend studiejaar te starten. Wij accepteren hier nog aanmeldingen zolang we plaatsen beschikbaar hebben.
+                    Vul het onderstaande formulier in om de selectieprocedure voor het tweede semester van dit studiejaar te starten. Wij accepteren hier nog aanmeldingen zolang we plaatsen beschikbaar hebben.
                 </p>
                 <p class="">
-                    <a class="btn btn-outline-dark btn-lg" href="https://forms.office.com/e/CKSpEWrcX3" target="_blank"> Selectieformulier Minor AI</a>
+                    <a class="btn btn-outline-dark btn-lg" href="https://forms.office.com/e/ZFH9bEpUXW" target="_blank"> Selectieformulier Minor AI</a>
                 </p>
             </li>
-            -->
             <li class="mt-3">
                 <p class="mb-5" style="font-size:1.2rem;">
                     Hou je studentenmail in de gaten voor het geval wij vragen hebben, 
@@ -94,7 +92,7 @@
                     bekend gemaakt kunnen worden. Voor fulltime geldt sowieso: elke dag aanwezig.
                 </p>
             </li>
-            
+            <!--
             <h3>Te laat?</h3>
             <li class="mt-3">
                 <p style="font-size:1.2rem;">
@@ -104,6 +102,7 @@
                     Na 23 november verschijnt hier informatie over eventuele verlate aanmelding.
                 </p>
             </li>
+            -->
         </ol>
     </div>
 </div>
