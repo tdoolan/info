@@ -226,7 +226,7 @@ Working in the shell do not replace your normal way of using the computer; you a
 
 Instead of learning multiple tools, you use **one tool (uv) for everything**. This has advantages, but also disadvantages. For now it keeps learning simple, and you can expand your knowledge later.
 
-### Install it now
+### Install uv now
 
 Open a terminal and install it.
 
@@ -291,69 +291,60 @@ Your first task is to create a directory where all your **programming-related co
 > In the next section, we will suggest the best options. It's fine if you make a different decision. However, do **not** save your work in Downloads, on the Desktop, or inside other "easy to access" folders. Such directories are not backed up, which will be very sad when your computer crashes and you lose all of it.
 
 
+### Installing SurfDrive
+
+Ideally, your work is automatically backed up. Unfortunately, saving Python projects in iCloud or OneDrive is a bit of a problem. Hence, you will install SurfDrive, as provided by the University of Amsterdam. It will take care of automatic backup.
+
+1. Install [NextCloud](https://nextcloud.com/install/#desktop-files), a tiny program that synchronizes files from your computer to the cloud (only files in a specific directory).
+
+2. When asked, press **Login** and enter the SurfDrive address:
+
+        https://surfdrive.surf.nl
+
+3. Login using your UvA credentials.
+
+4. You will now have a folder called `Nextcloud` or `SurfDrive`.
+
+5. Go to the Nextcloud settings using the **...** button:
+
+    ![](dotdotdot.png)
+
+6. Choose **Edit ignored files**:
+
+    ![](dotmenu.png)
+
+7. Add `.venv` (don't forget the dot!) and check the **Allow deletion** marker:
+
+    ![](ignorevenv.png)
+
 
 ### Good locations for your work
 
 Choosing the right location matters because you do not want to lose your work and you want it to be easy to find.
 
-> One note about **data files**. If you are going to use very large data files in a course, it might not be a good idea to put these in OneDrive, iCloud, SurfDrive or another location that is meant for automatic backup (this is what we suggest below). But it would still be nice if your own code is backed up! In such a case, your teacher can provide you with suggestions on how to manage this.
+> **Do not save your Python work on OneDrive or iCloud**. You should have installed SurfDrive in the previous step.
 
 #### macOS [mac/linux]
 
-Use your **Documents** folder:
+Put a `Programming` folder inside your `Surfdrive` or `Nextcloud` folder:
 
-- Path: `~/Documents`
+- example: `~/Surfdrive/Programming`
+- example: `~/Nextcloud/Programming`
 
-Why this is a good choice:
-
-- It is easy to find in Finder
-- Many apps expect files to be there
-- It is automatically backed up if you use **iCloud Drive** (this is enabled by default on many Macs)
-- You can easily switch to it in the terminal with `cd ~/Documents`
-
-So your programming folder becomes:
-
-- `~/Documents/programming`
 
 #### Windows [windows]
 
-You have two good options:
+Put a `Programming` folder inside your `Surfdrive` or `Nextcloud` folder:
 
-**Option 1: Documents folder**
-
-- Path: `$HOME\Documents`
-
-Why this works well:
-
-- Easy to find in File Explorer
-- Often included in system backups
-
-**Option 2: OneDrive (often already enabled)**
-
-- Path: `C:\Users\<you>\OneDrive\`
-
-Why this is often better:
-
-- Files are automatically synced to the cloud
-- Your work is backed up without extra effort
-- You can access files from other devices
-
-If your Documents folder is already inside OneDrive (common on many systems), then using Documents gives you both benefits.
-
-#### Summary
-
-- macOS: use `~/Documents`
-- Windows: use `$HOME\Documents` or OneDrive (if available)
-
-Then create your programming folder inside that location.
+- example: `C:\Users\<you>\Surfdrive\Programming`
+- example: `C:\Users\<you>\Nextcloud\Programming`
 
 ### Creating a subfolder for one course or project
 
 Let's say that you are using the following path as your programming folder:
 
-- macOS/Linux: `~/Documents/Programming`
-- Windows: `$HOME\Documents\Programming`
-- Windows OneDrive: `$env:OneDrive\Documents\Programming`
+- macOS/Linux: `~/Surfdrive/Programming`
+- Windows: `$HOME\Surfdrive\Programming`
 
 Now it's time to create a course-specific subfolder.
 
@@ -362,8 +353,8 @@ Now it's time to create a course-specific subfolder.
 `mkdir` means “make directory” (create a folder).
 
 ~~~bash
-mkdir -p ~/Documents/Programming/my-course
-cd ~/Documents/Programming/my-course
+mkdir -p ~/Surfdrive/Programming/my-course
+cd ~/Surfdrive/Programming/my-course
 ~~~
 
 #### Windows PowerShell [windows]
@@ -371,8 +362,8 @@ cd ~/Documents/Programming/my-course
 `mkdir` means “make directory” (create a folder).
 
 ~~~powershell
-mkdir $HOME\Documents\Programming\my-course
-cd $HOME\Documents\Programming\my-course
+mkdir $HOME\Surfdrive\Programming\my-course
+cd $HOME\Surfdrive\Programming\my-course
 ~~~
 
 Replace `my-course` with the actual name of your course.
@@ -455,7 +446,7 @@ You may have received a `zip` file for the course or just a single `pyproject.to
 Make sure that you have extracted the files from the zip into an appropriate course folder, or you have placed the downloaded `pyproject.toml`. Then it's just two steps:
 
 ~~~bash
-cd ~/Documents/programming/course-with-project
+cd ~/Surfdrive/programming/course-with-project
 uv sync
 ~~~
 
@@ -507,13 +498,13 @@ So when working of the course you always start with:
 And recall, to go to your course folder, use:
 
 ~~~bash
-cd ~/programming/my-course
+cd ~/Surfdrive/programming/my-course
 ~~~
 
 On Windows PowerShell:
 
 ~~~powershell
-cd $HOME\programming\my-course
+cd $HOME\Surfdrive\programming\my-course
 ~~~
 
 
