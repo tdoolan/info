@@ -172,19 +172,19 @@ This is such an important concept that we elaborate on it once more. You have pr
 
 You will be doing this very often, especially when you start the terminal again. The shell will always load attached to your home directory. That is *not* where you will be saving your files! So you need to move into the right folder before doing anything.
 
-For example, you might want to run a Python program called `mario.py` which is in the `Programming/pyprog` directory in your standard `Documents` directory.
+For example, you might want to run a Python program called `mario.py` which is in the `Programming/pyprog` directory in your `Nextcloud` directory.
 
 #### macOS and Linux [mac/linux]
 
 ~~~bash
-cd ~/Documents/Programming/pyprog
+cd ~/Nextcloud/Programming/pyprog
 uv run mario.py
 ~~~
 
 #### Windows [windows]
 
 ~~~powershell
-cd $HOME\Documents\Programming\pyprog
+cd $HOME\Nextcloud\Programming\pyprog
 uv run mario.py
 ~~~
 
@@ -291,11 +291,11 @@ Your first task is to create a directory where all your **programming-related co
 > In the next section, we will suggest the best options. It's fine if you make a different decision. However, do **not** save your work in Downloads, on the Desktop, or inside other "easy to access" folders. Such directories are not backed up, which will be very sad when your computer crashes and you lose all of it.
 
 
-### Installing SurfDrive
+### Installing Nextcloud
 
-Ideally, your work is automatically backed up. Unfortunately, saving Python projects in iCloud or OneDrive is a bit of a problem. Hence, you will install SurfDrive, as provided by the University of Amsterdam. It will take care of automatic backup.
+Ideally, your work is automatically backed up. Unfortunately, saving Python projects in iCloud or OneDrive is a bit of a problem. Hence, you will install Nextcloud, as provided by the University of Amsterdam. It will take care of automatic backup.
 
-1. Install [NextCloud](https://nextcloud.com/install/#desktop-files), a tiny program that synchronizes files from your computer to the cloud (only files in a specific directory).
+1. Install <a href="https://nextcloud.com/install/#desktop-files" target="_blank" rel="noopener">Nextcloud</a>, a tiny program that synchronizes files from your computer to the cloud (only files in a specific directory).
 
 2. When asked, press **Login** and enter the SurfDrive address:
 
@@ -303,7 +303,7 @@ Ideally, your work is automatically backed up. Unfortunately, saving Python proj
 
 3. Login using your UvA credentials.
 
-4. You will now have a folder called `Nextcloud` or `SurfDrive`.
+4. You will now have a folder called `Nextcloud`.
 
 5. Go to the Nextcloud settings using the **...** button:
 
@@ -322,29 +322,27 @@ Ideally, your work is automatically backed up. Unfortunately, saving Python proj
 
 Choosing the right location matters because you do not want to lose your work and you want it to be easy to find.
 
-> **Do not save your Python work on OneDrive or iCloud**. You should have installed SurfDrive in the previous step.
+> **Do not save your Python work on OneDrive or iCloud**. You should have installed Nextcloud in the previous step.
 
 #### macOS [mac/linux]
 
-Put a `Programming` folder inside your `Surfdrive` or `Nextcloud` folder:
+Put a `Programming` folder inside your `Nextcloud` folder:
 
-- example: `~/Surfdrive/Programming`
 - example: `~/Nextcloud/Programming`
 
 
 #### Windows [windows]
 
-Put a `Programming` folder inside your `Surfdrive` or `Nextcloud` folder:
+Put a `Programming` folder inside your `Nextcloud` folder:
 
-- example: `C:\Users\<you>\Surfdrive\Programming`
 - example: `C:\Users\<you>\Nextcloud\Programming`
 
 ### Creating a subfolder for one course or project
 
 Let's say that you are using the following path as your programming folder:
 
-- macOS/Linux: `~/Surfdrive/Programming`
-- Windows: `$HOME\Surfdrive\Programming`
+- macOS/Linux: `~/Nextcloud/Programming`
+- Windows: `$HOME\Nextcloud\Programming`
 
 Now it's time to create a course-specific subfolder.
 
@@ -353,8 +351,8 @@ Now it's time to create a course-specific subfolder.
 `mkdir` means “make directory” (create a folder).
 
 ~~~bash
-mkdir -p ~/Surfdrive/Programming/my-course
-cd ~/Surfdrive/Programming/my-course
+mkdir -p ~/Nextcloud/Programming/my-course
+cd ~/Nextcloud/Programming/my-course
 ~~~
 
 #### Windows PowerShell [windows]
@@ -362,8 +360,8 @@ cd ~/Surfdrive/Programming/my-course
 `mkdir` means “make directory” (create a folder).
 
 ~~~powershell
-mkdir $HOME\Surfdrive\Programming\my-course
-cd $HOME\Surfdrive\Programming\my-course
+mkdir $HOME\Nextcloud\Programming\my-course
+cd $HOME\Nextcloud\Programming\my-course
 ~~~
 
 Replace `my-course` with the actual name of your course.
@@ -446,7 +444,7 @@ You may have received a `zip` file for the course or just a single `pyproject.to
 Make sure that you have extracted the files from the zip into an appropriate course folder, or you have placed the downloaded `pyproject.toml`. Then it's just two steps:
 
 ~~~bash
-cd ~/Surfdrive/programming/course-with-project
+cd ~/Nextcloud/programming/course-with-project
 uv sync
 ~~~
 
@@ -498,13 +496,13 @@ So when working of the course you always start with:
 And recall, to go to your course folder, use:
 
 ~~~bash
-cd ~/Surfdrive/programming/my-course
+cd ~/Nextcloud/programming/my-course
 ~~~
 
 On Windows PowerShell:
 
 ~~~powershell
-cd $HOME\Surfdrive\programming\my-course
+cd $HOME\Nextcloud\programming\my-course
 ~~~
 
 
@@ -586,7 +584,7 @@ When you need extra packages for the course, install them from **inside the cour
 Example:
 
 ~~~bash
-cd ~/programming/my-course
+cd ~/Nextcloud/programming/my-course
 uv pip install requests
 ~~~
 
@@ -603,7 +601,7 @@ uv pip install numpy pandas matplotlib
 In case your teacher provided a `requirements.txt` they already had some packages in mind that you need. Run this command once to install the packages into your environment:
 
 ~~~bash
-cd ~/programming/my-course
+cd ~/Nextcloud/programming/my-course
 uv pip install -r requirements.txt
 ~~~
 
@@ -612,7 +610,7 @@ uv pip install -r requirements.txt
 If your course works with a `pyproject.toml` you need to add your package to the project using another command:
 
 ~~~bash
-cd ~/programming/my-course
+cd ~/Nextcloud/programming/my-course
 uv add rich
 ~~~
 
@@ -625,7 +623,7 @@ To understand projects with `pyproject.toml` better, read the [Projects guide](h
 
 For each new course:
 
-- create a new course subfolder inside `~/Documents/programming`
+- create a new course subfolder inside `~/Nextcloud/programming`
 - go into that subfolder create a virtual environment with `uv venv`
 - keep your course files there
 - use `uv run` from inside that folder
@@ -636,8 +634,8 @@ For each new course:
 #### macOS and Linux [mac/linux]
 
 ~~~bash
-mkdir -p ~/programming/python101
-cd ~/programming/python101
+mkdir -p ~/Nextcloud/programming/python101
+cd ~/Nextcloud/programming/python101
 uv venv --python 3.14
 uv pip install requests
 uv run python
@@ -646,8 +644,8 @@ uv run python
 #### Windows PowerShell [windows]
 
 ~~~powershell
-mkdir $HOME\programming\python101
-cd $HOME\programming\python101
+mkdir $HOME\Nextcloud\programming\python101
+cd $HOME\Nextcloud\programming\python101
 uv venv --python 3.14
 uv pip install requests
 uv run python
