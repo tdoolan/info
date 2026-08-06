@@ -660,4 +660,23 @@ Do not:
 - mix multiple courses in one folder
 - forget to move into the course folder before running commands
 
+
+## Check your installation
+
+Not sure whether everything above actually worked? Paste the command below into your terminal. It checks that `uv` is installed, that it can run a recent enough Python version, and that your `Nextcloud` folder is set up correctly (including the `.venv` exclusion).
+
+#### macOS and Linux [mac/linux]
+
+~~~bash
+curl -LsSf https://www.proglab.nl/welkom/install/uv/check.sh | bash
+~~~
+
+#### Windows PowerShell [windows]
+
+~~~powershell
+irm https://www.proglab.nl/welkom/install/uv/check.ps1 | iex
+~~~
+
+If anything is reported as failed or a warning, fix it and run the command again.
+
 This is the end of the tutorial. If you have any questions, do not hesitate to talk to other students, to your teaching assistant, the teacher, or the helpdesk.
