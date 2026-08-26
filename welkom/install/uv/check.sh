@@ -1,15 +1,16 @@
 #!/usr/bin/env bash
-# Proglab uv/Nextcloud install check (macOS/Linux)
+# Proglab uv install check (macOS/Linux)
 # Usage: curl -LsSf https://www.proglab.nl/welkom/install/uv/check.sh | bash
 set -u
 shopt -s nullglob
 
 # Look for a subfolder of $1 whose name case-insensitively matches one of
 # the remaining arguments. Prints the matching path and returns 0, or
-# returns 1 if nothing matched.
+# returns 1 if nothing matched (including when $1 does not exist).
 find_subdir_ci() {
   local base="$1" entry name lower want
   shift
+  [ -d "$base" ] || return 1
   for entry in "$base"/*/; do
     name="${entry%/}"
     name="${name##*/}"
@@ -23,11 +24,6 @@ find_subdir_ci() {
   done
   return 1
 }
-
-# Most students have a folder named "Nextcloud" in their home directory, but
-# some set their account up a while ago and still have it named "Surfdrive"
-# or "ownCloud" (older names for the same kind of folder).
-find_cloud_dir() { find_subdir_ci "$HOME" nextcloud surfdrive owncloud; }
 
 if [ -t 1 ]; then
   RESET=$'\033[0m'
@@ -109,58 +105,58 @@ else
     "Fix the uv problem above first, then run this check again."
 fi
 
-# 3. Cloud-sync folder exists (Nextcloud, or an older Surfdrive/ownCloud setup)
-cloud_dir=$(find_cloud_dir || true)
-if [ -n "$cloud_dir" ]; then
-  cloud_name="${cloud_dir##*/}"
-  report pass "found your $cloud_name folder" \
-    "This is the folder that gets backed up to the cloud automatically. Save" \
-    "your course work somewhere inside it, for example in $cloud_name/Programming."
+# 3. Programming folder exists in the home directory
+programming_dir=$(find_subdir_ci "$HOME" programming || true)
+if [ -n "$programming_dir" ]; then
+  report pass "found your programming folder: ${programming_dir/#$HOME/~}" \
+    "This is where you keep a subfolder for every course. It is a plain" \
+    "folder on your own computer, which is exactly what you want: no cloud" \
+    "service is going to move, lock or half-download your files."
 else
-  report fail "no Nextcloud (or Surfdrive/ownCloud) folder in your home directory" \
-    "This usually means Nextcloud has not been installed yet, or you have" \
-    "not logged in with your UvA account. Go back to the \"Installing" \
-    "Nextcloud\" step and finish it, then run this check again."
+  report fail "no Programming folder in your home directory" \
+    "The tutorial has you create one folder that holds all your course" \
+    "folders. Create it with this command, then run this check again:" \
+    "    mkdir -p ~/Programming"
 fi
 
-# 4. .venv excluded from syncing
-if [ -n "$cloud_dir" ]; then
-  exclude_file="$cloud_dir/.sync-exclude.lst"
-  if [ -f "$exclude_file" ] && grep -q '\.venv' "$exclude_file" 2>/dev/null; then
-    report pass ".venv is excluded from syncing" \
-      "Good. The .venv folder holds every package installed for a course. It" \
-      "is large, and uv can always recreate it, so it does not need to be" \
-      "backed up."
-  else
-    report warn "$cloud_name is probably still trying to sync .venv folders" \
-      "The .venv folder holds every package installed for a course. It is" \
-      "large, and uv can always recreate it, so it does not need to be backed" \
-      "up. Go back to the \"Add .venv\" step in the tutorial and add .venv to" \
-      "the ignored files, then run this check again."
-  fi
-else
-  report warn "skipped: could not check the .venv exclusion" \
-    "This is because no Nextcloud (or Surfdrive/ownCloud) folder was found" \
-    "above. Fix that first, then run this check again."
-fi
+# 4. No Programming folder in a synced or otherwise unsuitable location
+#
+# Course work must not live in a folder that a cloud service syncs, or in
+# Documents/Desktop/Downloads (which on many machines are synced without
+# the student realising it).
+bad_dirs=()
+for base in "$HOME/Documents" "$HOME/Desktop" "$HOME/Downloads" \
+            "$HOME/Library/Mobile Documents/com~apple~CloudDocs"; do
+  found=$(find_subdir_ci "$base" programming || true)
+  [ -n "$found" ] && bad_dirs+=("$found")
+done
+# Cloud clients put their folder directly in the home directory. OneDrive
+# for an organisation is named like "OneDrive - Universiteit van Amsterdam".
+for entry in "$HOME"/*/; do
+  name="${entry%/}"; name="${name##*/}"
+  lower=$(printf '%s' "$name" | tr '[:upper:]' '[:lower:]')
+  case "$lower" in
+    onedrive|onedrive\ -\ *|dropbox|google\ drive|nextcloud|surfdrive|owncloud)
+      found=$(find_subdir_ci "${entry%/}" programming || true)
+      [ -n "$found" ] && bad_dirs+=("$found")
+      ;;
+  esac
+done
 
-# 5. Programming folder exists inside the cloud folder
-if [ -n "$cloud_dir" ]; then
-  programming_dir=$(find_subdir_ci "$cloud_dir" programming || true)
-  if [ -n "$programming_dir" ]; then
-    programming_name="${programming_dir##*/}"
-    report pass "found a $programming_name folder inside $cloud_name" \
-      "This is where the tutorial has you keep a subfolder for every course."
-  else
-    report warn "no Programming folder inside $cloud_name yet" \
-      "The tutorial has you create one to keep all your course folders" \
-      "together. Create it with this command, then run this check again:" \
-      "    mkdir -p ~/$cloud_name/Programming"
-  fi
+if [ "${#bad_dirs[@]}" -eq 0 ]; then
+  report pass "no course work in a synced folder" \
+    "Nothing was found in Documents, Desktop, Downloads, OneDrive, iCloud" \
+    "Drive or a similar folder. Keep it that way."
 else
-  report warn "skipped: could not check for a Programming folder" \
-    "This is because no Nextcloud (or Surfdrive/ownCloud) folder was found" \
-    "above. Fix that first, then run this check again."
+  details=(
+    "Cloud services rewrite, lock and partially download files, which"
+    "breaks virtual environments in ways that are hard to diagnose. Move"
+    "the folder(s) below to ~/Programming, then run this check again:"
+  )
+  for bad in "${bad_dirs[@]}"; do
+    details+=("    $bad")
+  done
+  report fail "found course work in a folder you should not use" "${details[@]}"
 fi
 
 echo
@@ -168,6 +164,12 @@ line
 echo
 if [ "$fail_n" -eq 0 ] && [ "$warn_n" -eq 0 ]; then
   printf '  %s%s%s\n' "$OK" "Everything checks out. You can continue with the tutorial." "$RESET"
+  echo
+  printf '  %s%s%s\n' "$ACCENT" "Next: go to your programming folder and create a folder for your course." "$RESET"
+  echo
+  printf '      %s%s%s\n' "$GRAY" "cd ${programming_dir/#$HOME/~}" "$RESET"
+  printf '      %s%s%s\n' "$GRAY" "mkdir my-course" "$RESET"
+  printf '      %s%s%s\n' "$GRAY" "cd my-course" "$RESET"
 elif [ "$fail_n" -eq 0 ]; then
   printf '  %s%s%s\n' "$NOTOK" "Nothing is broken, but read the warning(s) above." "$RESET"
 else

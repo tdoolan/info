@@ -1,4 +1,4 @@
-# Proglab uv/Nextcloud install check (Windows)
+# Proglab uv install check (Windows)
 # Usage: irm https://www.proglab.nl/welkom/install/uv/check.ps1 | iex
 
 $Esc = [char]27
@@ -7,18 +7,12 @@ $Accent = "$Esc[36m"
 $Ok = "$Esc[32m"; $NotOk = "$Esc[37m"; $Gray = "$Esc[90m"
 
 # Look for a subfolder of $Base whose name case-insensitively matches one
-# of the given names. Returns the full path of the first match, or $null.
+# of the given names. Returns the full path of the first match, or $null
+# (also when $Base does not exist).
 function Find-SubdirCI([string]$Base, [string[]]$Names) {
     Get-ChildItem -Path $Base -Directory -ErrorAction SilentlyContinue |
         Where-Object { $Names -contains $_.Name.ToLower() } |
         Select-Object -First 1 -ExpandProperty FullName
-}
-
-# Most students have a folder named "Nextcloud" in their home directory, but
-# some set their account up a while ago and still have it named "Surfdrive"
-# or "ownCloud" (older names for the same kind of folder).
-function Find-CloudDir {
-    Find-SubdirCI -Base $HOME -Names @('nextcloud', 'surfdrive', 'owncloud')
 }
 
 function Write-Accent([string]$Text) {
@@ -104,67 +98,78 @@ if ($uvCmd) {
     )
 }
 
-# 3. Cloud-sync folder exists (Nextcloud, or an older Surfdrive/ownCloud setup)
-$cloudDir = Find-CloudDir
-if ($cloudDir) {
-    $cloudName = Split-Path $cloudDir -Leaf
-    Report pass "found your $cloudName folder" @(
-        "This is the folder that gets backed up to the cloud automatically. Save"
-        "your course work somewhere inside it, for example in $cloudName\Programming."
+# 3. Programming folder exists at an acceptable location
+#
+# The tutorial tells students to use C:\programming. A folder directly in
+# the home directory is fine too: OneDrive only takes over Desktop,
+# Documents and Pictures, so $HOME\Programming is not synced either.
+$systemDrive = if ($env:SystemDrive) { "$env:SystemDrive\" } else { "C:\" }
+$programmingDir = Find-SubdirCI -Base $systemDrive -Names @('programming')
+if (-not $programmingDir) {
+    $programmingDir = Find-SubdirCI -Base $HOME -Names @('programming')
+}
+if ($programmingDir) {
+    Report pass "found your programming folder: $programmingDir" @(
+        "This is where you keep a subfolder for every course. It is a plain"
+        "folder on your own computer, which is exactly what you want: no cloud"
+        "service is going to move, lock or half-download your files."
     )
 } else {
-    Report fail "no Nextcloud (or Surfdrive/ownCloud) folder in your home directory" @(
-        "This usually means Nextcloud has not been installed yet, or you have"
-        "not logged in with your UvA account. Go back to the 'Installing"
-        "Nextcloud' step and finish it, then run this check again."
+    Report fail "no programming folder found" @(
+        "The tutorial has you create one folder that holds all your course"
+        "folders. Create it with this command, then run this check again:"
+        "    mkdir C:\programming"
     )
 }
 
-# 4. .venv excluded from syncing
-if ($cloudDir) {
-    $excludeFile = Join-Path $cloudDir ".sync-exclude.lst"
-    $venvExcluded = (Test-Path $excludeFile -PathType Leaf) -and (Select-String -Path $excludeFile -Pattern '\.venv' -Quiet)
-    if ($venvExcluded) {
-        Report pass ".venv is excluded from syncing" @(
-            "Good. The .venv folder holds every package installed for a course. It"
-            "is large, and uv can always recreate it, so it does not need to be"
-            "backed up."
-        )
-    } else {
-        Report warn "$cloudName is probably still trying to sync .venv folders" @(
-            "The .venv folder holds every package installed for a course. It is"
-            "large, and uv can always recreate it, so it does not need to be backed"
-            "up. Go back to the 'Add .venv' step in the tutorial and add .venv to"
-            "the ignored files, then run this check again."
-        )
-    }
-} else {
-    Report warn "skipped: could not check the .venv exclusion" @(
-        "This is because no Nextcloud (or Surfdrive/ownCloud) folder was found"
-        "above. Fix that first, then run this check again."
-    )
-}
+# 4. No Programming folder in a synced or otherwise unsuitable location
+#
+# Course work must not live in a folder that a cloud service syncs, or in
+# Documents/Desktop/Downloads (which on many machines are synced without
+# the student realising it).
+$badBases = @(
+    (Join-Path $HOME 'Documents')
+    (Join-Path $HOME 'Desktop')
+    (Join-Path $HOME 'Downloads')
+)
 
-# 5. Programming folder exists inside the cloud folder
-if ($cloudDir) {
-    $programmingDir = Find-SubdirCI -Base $cloudDir -Names @('programming')
-    if ($programmingDir) {
-        $programmingName = Split-Path $programmingDir -Leaf
-        Report pass "found a $programmingName folder inside $cloudName" @(
-            "This is where the tutorial has you keep a subfolder for every course."
-        )
-    } else {
-        Report warn "no Programming folder inside $cloudName yet" @(
-            "The tutorial has you create one to keep all your course folders"
-            "together. Create it with this command, then run this check again:"
-            "    mkdir `$HOME\$cloudName\Programming"
-        )
-    }
-} else {
-    Report warn "skipped: could not check for a Programming folder" @(
-        "This is because no Nextcloud (or Surfdrive/ownCloud) folder was found"
-        "above. Fix that first, then run this check again."
+# With OneDrive's Known Folder Move, $HOME\Documents is an empty decoy and
+# the real Documents folder lives inside OneDrive. Ask Windows where it is.
+try {
+    $realDocs = [Environment]::GetFolderPath('MyDocuments')
+    if ($realDocs) { $badBases += $realDocs }
+} catch { }
+
+# Cloud clients put their folder directly in the home directory. OneDrive
+# for an organisation is named like "OneDrive - Universiteit van Amsterdam".
+Get-ChildItem -Path $HOME -Directory -ErrorAction SilentlyContinue |
+    Where-Object {
+        $n = $_.Name.ToLower()
+        $n -like 'onedrive*' -or $n -eq 'dropbox' -or $n -eq 'google drive' -or
+        $n -eq 'nextcloud' -or $n -eq 'surfdrive' -or $n -eq 'owncloud'
+    } |
+    ForEach-Object { $badBases += $_.FullName }
+
+$badDirs = @()
+foreach ($base in ($badBases | Select-Object -Unique)) {
+    $found = Find-SubdirCI -Base $base -Names @('programming')
+    if ($found) { $badDirs += $found }
+}
+$badDirs = @($badDirs | Select-Object -Unique)
+
+if ($badDirs.Count -eq 0) {
+    Report pass "no course work in a synced folder" @(
+        "Nothing was found in Documents, Desktop, Downloads, OneDrive or a"
+        "similar folder. Keep it that way."
     )
+} else {
+    $detail = @(
+        "Cloud services rewrite, lock and partially download files, which"
+        "breaks virtual environments in ways that are hard to diagnose. Move"
+        "the folder(s) below to C:\programming, then run this check again:"
+    )
+    foreach ($bad in $badDirs) { $detail += "    $bad" }
+    Report fail "found course work in a folder you should not use" $detail
 }
 
 Write-Host ""
@@ -173,6 +178,12 @@ Write-Host ""
 if ($failN -eq 0 -and $warnN -eq 0) {
     Write-Host "  $Ok" -NoNewline
     Write-Host "Everything checks out. You can continue with the tutorial.$Reset"
+    Write-Host ""
+    Write-Accent "  Next: go to your programming folder and create a folder for your course."
+    Write-Host ""
+    Write-Host "      $Gray" -NoNewline; Write-Host "cd $programmingDir$Reset"
+    Write-Host "      $Gray" -NoNewline; Write-Host "mkdir my-course$Reset"
+    Write-Host "      $Gray" -NoNewline; Write-Host "cd my-course$Reset"
 } elseif ($failN -eq 0) {
     Write-Host "  $NotOk" -NoNewline
     Write-Host "Nothing is broken, but read the warning(s) above.$Reset"

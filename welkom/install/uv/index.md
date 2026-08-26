@@ -81,7 +81,7 @@ This means that you can use slightly shorter paths to the same location:
 - `$HOME\Documents\UvA\intro` (Windows)
 - `$env:OneDrive\Documents\UvA\intro` (Windows with OneDrive)
 
-> That last one can be used when you are on Windows and use OneDrive. In that case the directory `$HOME\Documents` may be empty, and instead your real `Documents` directory is inside the `OneDrive` directory. This is because OneDrive can only manage file inside the `OneDrive` directory. It is also possible that you have files in both places. That's something you should fix.
+> That last one shows what happens on Windows with OneDrive. Your `Documents` and `Desktop` folders are then not really in `$HOME` at all: OneDrive has moved them inside the `OneDrive` directory, so it can synchronize them. The directory `$HOME\Documents` may look empty, or you may even have files in both places. Later in this tutorial you will read why you should *not* put your programming work in a folder like that.
 
 ## Working with your computer from a shell
 
@@ -172,19 +172,19 @@ This is such an important concept that we elaborate on it once more. You have pr
 
 You will be doing this very often, especially when you start the terminal again. The shell will always load attached to your home directory. That is *not* where you will be saving your files! So you need to move into the right folder before doing anything.
 
-For example, you might want to run a Python program called `mario.py` which is in the `Programming/pyprog` directory in your `Nextcloud` directory.
+For example, you might want to run a Python program called `mario.py` which is in a directory called `pyprog`. Later in this tutorial you will decide where directories like that should live on your computer; for now, just assume the full path is the one below.
 
 #### macOS and Linux [mac/linux]
 
 ~~~bash
-cd ~/Nextcloud/Programming/pyprog
+cd ~/example/pyprog
 uv run mario.py
 ~~~
 
 #### Windows [windows]
 
 ~~~powershell
-cd $HOME\Nextcloud\Programming\pyprog
+cd C:\example\pyprog
 uv run mario.py
 ~~~
 
@@ -286,63 +286,60 @@ Sometimes this will list a few older versions, as well. That is fine: in a later
 
 You will now need to decide where your course files are going to be saved on your computer. Probably you have already created a place for university work, for example in your `Documents` directory. You may or may not have organized it, for example by making a folder for each separate course.
 
-Your first task is to create a directory where all your **programming-related course** files are going to be. This is not necessarily the same directory as where other university work is stored. You will have multiple programming courses, and maybe a few projects, so it's good to make a dedicated directory for that.
+Your first task is to create a **separate** directory where all your **programming-related course** files are going to be. This is not necessarily the same directory as where other university work is stored. You will have multiple programming courses, and maybe a few projects, so it's good to make a dedicated directory for that.
 
-> In the next section, we will suggest the best options. It's fine if you make a different decision. However, do **not** save your work in Downloads, on the Desktop, or inside other "easy to access" folders. Such directories are not backed up, which will be very sad when your computer crashes and you lose all of it.
+> **The most important rule of this whole section**: do **not** put that directory in `Documents`, on the `Desktop`, in `Downloads`, in `OneDrive`, or in `iCloud Drive`.
 
+### Why not in Documents, OneDrive or iCloud
 
-### Installing Nextcloud
+Cloud services like OneDrive and iCloud Drive constantly rewrite, lock and partially download the files inside the folders they manage. The virtual environment you are about to create contains thousands of small files. When a cloud service is halfway through synchronizing those, your programs stop working, and the error messages you get will not tell you why.
 
-Ideally, your work is automatically backed up. Unfortunately, saving Python projects in iCloud or OneDrive is a bit of a problem. Hence, you will install Nextcloud, as provided by the University of Amsterdam. It will take care of automatic backup.
+On Windows and macOS this is easy to run into by accident, because `Documents` and `Desktop` are often managed by OneDrive or iCloud without you ever asking for it. That is why the rule is to **stay out of those folders entirely**, and to create one plain folder somewhere else.
 
-1. Install <a href="https://nextcloud.com/install/#desktop-files" target="_blank" rel="noopener">Nextcloud</a>, a tiny program that synchronizes files from your computer to the cloud (only files in a specific directory).
-
-2. When asked, press **Login** and enter the SurfDrive address:
-
-        https://surfdrive.surf.nl
-
-3. Login using your UvA credentials.
-
-4. You will now have a folder called `Nextcloud`.
-
-5. Go to the Nextcloud settings using the **...** button:
-
-    ![](dotdotdot.png)
-
-6. Choose **Edit ignored files**:
-
-    ![](dotmenu.png)
-
-7. Add `.venv` (don't forget the dot!) and check the **Allow deletion** marker:
-
-    ![](ignorevenv.png)
-
+> Your programming work is then not backed up automatically. Making backups is your own responsibility. Later in your studies you will learn to use `git`, which solves this properly.
 
 ### Good locations for your work
 
 Choosing the right location matters because you do not want to lose your work and you want it to be easy to find.
 
-> **Do not save your Python work on OneDrive or iCloud**. You should have installed Nextcloud in the previous step.
+#### macOS and Linux [mac/linux]
 
-#### macOS [mac/linux]
+Put a `Programming` folder directly in your home directory:
 
-Put a `Programming` folder inside your `Nextcloud` folder:
+- example: `/Users/yourname/Programming`, or written with the shortcut: `~/Programming`
 
-- example: `~/Nextcloud/Programming`
+Create it now:
 
+~~~bash
+mkdir -p ~/Programming
+~~~
 
 #### Windows [windows]
 
-Put a `Programming` folder inside your `Nextcloud` folder:
+Put a `programming` folder directly on your `C:` drive, well away from anything OneDrive manages:
 
-- example: `C:\Users\<you>\Nextcloud\Programming`
+- example: `C:\programming`
+
+Create it now:
+
+~~~powershell
+mkdir C:\programming
+~~~
+
+> If Windows refuses to create that folder, use `mkdir $HOME\Programming` instead and use that path everywhere below. That folder is not synchronized by OneDrive either.
+
+### Already have course work in the wrong place?
+
+If you have programming work in `Documents`, on the `Desktop`, in `Downloads`, in `OneDrive`, in `iCloud Drive` or in a `Nextcloud` folder, move that folder now into the new location you just created. Use Finder or Explorer for this; dragging the folder is fine.
+
+Delete any `.venv` folder you find inside it. You do not need to keep it, and you will create a fresh one in the next step.
 
 ### Creating a subfolder for one course or project
 
 Let's say that you are using the following path as your programming folder:
 
-- macOS/Linux: `~/Nextcloud/Programming`
-- Windows: `$HOME\Nextcloud\Programming`
+- macOS/Linux: `~/Programming`
+- Windows: `C:\programming`
 
 Now it's time to create a course-specific subfolder.
 
@@ -351,8 +348,8 @@ Now it's time to create a course-specific subfolder.
 `mkdir` means “make directory” (create a folder).
 
 ~~~bash
-mkdir -p ~/Nextcloud/Programming/my-course
-cd ~/Nextcloud/Programming/my-course
+mkdir -p ~/Programming/my-course
+cd ~/Programming/my-course
 ~~~
 
 #### Windows PowerShell [windows]
@@ -360,8 +357,8 @@ cd ~/Nextcloud/Programming/my-course
 `mkdir` means “make directory” (create a folder).
 
 ~~~powershell
-mkdir $HOME\Nextcloud\Programming\my-course
-cd $HOME\Nextcloud\Programming\my-course
+mkdir C:\programming\my-course
+cd C:\programming\my-course
 ~~~
 
 Replace `my-course` with the actual name of your course.
@@ -397,15 +394,40 @@ In the next sections we provide instructions for each of these cases.
 
 ### Installing an empty virtual environment [nothing]
 
-> Follow these instructions only if you have no `requirements.txt` and no `pyproject.toml` from the course! If you have either of those, skip to the next steps.
+> Follow these instructions only if you have no `requirements.txt` and no `pyproject.toml` from the course! If you do have those files, follow the other instructions.
 
-From **inside** the course folder, run:
+
+#### macOS and Linux [mac/linux]
+
+Make sure you're **inside** the course folder:
+
+~~~bash
+cd ~/Programming/my-course
+~~~
+
+Then run:
+
+~~~bash
+uv venv --python 3.14
+~~~
+
+#### Windows PowerShell [windows]
+
+Make sure you're **inside** the course folder:
+
+~~~powershell
+cd C:\programming\my-course
+~~~
+
+Then run:
 
 ~~~bash
 uv venv --python 3.14
 ~~~
 
 Here, we have added the option `--python 3.14` to specify the version that we just installed. This is useful in case there are multiple Python versions on your computer (and there probably are).
+
+### What does `uv venv` do?
 
 The command creates a `.venv` folder in the course directory. Although it's important to keep it, no need to look at it: the `.venv` folder is managed automatically by `uv`. Therefore:
 
@@ -444,7 +466,7 @@ You may have received a `zip` file for the course or just a single `pyproject.to
 Make sure that you have extracted the files from the zip into an appropriate course folder, or you have placed the downloaded `pyproject.toml`. Then it's just two steps:
 
 ~~~bash
-cd ~/Nextcloud/programming/course-with-project
+cd ~/Programming/course-with-project
 uv sync
 ~~~
 
@@ -496,13 +518,13 @@ So when working of the course you always start with:
 And recall, to go to your course folder, use:
 
 ~~~bash
-cd ~/Nextcloud/programming/my-course
+cd ~/Programming/my-course
 ~~~
 
 On Windows PowerShell:
 
 ~~~powershell
-cd $HOME\Nextcloud\programming\my-course
+cd C:\programming\my-course
 ~~~
 
 
@@ -584,7 +606,7 @@ When you need extra packages for the course, install them from **inside the cour
 Example:
 
 ~~~bash
-cd ~/Nextcloud/programming/my-course
+cd ~/Programming/my-course
 uv pip install requests
 ~~~
 
@@ -601,7 +623,7 @@ uv pip install numpy pandas matplotlib
 In case your teacher provided a `requirements.txt` they already had some packages in mind that you need. Run this command once to install the packages into your environment:
 
 ~~~bash
-cd ~/Nextcloud/programming/my-course
+cd ~/Programming/my-course
 uv pip install -r requirements.txt
 ~~~
 
@@ -610,7 +632,7 @@ uv pip install -r requirements.txt
 If your course works with a `pyproject.toml` you need to add your package to the project using another command:
 
 ~~~bash
-cd ~/Nextcloud/programming/my-course
+cd ~/Programming/my-course
 uv add rich
 ~~~
 
@@ -619,11 +641,11 @@ To understand projects with `pyproject.toml` better, read the [Projects guide](h
 
 
 
-## Recommended workflow
+## Recommended workflow to setup a course
 
 For each new course:
 
-- create a new course subfolder inside `~/Nextcloud/programming`
+- create a new course subfolder inside your programming folder (`~/Programming` or `C:\programming`)
 - go into that subfolder create a virtual environment with `uv venv`
 - keep your course files there
 - use `uv run` from inside that folder
@@ -634,8 +656,8 @@ For each new course:
 #### macOS and Linux [mac/linux]
 
 ~~~bash
-mkdir -p ~/Nextcloud/programming/python101
-cd ~/Nextcloud/programming/python101
+mkdir -p ~/Programming/python101
+cd ~/Programming/python101
 uv venv --python 3.14
 uv pip install requests
 uv run python
@@ -644,8 +666,8 @@ uv run python
 #### Windows PowerShell [windows]
 
 ~~~powershell
-mkdir $HOME\Nextcloud\programming\python101
-cd $HOME\Nextcloud\programming\python101
+mkdir C:\programming\python101
+cd C:\programming\python101
 uv venv --python 3.14
 uv pip install requests
 uv run python
@@ -655,6 +677,7 @@ uv run python
 
 Do not:
 
+- create projects in `Documents`, on the `Desktop`, in `OneDrive` or in `iCloud Drive`
 - create projects in Downloads or other temporary folders
 - install all packages globally
 - mix multiple courses in one folder
@@ -663,7 +686,7 @@ Do not:
 
 ## Check your installation
 
-Not sure whether everything above actually worked? Paste the command below into your terminal. It checks that `uv` is installed, that it can run a recent enough Python version, and that your `Nextcloud` folder is set up correctly (including the `.venv` exclusion).
+Not sure whether everything above actually worked? Paste the command below into your terminal. It checks that `uv` is installed, that it can run a recent enough Python version, that you have a programming folder in the right place, and that you have no course work left inside a folder that gets synchronized.
 
 #### macOS and Linux [mac/linux]
 
