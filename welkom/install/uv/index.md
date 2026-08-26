@@ -218,7 +218,7 @@ Working in the shell do not replace your normal way of using the computer; you a
 
 ## Installing uv and Python
 
-`uv` is a Python package and environment manager. It replaces several older tools you may see in other guides, such as:
+`uv` is a Python package and environment manager. This means that it installs Python for you, in the version you need, with the extra software your project requires. It replaces several older tools you may see in other guides, such as:
 
 - `pip` (for installing packages)
 - `venv` (for creating virtual environments)
@@ -228,7 +228,7 @@ Instead of learning multiple tools, you use **one tool (uv) for everything**. Th
 
 ### Install uv now
 
-Open a terminal and install it.
+Open a terminal and install it:
 
 #### macOS and Linux [mac/linux]
 
